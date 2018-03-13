@@ -1,0 +1,167 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: userlists\n"
+"Report-Msgid-Bugs-To: packaging@turris.cz\n"
+"POT-Creation-Date: 2018-03-13 16:02\n"
+"PO-Revision-Date: 2018-03-13 16:02\n"
+"Last-Translator: Karel Kočí <karel.koci@nic.cz>\n"
+"Language-Team: Czech\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ./definitions.json
+msgid "Access tokens"
+msgstr "Přístupové tokeny"
+
+#: ./definitions.json
+msgid ""
+"A Foris plugin allowing to manage remote API access tokens (for example for "
+"use in Spectator or Android application)."
+msgstr ""
+"Správa tokenů pro vzdálený API přístup (např. pro Spectator, nebo Android "
+"aplikaci) ve Forisu."
+
+#: ./definitions.json
+msgid "Home automation"
+msgstr "Domácí automatizace"
+
+#: ./definitions.json
+msgid "Control software for home automation, including Turris Gadgets."
+msgstr ""
+"Software pro ovládání domácí automatizace, včetně Turris Gadgets."
+
+#: ./definitions.json
+msgid "Device detection"
+msgstr "Detekce připojených zařízení"
+
+#: ./definitions.json
+msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
+msgstr ""
+"Software pro detekci nově připojených zařízení na lokální síti (EXPERIMENTÁLNÍ)."
+
+#: ./definitions.json
+msgid "DVB tuner"
+msgstr "Televizní tuner"
+
+#: ./definitions.json
+msgid ""
+"Software for sharing television received by a DVB tuner on Turris. Does not "
+"include device drivers."
+msgstr ""
+"Software na sdílení televizního vysílání přijímaného Turrisem. Neobsahuje "
+"ovladače pro zařízení."
+
+#: ./definitions.json
+msgid "LuCI extensions"
+msgstr "LuCI rozšíření"
+
+#: ./definitions.json
+msgid "Several addional tabs and controls for the advanced LuCI interface."
+msgstr ""
+"Mnoho rozšiřujících záložek a ovládacích prvků do pokročilého rozhraní LuCI."
+
+#: ./definitions.json
+msgid "Majordomo"
+msgstr "Majordomo"
+
+#: ./definitions.json
+msgid "Software for monitoring connections of devices in local network."
+msgstr "Software pro sledování spojení jednotlivých zařízení v síti."
+
+#: ./definitions.json
+msgid "NAS"
+msgstr "NAS"
+
+#: ./definitions.json
+msgid ""
+"Services allowing to connect a disk to the router and use it as network data"
+" store."
+msgstr ""
+"Služby umožňující připojit disk k routeru a používat jej jako síťové úložiště "
+"dat."
+
+#: ./definitions.json
+msgid "LXC utilities"
+msgstr "Nástroje LXC"
+
+#: ./definitions.json
+msgid ""
+"Set of utilities to manage Linux Containers (lightweight virtualization "
+"technology)."
+msgstr ""
+"Sada nástrojů pro správu Linuxových kontejnerů (úsporná forma virtualizace)."
+
+#: ./definitions.json
+msgid "Extensions of network protocols"
+msgstr "Rozšíření síťové podpory"
+
+#: ./definitions.json
+msgid "Support for additional protocols and connection types."
+msgstr "Podpora dalších protokolů a druhů připojení."
+
+#: ./definitions.json
+msgid "Internet connection speed measurement"
+msgstr "Měření rychlostí připojení k Internetu"
+
+#: ./definitions.json
+msgid ""
+"Actively measures speed of Internet connection using netmetr.cz service "
+"(EXPERIMENTAL)."
+msgstr ""
+"Provádí aktivní měření rychlosti připojení k Internetu pomocí služby netmetr.cz "
+"(EXPERIMENTÁLNÍ)."
+
+#: ./definitions.json
+msgid "OpenVPN"
+msgstr "OpenVPN"
+
+#: ./definitions.json
+msgid "An easy setup of OpenVPN server from Foris."
+msgstr "Jednoduché nastavení OpenVPN serveru z Forisu."
+
+#: ./definitions.json
+msgid "Print server"
+msgstr "Tiskový server"
+
+#: ./definitions.json
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing."
+msgstr ""
+"Služby umožňující připojit tiskárnu k routeru a používat ji pro tisk po síti."
+
+#: ./definitions.json
+msgid "Sound card"
+msgstr "Zvuková karta"
+
+#: ./definitions.json
+msgid "Support for USB sound card."
+msgstr "Podpora pro připojení USB zvukové karty."
+
+#: ./definitions.json
+msgid "Squid"
+msgstr "Squid"
+
+#: ./definitions.json
+msgid "HTTP caching proxy Squid."
+msgstr "HTTP cachující proxy Squid."
+
+#: ./definitions.json
+msgid "Tor"
+msgstr "Tor"
+
+#: ./definitions.json
+msgid "Service to increase anonymity on the Internet."
+msgstr "Služba umožňující zvýšení anonymity na internetu."
+
+#: ./definitions.json
+msgid "Web camera"
+msgstr "Webová kamera"
+
+#: ./definitions.json
+msgid "Support to capture image with web camera."
+msgstr "Podpora pro snímání obrazu pomocí webové kamery."
