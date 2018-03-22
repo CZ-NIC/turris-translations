@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2018-03-20 16:20\n"
-"PO-Revision-Date: 2018-03-20 16:20\n"
+"POT-Creation-Date: 2018-03-22 14:56\n"
+"PO-Revision-Date: 2018-03-22 14:56\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,8 +149,18 @@ msgstr ""
 msgid "Support to capture image with web camera."
 msgstr ""
 
-#~ msgid "SSH Honeypot"
-#~ msgstr ""
+#: ./definitions.json
+msgid "SSH Honeypot"
+msgstr ""
 
-#~ msgid "Trap for password-guessing robots on SSH."
-#~ msgstr ""
+#: ./definitions.json
+msgid "Trap for password-guessing robots on SSH."
+msgstr ""
+
+#: ./definitions.json
+msgid "Cloud Backups"
+msgstr ""
+
+#: ./definitions.json
+msgid "Service for storing configuration backups on remote servers."
+msgstr ""

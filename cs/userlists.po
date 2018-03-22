@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2018-03-20 16:20\n"
+"POT-Creation-Date: 2018-03-22 14:56\n"
 "PO-Revision-Date: 2018-03-13 16:02\n"
 "Last-Translator: Karel Kočí <karel.koci@nic.cz>\n"
 "Language-Team: Czech\n"
@@ -173,3 +173,11 @@ msgstr "SSH Honeypot"
 #: definitions.json
 msgid "Trap for password-guessing robots on SSH."
 msgstr "Past na roboty zkoušející hesla na SSH."
+
+#: definitions.json
+msgid "Cloud Backups"
+msgstr "Cloudové zálohy"
+
+#: definitions.json
+msgid "Service for storing configuration backups on remote servers."
+msgstr "Služba pro ukládání konfigurace na vzdálených serverech."
