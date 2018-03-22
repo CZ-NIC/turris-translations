@@ -16,31 +16,39 @@ update:
 	@
 
 
+define CASEDEF_LANG
+
+.PHONY: install-$(1)-$(2) update-$(1)-$(2)
+
+install-$(1): install-$(1)-$(2)
+install-$(1)-$(2): $(2)/$(1).mo
+	install -D $$< $$(DESTDIR)/usr/share/locale/$$(patsubst %/$(1).mo,%/LC_MESSAGES/$(1).mo,$$<)
+
+update-$(1): update-$(1)-$(2)
+update-$(1)-$(2):
+	msgmerge --update $(2)/$(1).po $(1).pot
+
+endef
+
 define CASEDEF
 
-$(1)_LANGS:=$$(shell find -name $(1).po)
-$(1)_MLANGS:=$$(patsubst %.po,%.mo,$$($(1)_LANGS))
+$(1)_LANGS:=$$(shell find -name $(1).po | cut -d '/' -f 2)
+$(1)_MO:=$$(patsubst %.po,%.mo,$$(shell find -name $(1).po))
 
-.PHONY: $(1) install-$(1)
+.PHONY: $(1) install-$(1) update-$(1)
 
 all: $(1)
-$(1): $$($(1)_MLANGS)
-$$($(1)_MLANGS): %.mo: %.po
+$(1): $$($(1)_MO)
+$$($(1)_MO): %.mo: %.po
 	msgfmt --output-file=$$@ $$<
 
 clean: clean-$(1)
 clean-$(1):
-	rm -f $$($(1)_MLANGS)
+	rm -f $$($(1)_MO)
 
 install: install-$(1)
-install-$(1): $(1)
-	$$(foreach LANG, $$($(1)_MLANGS), \
-		install -D $$(LANG) $$(DESTDIR)/usr/share/locale/$$(patsubst %/$(1).mo,%/LC_MESSAGES/$(1).mo,$$(LANG));\
-	)
-
 update: update-$(1)
-update-$(1):
-	$$(foreach LANG, $$($(1)_LANGS), msgmerge --update $$(LANG) $(1).pot; )
+$$(foreach LANG, $$($(1)_LANGS), $$(eval $$(call CASEDEF_LANG,$(1),$$(LANG))))
 
 endef
 
