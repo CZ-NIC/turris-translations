@@ -58,7 +58,7 @@ msgid "Majordomo"
 msgstr ""
 
 #: ./definitions.json
-msgid "Software for monitoring connections of devices in local network."
+msgid "Software for monitoring connections of devices in local network (obsolete)."
 msgstr ""
 
 #: ./definitions.json
@@ -95,8 +95,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid ""
-"Actively measures speed of Internet connection using netmetr.cz service "
-"(EXPERIMENTAL)."
+"Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
 
 #: ./definitions.json
@@ -162,5 +161,9 @@ msgid "Cloud Backups"
 msgstr ""
 
 #: ./definitions.json
-msgid "Service for storing configuration backups on remote servers."
+msgid "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgstr ""
+
+#: ./definitions.json
+msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
 msgstr ""

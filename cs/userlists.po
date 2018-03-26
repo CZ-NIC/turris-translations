@@ -69,8 +69,9 @@ msgid "Majordomo"
 msgstr "Majordomo"
 
 #: definitions.json
-msgid "Software for monitoring connections of devices in local network."
-msgstr "Software pro sledování spojení jednotlivých zařízení v síti."
+msgid ""
+"Software for monitoring connections of devices in local network (obsolete)."
+msgstr "Software pro sledování spojení jednotlivých zařízení v síti (zastaralé)."
 
 #: definitions.json
 msgid "NAS"
@@ -109,11 +110,10 @@ msgstr "Měření rychlostí připojení k Internetu"
 
 #: definitions.json
 msgid ""
-"Actively measures speed of Internet connection using netmetr.cz service "
-"(EXPERIMENTAL)."
+"Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
 "Provádí aktivní měření rychlosti připojení k Internetu pomocí služby netmetr."
-"cz (EXPERIMENTÁLNÍ)."
+"cz."
 
 #: definitions.json
 msgid "OpenVPN"
@@ -179,5 +179,10 @@ msgid "Cloud Backups"
 msgstr "Cloudové zálohy"
 
 #: definitions.json
-msgid "Service for storing configuration backups on remote servers."
-msgstr "Služba pro ukládání konfigurace na vzdálených serverech."
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgstr "Služba pro ukládání konfigurace na vzdálených serverech (EXPERIMENTLNÍ)."
+
+#: definitions.json
+msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
+msgstr "Software detailní monitorování síťového provozu (EXPERIMENTÁLNÍ)."
