@@ -181,3 +181,7 @@ msgid ""
 "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
 "Ein Dienst für die Speicherung von Konfigurationsdateien auf Fernservers (EXPERIMENTELL)."
+
+#: foris/config/__init__.py:246
+msgid "This is a testing notification. Please ignore me."
+msgstr ""

@@ -73,3 +73,7 @@ msgid ""
 msgstr ""
 "Nepoužívejte kontejnery na integrované flash paměti, mohou ji velmi rychle "
 "opotřebovat!!!"
+
+#: foris/config/__init__.py:246
+msgid "This is a testing notification. Please ignore me."
+msgstr "Toto je testovací notifikace. Prosím, ignorujte mě."
