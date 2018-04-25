@@ -181,7 +181,7 @@ msgstr "Cloudové zálohy"
 #: definitions.json
 msgid ""
 "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
-msgstr "Služba pro ukládání konfigurace na vzdálených serverech (EXPERIMENTLNÍ)."
+msgstr "Služba pro ukládání konfigurace na vzdálených serverech (EXPERIMENTÁLNÍ)."
 
 #: definitions.json
 msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
