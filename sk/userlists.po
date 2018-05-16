@@ -4,167 +4,191 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-03-22 14:56\n"
+"PO-Revision-Date: 2018-05-16 13:53+0000\n"
+"Last-Translator: Vladimír Záhradník <vladimir.zahradnik@gmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/turris/"
+"turris-userlists/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #: ./definitions.json
 msgid "Access tokens"
-msgstr ""
+msgstr "Prístupové tokeny"
 
 #: ./definitions.json
 msgid ""
 "A Foris plugin allowing to manage remote API access tokens (for example for "
 "use in Spectator or Android application)."
 msgstr ""
+"Správa tokenov pre vzdialený API prístup (napr. pre Spectator alebo Android "
+"aplikáciu) vo Forise."
 
 #: ./definitions.json
 msgid "Home automation"
-msgstr ""
+msgstr "Domáca automatizácia"
 
 #: ./definitions.json
 msgid "Control software for home automation, including Turris Gadgets."
-msgstr ""
+msgstr "Softvér pre ovládanie domácej automatizácie, vrátane Turris Gadgets."
 
 #: ./definitions.json
 msgid "Device detection"
-msgstr ""
+msgstr "Zisťovanie pripojených zariadení"
 
 #: ./definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 msgstr ""
+"Softvér pre zisťovanie novo pripojených zariadení na lokálnej sieti "
+"(EXPERIMENTÁLNE)."
 
 #: ./definitions.json
 msgid "DVB tuner"
-msgstr ""
+msgstr "Televízny tuner"
 
 #: ./definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
+"Softvér na zdieľanie televízneho vysielania prijímaného Turrisom. Neobsahuje "
+"ovládače pre zariadenia."
 
 #: ./definitions.json
 msgid "LuCI extensions"
-msgstr ""
+msgstr "LuCI rozšírenia"
 
 #: ./definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
 msgstr ""
+"Veľa rozšírujúcich kariet a ovládacích prvkov do pokročilého používateľského "
+"rozhrania LuCI."
 
 #: ./definitions.json
 msgid "Majordomo"
-msgstr ""
+msgstr "Majordomo"
 
 #: ./definitions.json
 msgid "Software for monitoring connections of devices in local network (obsolete)."
 msgstr ""
+"Softvér pre sledovanie spojení jednotlivých zariadení v sieti (zastaralé)."
 
 #: ./definitions.json
 msgid "NAS"
-msgstr ""
+msgstr "NAS"
 
 #: ./definitions.json
 msgid ""
 "Services allowing to connect a disk to the router and use it as network data"
 " store."
 msgstr ""
+"Služby umožňujúce pripojiť k routru jednotku dátového úložiska a používať ho "
+"ako sieťové úložisko dát."
 
 #: ./definitions.json
 msgid "LXC utilities"
-msgstr ""
+msgstr "Nástroje LXC"
 
 #: ./definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
+"Sada nástrojov pre správu Linuxových kontajnerov (úsporná forma "
+"virtualizácie)."
 
 #: ./definitions.json
 msgid "Extensions of network protocols"
-msgstr ""
+msgstr "Rozšírenia sieťovej podpory"
 
 #: ./definitions.json
 msgid "Support for additional protocols and connection types."
-msgstr ""
+msgstr "Podpora ďalších protokolov a druhov pripojenia."
 
 #: ./definitions.json
 msgid "Internet connection speed measurement"
-msgstr ""
+msgstr "Meranie rýchlosti pripojenia k internetu"
 
 #: ./definitions.json
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
+"Vykonáva aktívne meranie rýchlosti pripojenia k internetu pomocou služby "
+"netmetr.cz."
 
 #: ./definitions.json
 msgid "OpenVPN"
-msgstr ""
+msgstr "OpenVPN"
 
 #: ./definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
 msgstr ""
+"Jednoduché nastavenie OpenVPN servera z používateľského rozhrania Foris."
 
 #: ./definitions.json
 msgid "Print server"
-msgstr ""
+msgstr "Tlačový server"
 
 #: ./definitions.json
 msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
+"Služby umožňujúce pripojiť k routru tlačiareň a používať ju pre tlač po "
+"sieti."
 
 #: ./definitions.json
 msgid "Sound card"
-msgstr ""
+msgstr "Zvuková karta"
 
 #: ./definitions.json
 msgid "Support for USB sound card."
-msgstr ""
+msgstr "Podpora pre pripojenie USB zvukovej karty."
 
 #: ./definitions.json
 msgid "Squid"
-msgstr ""
+msgstr "Squid"
 
 #: ./definitions.json
 msgid "HTTP caching proxy Squid."
-msgstr ""
+msgstr "HTTP proxy vyrovnávacia pamäť Squid."
 
 #: ./definitions.json
 msgid "Tor"
-msgstr ""
+msgstr "Tor"
 
 #: ./definitions.json
 msgid "Service to increase anonymity on the Internet."
-msgstr ""
+msgstr "Služba umožňujúca zvýšenie anonymity na internete."
 
 #: ./definitions.json
 msgid "Web camera"
-msgstr ""
+msgstr "Webová kamera"
 
 #: ./definitions.json
 msgid "Support to capture image with web camera."
-msgstr ""
+msgstr "Podpora pre snímanie obrazu pomocou webovej kamery."
 
 #: ./definitions.json
 msgid "SSH Honeypot"
-msgstr ""
+msgstr "SSH Honeypot"
 
 #: ./definitions.json
 msgid "Trap for password-guessing robots on SSH."
-msgstr ""
+msgstr "Pasca na roboty skúšajúce heslá na SSH."
 
 #: ./definitions.json
 msgid "Cloud Backups"
-msgstr ""
+msgstr "Cloudové zálohy"
 
 #: ./definitions.json
 msgid "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
+"Služba pre ukladanie záloh nastavení na vzdialené servery (EXPERIMENTÁLNE)."
 
 #: ./definitions.json
 msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
-msgstr ""
+msgstr "Softvér pre podrobné monitorovanie sieťovej prevádzky (EXPERIMENTÁLNE)."
