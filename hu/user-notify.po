@@ -7,26 +7,36 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
+"PO-Revision-Date: 2018-05-30 20:21+0000\n"
+"Last-Translator: Zoli <boritek@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
+"turris-user-notify/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
 msgstr ""
+"Egy másik formázás jelenleg már folyamatban van, nem lehet új meghajtóra "
+"váltani."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
 msgstr ""
+"A meghajtó formázása  sikertelen, próbálja meg leválasztani és "
+"újracsatlakoztatni."
 
 #: format_and_set_srv.sh:41
 msgid "Can't get UUID of your newly formatted drive."
-msgstr ""
+msgstr "Nem lehet az újonnan formázott meghajtó UUID-t megállapítani."
 
 #: format_and_set_srv.sh:47
 msgid "Can't find your current srv location."
-msgstr ""
+msgstr "Nem találom a jelenlegi srv helyét."
 
 #: format_and_set_srv.sh:54
 msgid ""
@@ -35,28 +45,38 @@ msgid ""
 "you have some local data stored on your current storage, those will get moved "
 "during reboot, so your next reboot might take quite some time."
 msgstr ""
+"Az új meghajtót sikerült adattároláshoz beállítani. Már csak az útválasztót "
+"kell újraindítania a változások érvényre juttatásához. Ha van helyi adat a "
+"jelenlegi meghajtón, azok mozgatásra kerülnek az újraindítás során, ezért a "
+"következő újraindítás eltarthat egy darabig."
 
 #: srv.init:38
 msgid ""
 "Moving files failed, please check manually what went wrong and what files were "
 "left on your old drive."
 msgstr ""
+"A fájlok mozgatása nem sikerült, vizsgálja meg manuálisan mi a baj és mely "
+"fájlok maradtak a régi meghajtón."
 
 #: generate-lxc.sh:38
 msgid "Distribution %1 version %2 was just installed as a container."
-msgstr ""
+msgstr "%1 disztribúció %2 verzió konténerben került telepítésre."
 
 #: generate-lxc.sh:40
 msgid ""
 "Content of the tarballs is provided by third party, thus there is no warranty "
 "of any kind nor support from Turris team."
 msgstr ""
+"A targézák tartalma harmadik féltől származik, ezért nincs garancia, sem "
+"bármilyen támogatás a Turris csapattól."
 
 #: generate-lxc.sh:42
 msgid ""
 "Do not use containers on internal flash, they can wear it down really fast!!!"
 msgstr ""
+"Ne használjon konténereket a belső flash tárolón, ettől nagyon gyorsan "
+"elhasználódhat!!!"
 
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
-msgstr ""
+msgstr "Ez egy teszt értesítés. Kérjük, hagyja figyelmen kívül."
