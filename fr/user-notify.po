@@ -1,0 +1,84 @@
+# Strings for various notifications from router.
+# Copyright (C) 2018 CZ.NIC
+# This file is distributed under the same license as the user_notify package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: user-notify\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-20 20:57+0100\n"
+"PO-Revision-Date: 2018-07-28 11:58+0000\n"
+"Last-Translator: BMN <weblate@yopmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/turris/"
+"turris-user-notify/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1.1\n"
+
+#: format_and_set_srv.sh:21
+msgid "Another formatting job currently in progress, not switching to new drive."
+msgstr ""
+"Un autre formatage est actuellement en cours, ne basculez pas sur un autre "
+"disque dur."
+
+#: format_and_set_srv.sh:38
+msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgstr ""
+"Échec du formatage du lecteur, essayez de le débrancher et de le rebrancher "
+"à nouveau."
+
+#: format_and_set_srv.sh:41
+msgid "Can't get UUID of your newly formatted drive."
+msgstr "Impossible d'obtenir l'UUID du disque nouvellement formaté."
+
+#: format_and_set_srv.sh:47
+msgid "Can't find your current srv location."
+msgstr "Impossible de trouver votre emplacement srv actuel."
+
+#: format_and_set_srv.sh:54
+msgid ""
+"Your new disk for storing data has been setup successfully. All you need to "
+"do now is to reboot your router for changes to take effect. Be aware that if "
+"you have some local data stored on your current storage, those will get moved "
+"during reboot, so your next reboot might take quite some time."
+msgstr ""
+"Votre nouveau disque de données a été configuré avec succès. Il ne vous "
+"reste qu'à redémarrer le routeur pour que les changements soient pris en "
+"compte. Soyez conscient les données stockées sur votre stockage actuel "
+"seront déplacées lors du prochain redémarrage, de sorte que votre prochain "
+"redémarrage pourrait prendre un certain temps."
+
+#: srv.init:38
+msgid ""
+"Moving files failed, please check manually what went wrong and what files were "
+"left on your old drive."
+msgstr ""
+"Le déplacement des fichiers a échoué, veuillez vérifier manuellement ce qui "
+"a mal tourné et quels fichiers ont été laissés sur votre ancien disque dur."
+
+#: generate-lxc.sh:38
+msgid "Distribution %1 version %2 was just installed as a container."
+msgstr ""
+"La distribution %1 version %2 vient d'être installée en tant que conteneur."
+
+#: generate-lxc.sh:40
+msgid ""
+"Content of the tarballs is provided by third party, thus there is no warranty "
+"of any kind nor support from Turris team."
+msgstr ""
+"Le contenu des archives est fourni par une tierce partie, il n'y a donc pas "
+"de garantie d'aucune sorte ni de support de l'équipe Turris."
+
+#: generate-lxc.sh:42
+msgid ""
+"Do not use containers on internal flash, they can wear it down really fast!!!"
+msgstr ""
+"N'utilisez pas les conteneurs sur la mémoire flash interne, cela l'use "
+"extrêmement rapidement !!!"
+
+#: foris/config/__init__.py:246
+msgid "This is a testing notification. Please ignore me."
+msgstr "Ceci est un exemple de notification. S'il vous plaît, ignorez-moi."

@@ -4,10 +4,16 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-03-13 16:02\n"
+"PO-Revision-Date: 2018-05-12 09:38+0000\n"
+"Last-Translator: Nora Kořánová <nora.koranova@gmail.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/turris/"
+"turris-userlists/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #: definitions.json
 msgid "Access tokens"
@@ -174,7 +180,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Cloud Backups"
-msgstr "Cloudbackup"
+msgstr "Cloud Backups"
 
 #: definitions.json
 msgid ""

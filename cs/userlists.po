@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-03-13 16:02\n"
-"Last-Translator: Karel Kočí <karel.koci@nic.cz>\n"
-"Language-Team: Czech\n"
+"PO-Revision-Date: 2018-05-10 16:35+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
+"turris-userlists/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #: definitions.json
 msgid "Access tokens"
@@ -35,12 +37,12 @@ msgstr "Software pro ovládání domácí automatizace, včetně Turris Gadgets.
 
 #: definitions.json
 msgid "Device detection"
-msgstr "Detekce připojených zařízení"
+msgstr "Zjišťování připojených zařízení"
 
 #: definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 msgstr ""
-"Software pro detekci nově připojených zařízení na lokální síti "
+"Software pro zjišťování nově připojených zařízení na lokální síti "
 "(EXPERIMENTÁLNÍ)."
 
 #: definitions.json
@@ -62,7 +64,8 @@ msgstr "LuCI rozšíření"
 #: definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
 msgstr ""
-"Mnoho rozšiřujících záložek a ovládacích prvků do pokročilého rozhraní LuCI."
+"Mnoho rozšiřujících záložek a ovládacích prvků do pokročilého uživatelského "
+"rozhraní LuCI."
 
 #: definitions.json
 msgid "Majordomo"
@@ -82,8 +85,8 @@ msgid ""
 "Services allowing to connect a disk to the router and use it as network data "
 "store."
 msgstr ""
-"Služby umožňující připojit disk k routeru a používat jej jako síťové "
-"úložiště dat."
+"Služby umožňující připojit ke směrovači jednotku datového úložiště a "
+"používat ho jako síťové úložiště dat."
 
 #: definitions.json
 msgid "LXC utilities"
@@ -121,7 +124,7 @@ msgstr "OpenVPN"
 
 #: definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
-msgstr "Jednoduché nastavení OpenVPN serveru z Forisu."
+msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."
 
 #: definitions.json
 msgid "Print server"
@@ -132,7 +135,8 @@ msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
-"Služby umožňující připojit tiskárnu k routeru a používat ji pro tisk po síti."
+"Služby umožňující připojit ke směrovači tiskárnu a používat ji pro tisk po "
+"síti."
 
 #: definitions.json
 msgid "Sound card"
@@ -148,7 +152,7 @@ msgstr "Squid"
 
 #: definitions.json
 msgid "HTTP caching proxy Squid."
-msgstr "HTTP cachující proxy Squid."
+msgstr "HTTP proxy mezipaměť Squid."
 
 #: definitions.json
 msgid "Tor"
@@ -156,7 +160,7 @@ msgstr "Tor"
 
 #: definitions.json
 msgid "Service to increase anonymity on the Internet."
-msgstr "Služba umožňující zvýšení anonymity na internetu."
+msgstr "Služba umožňující zvýšení anonymity na Internetu."
 
 #: definitions.json
 msgid "Web camera"
@@ -181,8 +185,9 @@ msgstr "Cloudové zálohy"
 #: definitions.json
 msgid ""
 "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
-msgstr "Služba pro ukládání konfigurace na vzdálených serverech (EXPERIMENTÁLNÍ)."
+msgstr ""
+"Služba pro ukládání záloh nastavení na vzdálených serverech (EXPERIMENTLNÍ)."
 
 #: definitions.json
 msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
-msgstr "Software detailní monitorování síťového provozu (EXPERIMENTÁLNÍ)."
+msgstr "Software pro podrobné monitorování síťového provozu (EXPERIMENTÁLNÍ)."
