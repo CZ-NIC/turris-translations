@@ -7,26 +7,33 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
+"PO-Revision-Date: 2018-10-16 03:34+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
+"turris-user-notify/nb_NO/>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.1\n"
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
-msgstr ""
+msgstr "En annen formateringsjobb er underveis, bytter ikke til ny stasjon."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
-msgstr ""
+msgstr "Formatering av stasjon mislyktes, prøv å plugge den ut og inn igjen."
 
 #: format_and_set_srv.sh:41
 msgid "Can't get UUID of your newly formatted drive."
-msgstr ""
+msgstr "Kan ikke innhente UUID for din nylig formaterte stasjon."
 
 #: format_and_set_srv.sh:47
+#, fuzzy
 msgid "Can't find your current srv location."
-msgstr ""
+msgstr "Finner ikke din nåværende SRV-plassering."
 
 #: format_and_set_srv.sh:54
 msgid ""
@@ -35,28 +42,37 @@ msgid ""
 "you have some local data stored on your current storage, those will get moved "
 "during reboot, so your next reboot might take quite some time."
 msgstr ""
+"Din nye disk for lagring av data har blitt satt opp. Alt du trenger å gjøre "
+"nå er å starte ruteren din på nytt, slik at endringene trer i effekt. Ha i "
+"minnet at hvis du har noe lokal data lagret i ditt nåværende lager, vil de "
+"bli flyttet under omstarten, så din neste oppstarte kan ta litt tid."
 
 #: srv.init:38
 msgid ""
 "Moving files failed, please check manually what went wrong and what files were "
 "left on your old drive."
 msgstr ""
+"Flytting av filer mislyktes, sjekk manuelt hva som gikk galt og hvilke filer "
+"som ble levnet på din gamle stasjon."
 
 #: generate-lxc.sh:38
 msgid "Distribution %1 version %2 was just installed as a container."
-msgstr ""
+msgstr "Distribusjon %1 versjon %2 ble installert som beholder."
 
 #: generate-lxc.sh:40
 msgid ""
 "Content of the tarballs is provided by third party, thus there is no warranty "
 "of any kind nor support from Turris team."
 msgstr ""
+"Innholdet i tjæreballene har kommet til veie fra en tredjepart, altså "
+"medfølger det ikke garanti av noen art fra Turris-laget."
 
 #: generate-lxc.sh:42
 msgid ""
 "Do not use containers on internal flash, they can wear it down really fast!!!"
 msgstr ""
+"Ikke bruk beholdere på internt flash-minne, de kan slites veldig fort!!!"
 
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
-msgstr ""
+msgstr "Dette er en testmerknad. Se bort fra dette."
