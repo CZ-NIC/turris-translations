@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-10-28 13:24+0000\n"
+"PO-Revision-Date: 2018-12-03 15:14+0000\n"
 "Last-Translator: Josef Schlehofer <pepe@bloodkings.eu>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/cs/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: definitions.json
 msgid "Access tokens"
@@ -37,12 +37,12 @@ msgstr "Software pro ovládání domácí automatizace, včetně Turris Gadgets.
 
 #: definitions.json
 msgid "Device detection"
-msgstr "Zjišťování připojených zařízení"
+msgstr "Detekce připojených zařízení"
 
 #: definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 msgstr ""
-"Software pro zjišťování nově připojených zařízení na lokální síti "
+"Software pro detekci nově připojených zařízení na lokální síti "
 "(EXPERIMENTÁLNÍ)."
 
 #: definitions.json
@@ -135,8 +135,7 @@ msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
-"Služby umožňující připojit ke směrovači tiskárnu a používat ji pro tisk po "
-"síti."
+"Služby umožňující připojit k routeru tiskárnu a používat ji pro tisk po síti."
 
 #: definitions.json
 msgid "Sound card"
