@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-03-22 14:56\n"
+"POT-Creation-Date: 2019-01-25 20:10\n"
+"PO-Revision-Date: 2019-01-25 20:10\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,10 +21,6 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Home automation"
-msgstr ""
-
-#: ./definitions.json
-msgid "Control software for home automation, including Turris Gadgets."
 msgstr ""
 
 #: ./definitions.json
@@ -54,14 +50,6 @@ msgid "Several addional tabs and controls for the advanced LuCI interface."
 msgstr ""
 
 #: ./definitions.json
-msgid "Majordomo"
-msgstr ""
-
-#: ./definitions.json
-msgid "Software for monitoring connections of devices in local network (obsolete)."
-msgstr ""
-
-#: ./definitions.json
 msgid "NAS"
 msgstr ""
 
@@ -69,6 +57,14 @@ msgstr ""
 msgid ""
 "Services allowing to connect a disk to the router and use it as network data"
 " store."
+msgstr ""
+
+#: ./definitions.json
+msgid "SSH Honeypot"
+msgstr ""
+
+#: ./definitions.json
+msgid "Trap for password-guessing robots on SSH."
 msgstr ""
 
 #: ./definitions.json
@@ -111,9 +107,7 @@ msgid "Print server"
 msgstr ""
 
 #: ./definitions.json
-msgid ""
-"Services allowing to connect a printer to the router and use it for remote "
-"printing."
+msgid "Cloud Backups"
 msgstr ""
 
 #: ./definitions.json
@@ -121,15 +115,7 @@ msgid "Sound card"
 msgstr ""
 
 #: ./definitions.json
-msgid "Support for USB sound card."
-msgstr ""
-
-#: ./definitions.json
 msgid "Squid"
-msgstr ""
-
-#: ./definitions.json
-msgid "HTTP caching proxy Squid."
 msgstr ""
 
 #: ./definitions.json
@@ -145,25 +131,82 @@ msgid "Web camera"
 msgstr ""
 
 #: ./definitions.json
+msgid "Control software for home automation, including Turris Gadgets."
+msgstr ""
+
+#: ./definitions.json
+msgid "Majordomo"
+msgstr ""
+
+#: ./definitions.json
+msgid ""
+"Software for monitoring connections of devices in local network (obsolete)."
+msgstr ""
+
+#: ./definitions.json
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing."
+msgstr ""
+
+#: ./definitions.json
+msgid "Support for USB sound card."
+msgstr ""
+
+#: ./definitions.json
+msgid "HTTP caching proxy Squid."
+msgstr ""
+
+#: ./definitions.json
 msgid "Support to capture image with web camera."
 msgstr ""
 
 #: ./definitions.json
-msgid "SSH Honeypot"
-msgstr ""
-
-#: ./definitions.json
-msgid "Trap for password-guessing robots on SSH."
-msgstr ""
-
-#: ./definitions.json
-msgid "Cloud Backups"
-msgstr ""
-
-#: ./definitions.json
-msgid "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
 
 #: ./definitions.json
 msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
 msgstr ""
+
+#~ msgid ""
+#~ "Control software for home automation, including Turris Gadgets. (OBSOLETE)"
+#~ msgstr ""
+
+#~ msgid "Data Collection"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Software for participation in data collection and dynamic distributed "
+#~ "firewall."
+#~ msgstr ""
+
+#~ msgid "Pakon"
+#~ msgstr ""
+
+#~ msgid "Software for in depth monitoring of your traffic."
+#~ msgstr ""
+
+#~ msgid "Turris MOX network boot"
+#~ msgstr ""
+
+#~ msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Services allowing to connect a printer to the router and use it for remote "
+#~ "printing. (OBSOLETE)"
+#~ msgstr ""
+
+#~ msgid "Service for storing configuration backups on remote servers."
+#~ msgstr ""
+
+#~ msgid "Support for USB sound card. (OBSOLETE)"
+#~ msgstr ""
+
+#~ msgid "HTTP caching proxy Squid. (OBSOLETE)"
+#~ msgstr ""
+
+#~ msgid "Support to capture image with web camera. (OBSOLETE)"
+#~ msgstr ""
