@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-09-08 12:17+0000\n"
+"PO-Revision-Date: 2018-12-18 06:23+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/fr/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.2-dev\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ./definitions.json
 msgid "Access tokens"
@@ -153,7 +153,6 @@ msgid "Squid"
 msgstr "Squid"
 
 #: ./definitions.json
-#, fuzzy
 msgid "HTTP caching proxy Squid."
 msgstr "Proxy cache HTTP Squid."
 
