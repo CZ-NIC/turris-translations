@@ -53,4 +53,5 @@ $$(foreach LANG, $$($(1)_LANGS), $$(eval $$(call CASEDEF_LANG,$(1),$$(LANG))))
 endef
 
 $(eval $(call CASEDEF,userlists))
+$(eval $(call CASEDEF,pkglists))
 $(eval $(call CASEDEF,user-notify))
