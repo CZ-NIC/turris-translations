@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
-"PO-Revision-Date: 2019-02-10 22:10+0000\n"
+"PO-Revision-Date: 2019-03-09 16:04+0000\n"
 "Last-Translator: Josef Schlehofer <pepe@bloodkings.eu>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
 "turris-user-notify/cs/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.5-dev\n"
+"X-Generator: Weblate 3.5.1-dev\n"
 
 #: format_and_set_srv.sh:21
 msgid ""
@@ -31,7 +31,7 @@ msgstr "Formátování disku se nezdařilo, zkuste ho odpojit a znovu připojit.
 
 #: format_and_set_srv.sh:41
 msgid "Can't get UUID of your newly formatted drive."
-msgstr "Nedaří se získat UUID nově zformátovaného disku."
+msgstr "Nedaří se získat UUID nově zformátované jednotky."
 
 #: format_and_set_srv.sh:47
 msgid "Can't find your current srv location."
