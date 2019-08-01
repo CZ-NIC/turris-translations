@@ -4,23 +4,28 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-01-31 13:32\n"
-"PO-Revision-Date: 2019-01-31 13:32\n"
+"PO-Revision-Date: 2019-08-03 19:23+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #: ./definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
-msgstr ""
+msgstr "Rozšíření síťových protokolů pro 3G/LTE"
 
 #: ./definitions.json
 msgid "Support for additional protocols and connection types."
-msgstr ""
+msgstr "Podpora dalších protokolů a druhů připojení."
 
 #: ./definitions.json
 msgid "Data Collection"
-msgstr ""
+msgstr "Shromažďování dat"
 
 #: ./definitions.json
 msgid ""
@@ -74,7 +79,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "NAS"
-msgstr ""
+msgstr "NAS"
 
 #: ./definitions.json
 msgid ""
@@ -92,7 +97,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Internet connection speed measurement"
-msgstr ""
+msgstr "Měření rychlostí připojení k Internetu"
 
 #: ./definitions.json
 msgid ""
@@ -101,7 +106,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "OpenVPN"
-msgstr ""
+msgstr "OpenVPN"
 
 #: ./definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
@@ -109,7 +114,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Pakon"
-msgstr ""
+msgstr "Pakon"
 
 #: ./definitions.json
 msgid "Software for in depth monitoring of your traffic."
@@ -117,7 +122,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Print server"
-msgstr ""
+msgstr "Tiskový server"
 
 #: ./definitions.json
 msgid ""
@@ -127,7 +132,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Cloud Backups"
-msgstr ""
+msgstr "Cloudové zálohy"
 
 #: ./definitions.json
 msgid ""
@@ -136,8 +141,8 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Tor"
-msgstr ""
+msgstr "Tor"
 
 #: ./definitions.json
 msgid "Service to increase anonymity on the Internet."
-msgstr ""
+msgstr "Služba pro zvýšení anonymity na Internetu."
