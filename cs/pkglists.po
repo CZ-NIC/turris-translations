@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-01-31 13:32\n"
-"PO-Revision-Date: 2019-08-03 19:23+0000\n"
+"PO-Revision-Date: 2019-08-10 12:23+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
 "turris-pkglists-1/cs/>\n"
@@ -32,50 +32,57 @@ msgid ""
 "Software for participation in data collection and dynamic distributed "
 "firewall."
 msgstr ""
+"Software pro účastnění se ve sběru dat a dynamicky distribuovanou bránu "
+"firewall."
 
 #: ./definitions.json
 msgid "Device detection"
-msgstr ""
+msgstr "Zjišťování zařízení"
 
 #: ./definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 msgstr ""
+"Software pro zjišťování nových zařízení na místní síti (EXPERIMENTÁLNÍ)."
 
 #: ./definitions.json
 msgid "DVB tuner"
-msgstr ""
+msgstr "DVB tuner"
 
 #: ./definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
+"Software pro sdílení televizního vysílání přijímaného DVB tunerem na "
+"Turrisu. Neobsahuje ovladače zařízení."
 
 #: ./definitions.json
 msgid "SSH Honeypot"
-msgstr ""
+msgstr "SSH honeypot"
 
 #: ./definitions.json
 msgid "Trap for password-guessing robots on SSH."
-msgstr ""
+msgstr "Past na roboty, snažící se uhádnout heslo pro SSH."
 
 #: ./definitions.json
 msgid "LuCI extensions"
-msgstr ""
+msgstr "Rozšíření do LuCI"
 
 #: ./definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
-msgstr ""
+msgstr "Několik dalších panelů a ovládacích prvků do pokročilého rozhraní LuCI."
 
 #: ./definitions.json
 msgid "LXC utilities"
-msgstr ""
+msgstr "Nástroje pro LXC"
 
 #: ./definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
+"Sada nástrojů pro správu Linuxových kontejnerů (odlehčená virtualizační "
+"technologie)."
 
 #: ./definitions.json
 msgid "NAS"
@@ -86,14 +93,18 @@ msgid ""
 "Services allowing to connect a disk to the router and use it as network data"
 " store."
 msgstr ""
+"Služby umožňující připojit ke směrovači disk a použít ho jako síťové datové "
+"úložiště."
 
 #: ./definitions.json
 msgid "Turris MOX network boot"
-msgstr ""
+msgstr "Zavedení Turris MOX ze sítě"
 
 #: ./definitions.json
 msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
 msgstr ""
+"Serverová část pro Turris MOX zařízení be SD karty, sloužící jako Wi-Fi "
+"přístupový bod."
 
 #: ./definitions.json
 msgid "Internet connection speed measurement"
@@ -103,6 +114,7 @@ msgstr "Měření rychlostí připojení k Internetu"
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
+"Aktivní měření rychlosti připojení k Internetu pomocí služby netmetr.cz."
 
 #: ./definitions.json
 msgid "OpenVPN"
@@ -110,7 +122,7 @@ msgstr "OpenVPN"
 
 #: ./definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
-msgstr ""
+msgstr "Snadné nastavení OpenVPN serveru z Foris."
 
 #: ./definitions.json
 msgid "Pakon"
@@ -118,7 +130,7 @@ msgstr "Pakon"
 
 #: ./definitions.json
 msgid "Software for in depth monitoring of your traffic."
-msgstr ""
+msgstr "Software pro hloubkový monitoring síťového provozu."
 
 #: ./definitions.json
 msgid "Print server"
@@ -129,6 +141,8 @@ msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
+"Služby umožňující připojit ke směrovači tiskárnu a použít ji pro tisk na "
+"dálku."
 
 #: ./definitions.json
 msgid "Cloud Backups"
@@ -138,6 +152,7 @@ msgstr "Cloudové zálohy"
 msgid ""
 "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
+"Služba pro ukládání záloh nastavení na vzdálených serverech (EXPERIMENTÁLNÍ)."
 
 #: ./definitions.json
 msgid "Tor"
