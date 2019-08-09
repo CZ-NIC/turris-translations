@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-05-03 13:02+0000\n"
+"PO-Revision-Date: 2019-08-10 12:23+0000\n"
 "Last-Translator: Алексей Леньшин <alenshin@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/ru/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #: ./definitions.json
 msgid "Access tokens"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Device detection"
-msgstr "Обнаружение устройства"
+msgstr "Обнаружение устройств"
 
 #: ./definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
