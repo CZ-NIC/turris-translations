@@ -1,14 +1,14 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: userlists\n"
+"Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2018-03-22 14:56\n"
+"POT-Creation-Date: 2019-07-31 16:11\n"
 "PO-Revision-Date: 2019-08-03 19:23+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
-"turris-userlists/nb_NO/>\n"
-"Language: nb\n"
+"turris-pkglists-1/nb_NO/>\n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,25 +16,23 @@ msgstr ""
 "X-Generator: Weblate 3.8-dev\n"
 
 #: ./definitions.json
-msgid "Access tokens"
-msgstr "Tilgangssymboler"
+msgid "Extensions of network protocols for 3G/LTE"
+msgstr "Utvidelser av nettverksprotokoller for 3G/LTE"
 
 #: ./definitions.json
-#, fuzzy
+msgid "Support for additional protocols and connection types."
+msgstr "Støtte for ytterligere protokoller og tilkoblingstyper."
+
+#: ./definitions.json
+msgid "Data Collection"
+msgstr "Datainnsamling"
+
+#: ./definitions.json
 msgid ""
-"A Foris plugin allowing to manage remote API access tokens (for example for "
-"use in Spectator or Android application)."
+"Software for participation in data collection and dynamic distributed "
+"firewall."
 msgstr ""
-"Et Foris-programtillegg tillater behandling av API-tilgangssymboler fra "
-"annensteds hen (for eksempel til bruk i Spectator eller Android-program)."
-
-#: ./definitions.json
-msgid "Home automation"
-msgstr "Hjemmeautomasjon"
-
-#: ./definitions.json
-msgid "Control software for home automation, including Turris Gadgets."
-msgstr "Kontrollprogramvare for hjemmeautomasjon, inkludert Turris-dingser."
+"Programvare for deltagelse i datainnsamling og dynamisk distribuert brannmur."
 
 #: ./definitions.json
 msgid "Device detection"
@@ -58,35 +56,21 @@ msgstr ""
 "ikke enhetsdrivere."
 
 #: ./definitions.json
+#, fuzzy
+msgid "SSH Honeypot"
+msgstr "SSH-honningkrukke"
+
+#: ./definitions.json
+msgid "Trap for password-guessing robots on SSH."
+msgstr "Felle for passordgjettende roboter på SSH."
+
+#: ./definitions.json
 msgid "LuCI extensions"
 msgstr "LuCI-utvidelser"
 
 #: ./definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
 msgstr "Flere ekstra faner og kontroller for det avanserte LuCI-grensesnittet."
-
-#: ./definitions.json
-#, fuzzy
-msgid "Majordomo"
-msgstr "Majordomo"
-
-#: ./definitions.json
-msgid "Software for monitoring connections of devices in local network (obsolete)."
-msgstr ""
-"Programvare for oppsyn med tilkoblinger fra enheter i lokalnettverk "
-"(foreldet)."
-
-#: ./definitions.json
-msgid "NAS"
-msgstr "NAS"
-
-#: ./definitions.json
-msgid ""
-"Services allowing to connect a disk to the router and use it as network data"
-" store."
-msgstr ""
-"Tjenester som tillater tilkobling av en disk til en ruter og bruk av den som "
-"nettverksdatalagring."
 
 #: ./definitions.json
 msgid "LXC utilities"
@@ -101,12 +85,20 @@ msgstr ""
 "virtualiseringsteknologi)"
 
 #: ./definitions.json
-msgid "Extensions of network protocols"
-msgstr "Utvidelser av nettverksprotokoller"
+msgid "NAS"
+msgstr "NAS"
 
 #: ./definitions.json
-msgid "Support for additional protocols and connection types."
-msgstr "Støtte for ytterligere protokoller og tilkoblingstyper."
+msgid ""
+"Services allowing to connect a disk to the router and use it as network data"
+" store."
+msgstr ""
+"Tjenester som tillater tilkobling av en disk til en ruter og bruk av den som "
+"nettverksdatalagring."
+
+#: ./definitions.json
+msgid "Turris MOX network boot"
+msgstr "Turris MOX-nettverksoppstart"
 
 #: ./definitions.json
 #, fuzzy
@@ -128,6 +120,14 @@ msgid "An easy setup of OpenVPN server from Foris."
 msgstr "Enkelt oppsett av OpenVPN-tjener fra Foris."
 
 #: ./definitions.json
+msgid "Pakon"
+msgstr "PaKon"
+
+#: ./definitions.json
+msgid "Software for in depth monitoring of your traffic."
+msgstr "Programvare for dyptgående overvåkning av din trafikk."
+
+#: ./definitions.json
 msgid "Print server"
 msgstr "Utskriftstjener"
 
@@ -140,22 +140,6 @@ msgstr ""
 "fjernutskrift."
 
 #: ./definitions.json
-msgid "Sound card"
-msgstr "Lydkort"
-
-#: ./definitions.json
-msgid "Support for USB sound card."
-msgstr "Støtte for USB-lydkort."
-
-#: ./definitions.json
-msgid "Squid"
-msgstr "Squid"
-
-#: ./definitions.json
-msgid "HTTP caching proxy Squid."
-msgstr "HTTP-hurtiglagermellomtjeneren Squid."
-
-#: ./definitions.json
 msgid "Tor"
 msgstr "Tor"
 
@@ -164,32 +148,30 @@ msgid "Service to increase anonymity on the Internet."
 msgstr "Tjeneste for økt anonymitet på Internett."
 
 #: ./definitions.json
-msgid "Web camera"
-msgstr "Vevkamera"
-
-#: ./definitions.json
-msgid "Support to capture image with web camera."
-msgstr "Støtte for knipsing av bilde med vevkamera."
-
-#: ./definitions.json
-#, fuzzy
-msgid "SSH Honeypot"
-msgstr "SSH-honningkrukke"
-
-#: ./definitions.json
-msgid "Trap for password-guessing robots on SSH."
-msgstr "Felle for passordgjettende roboter på SSH."
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+msgstr "Tjenersiden for Turris MOX uten SD-kort brukt som Wi-Fi-tilgangspunkt."
 
 #: ./definitions.json
 msgid "Cloud Backups"
 msgstr "Sikkerhetskopier i skyen"
 
 #: ./definitions.json
-msgid "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
 "Tjeneste for lagring av oppsettssikkerhetskopier på fjerntjenere "
 "(EKSPERIMENTELT)."
 
-#: ./definitions.json
-msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
-msgstr "Programvare for å holde dybdeoppsyn med trafikk (EKSPERIMENTELT)."
+#~ msgid "Nextcloud"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Self-hosted files hosting and productivity platform that keeps you in "
+#~ "control. Alternative to services such as Dropbox or Google Drive. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""

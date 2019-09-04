@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2018-12-22 18:09+0000\n"
-"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"PO-Revision-Date: 2019-09-04 13:53+0000\n"
+"Last-Translator: Josef Schlehofer <pepe@bloodkings.eu>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/cs/>\n"
 "Language: cs\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: definitions.json
 msgid "Access tokens"
@@ -37,25 +37,24 @@ msgstr "Software pro ovládání domácí automatizace, včetně Turris Gadgets.
 
 #: definitions.json
 msgid "Device detection"
-msgstr "Zjišťování připojených zařízení"
+msgstr "Zjišťování zařízení"
 
 #: definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 msgstr ""
-"Software pro zjišťování nově připojených zařízení na lokální síti "
-"(EXPERIMENTÁLNÍ)."
+"Software pro zjišťování nových zařízení na místní síti (EXPERIMENTÁLNÍ)."
 
 #: definitions.json
 msgid "DVB tuner"
-msgstr "Televizní tuner"
+msgstr "DVB tuner"
 
 #: definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
-"Software pro sdílení televizního vysílání přijímaného Turrisem. Neobsahuje "
-"ovladač pro potřebný DVB tuner."
+"Software pro sdílení televizního vysílání přijímaného DVB tunerem na "
+"Turrisu. Neobsahuje ovladače zařízení."
 
 #: definitions.json
 msgid "LuCI extensions"
@@ -63,9 +62,7 @@ msgstr "LuCI rozšíření"
 
 #: definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
-msgstr ""
-"Několik rozšiřujících záložek a ovládacích prvků do pokročilého "
-"uživatelského rozhraní LuCI."
+msgstr "Několik dalších panelů a ovládacích prvků do pokročilého rozhraní LuCI."
 
 #: definitions.json
 msgid "Majordomo"
@@ -85,19 +82,19 @@ msgid ""
 "Services allowing to connect a disk to the router and use it as network data "
 "store."
 msgstr ""
-"Služby umožňující připojit ke směrovači jednotku datového úložiště a "
-"používat ho jako síťové úložiště dat."
+"Služby umožňující připojit k routeru disk a použít ho jako síťové úložiště."
 
 #: definitions.json
 msgid "LXC utilities"
-msgstr "Nástroje LXC"
+msgstr "Nástroje pro LXC"
 
 #: definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
-"Sada nástrojů pro správu linuxových kontejnerů (úsporná forma virtualizace)."
+"Sada nástrojů pro správu Linuxových kontejnerů (odlehčená virtualizační "
+"technologie)."
 
 #: definitions.json
 msgid "Extensions of network protocols"
@@ -109,14 +106,13 @@ msgstr "Podpora dalších protokolů a druhů připojení."
 
 #: definitions.json
 msgid "Internet connection speed measurement"
-msgstr "Měření rychlostí připojení k Internetu"
+msgstr "Měření rychlosti připojení k Internetu"
 
 #: definitions.json
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
-"Provádí aktivní měření rychlosti připojení k Internetu pomocí služby netmetr."
-"cz."
+"Aktivní měření rychlosti připojení k Internetu pomocí služby netmetr.cz."
 
 #: definitions.json
 msgid "OpenVPN"
@@ -124,7 +120,7 @@ msgstr "OpenVPN"
 
 #: definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
-msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."
+msgstr "Snadné nastavení OpenVPN serveru z Foris."
 
 #: definitions.json
 msgid "Print server"
@@ -135,8 +131,7 @@ msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
-"Služby umožňující připojit ke směrovači tiskárnu a používat ji pro tisk po "
-"síti."
+"Služby umožňující připojit k routeru tiskárnu a použít ji pro tisk na dálku."
 
 #: definitions.json
 msgid "Sound card"
@@ -160,7 +155,7 @@ msgstr "Tor"
 
 #: definitions.json
 msgid "Service to increase anonymity on the Internet."
-msgstr "Služba umožňující zvýšení anonymity na Internetu."
+msgstr "Služba pro zvýšení anonymity na Internetu."
 
 #: definitions.json
 msgid "Web camera"
@@ -172,11 +167,11 @@ msgstr "Podpora pro snímání obrazu pomocí webové kamery."
 
 #: definitions.json
 msgid "SSH Honeypot"
-msgstr "SSH Honeypot"
+msgstr "SSH honeypot"
 
 #: definitions.json
 msgid "Trap for password-guessing robots on SSH."
-msgstr "Past na roboty zkoušející hesla na SSH."
+msgstr "Past na roboty, snažící se uhádnout heslo pro SSH."
 
 #: definitions.json
 msgid "Cloud Backups"

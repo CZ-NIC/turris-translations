@@ -1,13 +1,13 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: userlists\n"
+"Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2018-03-22 14:56\n"
+"POT-Creation-Date: 2019-07-31 16:11\n"
 "PO-Revision-Date: 2019-08-10 12:23+0000\n"
 "Last-Translator: Алексей Леньшин <alenshin@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/turris/"
-"turris-userlists/ru/>\n"
+"turris-pkglists-1/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -17,26 +17,24 @@ msgstr ""
 "X-Generator: Weblate 3.8-dev\n"
 
 #: ./definitions.json
-msgid "Access tokens"
-msgstr "Токены доступа"
+msgid "Extensions of network protocols for 3G/LTE"
+msgstr "Расширения сетевых протоколов для 3G / LTE"
+
+#: ./definitions.json
+msgid "Support for additional protocols and connection types."
+msgstr "Поддержка дополнительных протоколов и типов соединений."
+
+#: ./definitions.json
+msgid "Data Collection"
+msgstr "Сбор данных"
 
 #: ./definitions.json
 msgid ""
-"A Foris plugin allowing to manage remote API access tokens (for example for "
-"use in Spectator or Android application)."
+"Software for participation in data collection and dynamic distributed "
+"firewall."
 msgstr ""
-"Плагин Foris, позволяющий управлять токенами удаленного доступа API ("
-"например, для использования в приложении Spectator или Android)."
-
-#: ./definitions.json
-msgid "Home automation"
-msgstr "Домашняя автоматизация"
-
-#: ./definitions.json
-msgid "Control software for home automation, including Turris Gadgets."
-msgstr ""
-"Программное обеспечение для управления домашней автоматикой, включая гаджеты "
-"Turris."
+"Программное обеспечение для участия в сборе данных и динамическом "
+"распределенном межсетевом экране."
 
 #: ./definitions.json
 msgid "Device detection"
@@ -61,6 +59,14 @@ msgstr ""
 "маршрутизатор Turris. Не включает драйверы устройств."
 
 #: ./definitions.json
+msgid "SSH Honeypot"
+msgstr "SSH ловушка"
+
+#: ./definitions.json
+msgid "Trap for password-guessing robots on SSH."
+msgstr "Ловушка для роботов, собирающих пароли для SSH."
+
+#: ./definitions.json
 msgid "LuCI extensions"
 msgstr "Расширения LuCI"
 
@@ -71,14 +77,14 @@ msgstr ""
 "интерфейса LuCI."
 
 #: ./definitions.json
-msgid "Majordomo"
-msgstr "Majordomo"
+msgid "LXC utilities"
+msgstr "Утилиты LXC"
 
 #: ./definitions.json
-msgid "Software for monitoring connections of devices in local network (obsolete)."
-msgstr ""
-"Программное обеспечение для мониторинга соединений устройств в локальной "
-"сети (устарело)."
+msgid ""
+"Set of utilities to manage Linux Containers (lightweight virtualization "
+"technology)."
+msgstr "Набор утилит для управления контейнерами Linux (LXC)."
 
 #: ./definitions.json
 msgid "NAS"
@@ -93,22 +99,8 @@ msgstr ""
 "качестве сетевого хранилища данных."
 
 #: ./definitions.json
-msgid "LXC utilities"
-msgstr "Утилиты LXC"
-
-#: ./definitions.json
-msgid ""
-"Set of utilities to manage Linux Containers (lightweight virtualization "
-"technology)."
-msgstr "Набор утилит для управления контейнерами Linux (LXC)."
-
-#: ./definitions.json
-msgid "Extensions of network protocols"
-msgstr "Расширения сетевых протоколов"
-
-#: ./definitions.json
-msgid "Support for additional protocols and connection types."
-msgstr "Поддержка дополнительных протоколов и типов соединений."
+msgid "Turris MOX network boot"
+msgstr "Сетевая загрузка Turris MOX"
 
 #: ./definitions.json
 msgid "Internet connection speed measurement"
@@ -128,6 +120,14 @@ msgid "An easy setup of OpenVPN server from Foris."
 msgstr "Простая настройка сервера OpenVPN из Foris."
 
 #: ./definitions.json
+msgid "Pakon"
+msgstr "Родительский контроль"
+
+#: ./definitions.json
+msgid "Software for in depth monitoring of your traffic."
+msgstr "Программное обеспечение для глубокого мониторинга вашего трафика."
+
+#: ./definitions.json
 msgid "Print server"
 msgstr "Сервер печати"
 
@@ -140,22 +140,6 @@ msgstr ""
 "для удаленной печати."
 
 #: ./definitions.json
-msgid "Sound card"
-msgstr "Звуковая карта"
-
-#: ./definitions.json
-msgid "Support for USB sound card."
-msgstr "Поддержка звуковой карты USB."
-
-#: ./definitions.json
-msgid "Squid"
-msgstr "Squid"
-
-#: ./definitions.json
-msgid "HTTP caching proxy Squid."
-msgstr "Кэширующий HTTP прокси-сервер Squid."
-
-#: ./definitions.json
 msgid "Tor"
 msgstr "Tor"
 
@@ -164,33 +148,32 @@ msgid "Service to increase anonymity on the Internet."
 msgstr "Служба для сохранения анонимности в Интернете."
 
 #: ./definitions.json
-msgid "Web camera"
-msgstr "Веб-камера"
-
-#: ./definitions.json
-msgid "Support to capture image with web camera."
-msgstr "Поддержка захвата изображения с помощью веб-камеры."
-
-#: ./definitions.json
-msgid "SSH Honeypot"
-msgstr "SSH ловушка"
-
-#: ./definitions.json
-msgid "Trap for password-guessing robots on SSH."
-msgstr "Ловушка для роботов, собирающих пароли для SSH."
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+msgstr ""
+"Серверная сторона для Turris MOX без SD-карты используется в качестве точки "
+"доступа Wi-Fi."
 
 #: ./definitions.json
 msgid "Cloud Backups"
 msgstr "Облачные резервные копии"
 
 #: ./definitions.json
-msgid "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
 "Служба для хранения резервных копий конфигурации на удаленных серверах "
 "(ЭКСПЕРИМЕНТАЛЬНО)."
 
-#: ./definitions.json
-msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
-msgstr ""
-"Программное обеспечение для глубокого мониторинга трафика "
-"(ЭКСПЕРИМЕНТАЛЬНОЕ)."
+#~ msgid "Nextcloud"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Self-hosted files hosting and productivity platform that keeps you in "
+#~ "control. Alternative to services such as Dropbox or Google Drive. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
