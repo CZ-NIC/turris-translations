@@ -40,7 +40,7 @@ $(1)_MO:=$$(patsubst %.po,%.mo,$$(shell find -name $(1).po))
 all: $(1)
 $(1): $$($(1)_MO)
 $$($(1)_MO): %.mo: %.po
-	msgfmt --output-file=$$@ $$<
+	msgfmt --use-fuzzy --output-file=$$@ $$<
 
 clean: clean-$(1)
 clean-$(1):
