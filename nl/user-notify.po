@@ -7,26 +7,36 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
+"PO-Revision-Date: 2019-10-15 20:52+0000\n"
+"Last-Translator: powerburner-nl <peter.mulder.1981@gmail.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/turris/"
+"turris-user-notify/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9\n"
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
 msgstr ""
+"Er wordt op dit moment een andere formatteringsopdracht uitgevoerd. Er wordt "
+"niet overgeschakeld naar de nieuwe schijf."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
 msgstr ""
+"Het formatteren van de schijf is mislukt. Probeer deze los te koppelen en "
+"opnieuw aan te sluiten."
 
 #: format_and_set_srv.sh:41
 msgid "Can't get UUID of your newly formatted drive."
-msgstr ""
+msgstr "UUID van het nieuw geformatteerde station kan niet worden ontvangen."
 
 #: format_and_set_srv.sh:47
 msgid "Can't find your current srv location."
-msgstr ""
+msgstr "Kan uw huidige SRV-locatie niet vinden."
 
 #: format_and_set_srv.sh:54
 msgid ""
@@ -35,28 +45,39 @@ msgid ""
 "you have some local data stored on your current storage, those will get moved "
 "during reboot, so your next reboot might take quite some time."
 msgstr ""
+"De nieuwe schijf voor het opslaan van gegevens is geïnstalleerd. Het enige "
+"wat u nu moet doen is uw router opnieuw opstarten om wijzigingen door te "
+"voeren. Houd er rekening mee dat als u lokale gegevens hebt opgeslagen op uw "
+"huidige opslag, dat deze tijdens het opnieuw opstarten worden verplaatst. Uw "
+"volgende herstart kan daarom nogal wat tijd in beslag nemen."
 
 #: srv.init:38
 msgid ""
 "Moving files failed, please check manually what went wrong and what files were "
 "left on your old drive."
 msgstr ""
+"Het verplaatsen van bestanden is mislukt. Controleer handmatig wat er mis is "
+"gegaan en welke bestanden op uw oude schijf zijn achtergelaten."
 
 #: generate-lxc.sh:38
 msgid "Distribution %1 version %2 was just installed as a container."
-msgstr ""
+msgstr "Distributie %1 versie %2 is net geïnstalleerd als een container."
 
 #: generate-lxc.sh:40
 msgid ""
 "Content of the tarballs is provided by third party, thus there is no warranty "
 "of any kind nor support from Turris team."
 msgstr ""
+"Inhoud van de tar-archieven wordt geleverd door derde partij, dus er is geen "
+"garantie noch ondersteuning van het Turris team mogelijk."
 
 #: generate-lxc.sh:42
 msgid ""
 "Do not use containers on internal flash, they can wear it down really fast!!!"
 msgstr ""
+"Gebruik geen containers op het interne flashgeheugen, ze kunnen hierdoor "
+"heel snel verslijten!"
 
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
-msgstr ""
+msgstr "Dit is een testmelding. Negeer me alstublieft."
