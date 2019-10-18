@@ -4,11 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-07-31 16:11\n"
-"PO-Revision-Date: 2019-07-31 16:11\n"
+"PO-Revision-Date: 2019-10-19 15:52+0000\n"
+"Last-Translator: Mattias Münster <mattiasmun@gmail.com>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #: ./definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -97,7 +102,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "OpenVPN"
-msgstr ""
+msgstr "OpenVPN"
 
 #: ./definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
