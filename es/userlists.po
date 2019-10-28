@@ -4,15 +4,20 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-01-25 20:10\n"
-"PO-Revision-Date: 2019-01-25 20:10\n"
+"PO-Revision-Date: 2019-10-29 06:53+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/turris/"
+"turris-userlists/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: ./definitions.json
 msgid "Access tokens"
-msgstr ""
+msgstr "Fichas de acceso"
 
 #: ./definitions.json
 msgid ""
@@ -22,11 +27,11 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Home automation"
-msgstr ""
+msgstr "Automatización doméstica"
 
 #: ./definitions.json
 msgid "Device detection"
-msgstr ""
+msgstr "Detección de dispositivos"
 
 #: ./definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
@@ -59,6 +64,8 @@ msgid ""
 "Services allowing to connect a disk to the router and use it as network data"
 " store."
 msgstr ""
+"Servicios que permiten conectar un disco con el enrutador para utilizarlo "
+"como almacén de datos de red."
 
 #: ./definitions.json
 msgid "SSH Honeypot"
@@ -70,17 +77,19 @@ msgstr ""
 
 #: ./definitions.json
 msgid "LXC utilities"
-msgstr ""
+msgstr "Utilidades de LXC"
 
 #: ./definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
+"Conjunto de herramientas para gestionar contenedores Linux (LXC, una "
+"tecnología de virtualización ligera)."
 
 #: ./definitions.json
 msgid "Extensions of network protocols"
-msgstr ""
+msgstr "Extensiones de protocolos de red"
 
 #: ./definitions.json
 msgid "Support for additional protocols and connection types."
@@ -105,11 +114,11 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Print server"
-msgstr ""
+msgstr "Servidor de impresión"
 
 #: ./definitions.json
 msgid "Cloud Backups"
-msgstr ""
+msgstr "Copias de respaldo en la nube"
 
 #: ./definitions.json
 msgid "Sound card"
@@ -129,7 +138,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Web camera"
-msgstr ""
+msgstr "Cámara web"
 
 #: ./definitions.json
 msgid "Control software for home automation, including Turris Gadgets."
