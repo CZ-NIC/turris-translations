@@ -4,11 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-07-31 16:11\n"
-"PO-Revision-Date: 2019-07-31 16:11\n"
+"PO-Revision-Date: 2019-10-29 06:53+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: ./definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -30,7 +35,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Device detection"
-msgstr ""
+msgstr "Detección de dispositivos"
 
 #: ./definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
@@ -64,13 +69,15 @@ msgstr ""
 
 #: ./definitions.json
 msgid "LXC utilities"
-msgstr ""
+msgstr "Utilidades de LXC"
 
 #: ./definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
+"Conjunto de herramientas para gestionar contenedores Linux (LXC, una "
+"tecnología de virtualización ligera)."
 
 #: ./definitions.json
 msgid "NAS"
@@ -81,6 +88,8 @@ msgid ""
 "Services allowing to connect a disk to the router and use it as network data"
 " store."
 msgstr ""
+"Servicios que permiten conectar un disco con el enrutador para utilizarlo "
+"como almacén de datos de red."
 
 #: ./definitions.json
 msgid "Turris MOX network boot"
@@ -113,7 +122,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Print server"
-msgstr ""
+msgstr "Servidor de impresión"
 
 #: ./definitions.json
 msgid ""
@@ -135,7 +144,7 @@ msgstr ""
 
 #: ./definitions.json
 msgid "Cloud Backups"
-msgstr ""
+msgstr "Copias de respaldo en la nube"
 
 #: ./definitions.json
 msgid ""
