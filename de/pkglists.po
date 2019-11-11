@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-07-31 16:11\n"
-"PO-Revision-Date: 2019-11-08 07:04+0000\n"
-"Last-Translator: nautilusx <mail.ka@mailbox.org>\n"
+"PO-Revision-Date: 2019-11-12 12:04+0000\n"
+"Last-Translator: Ulrich Günther <mail@ulrich-guenther.at>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/turris/"
 "turris-pkglists-1/de/>\n"
 "Language: de\n"
@@ -150,7 +150,7 @@ msgstr "Service zur Erhöhung der Anonymität im Internet."
 
 #: ./definitions.json
 msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
-msgstr ""
+msgstr "Server für Turris MOX ohne SD-Karte der als Access Point benutzt wird."
 
 #: ./definitions.json
 msgid "Cloud Backups"
