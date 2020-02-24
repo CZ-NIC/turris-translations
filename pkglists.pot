@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2019-07-31 16:11\n"
-"PO-Revision-Date: 2019-07-31 16:11\n"
+"POT-Creation-Date: 2020-02-24 14:38\n"
+"PO-Revision-Date: 2020-02-24 14:38\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -141,6 +141,12 @@ msgid ""
 "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
 
+#~ msgid "Hardening (experimental)"
+#~ msgstr ""
+
+#~ msgid "Seccomp tools for system hardening."
+#~ msgstr ""
+
 #~ msgid "Nextcloud"
 #~ msgstr ""
 
@@ -153,4 +159,19 @@ msgstr ""
 #~ msgid ""
 #~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
 #~ "(EXPERIMENTAL)"
+#~ msgstr ""
+
+#~ msgid "reForis (experimental)"
+#~ msgstr ""
+
+#~ msgid "Redesigned Foris is new web interface for Turris routers."
+#~ msgstr ""
+
+#~ msgid "Several additional tabs and controls for the advanced LuCI interface."
+#~ msgstr ""
+
+#~ msgid "Network monitoring and parental control"
+#~ msgstr ""
+
+#~ msgid "Tools to monitor local network and users on it."
 #~ msgstr ""
