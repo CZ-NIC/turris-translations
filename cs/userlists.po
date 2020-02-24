@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2018-03-22 14:56\n"
-"PO-Revision-Date: 2019-09-04 13:53+0000\n"
-"Last-Translator: Josef Schlehofer <pepe@bloodkings.eu>\n"
+"PO-Revision-Date: 2019-09-22 19:27+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/cs/>\n"
 "Language: cs\n"
@@ -24,8 +24,10 @@ msgid ""
 "A Foris plugin allowing to manage remote API access tokens (for example for "
 "use in Spectator or Android application)."
 msgstr ""
-"Správa tokenů pro vzdálený API přístup (např. pro Spectator, nebo Android "
-"aplikaci) ve Forisu."
+"Zásuvný modul pro Foris, sloužící ke správě tokenů pro přístup k jeho "
+"aplikačnímu program. rozhraní (API) na dálku – využíváno např. doprovodnými "
+"nástroji z osobního počítače (aplikace Spectator) nebo mobilní aplikací pro "
+"Android."
 
 #: definitions.json
 msgid "Home automation"
@@ -58,7 +60,7 @@ msgstr ""
 
 #: definitions.json
 msgid "LuCI extensions"
-msgstr "LuCI rozšíření"
+msgstr "Rozšíření do LuCI"
 
 #: definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
@@ -71,7 +73,9 @@ msgstr "Majordomo"
 #: definitions.json
 msgid ""
 "Software for monitoring connections of devices in local network (obsolete)."
-msgstr "Software pro sledování spojení jednotlivých zařízení v síti (zastaralé)."
+msgstr ""
+"Software pro sledování spojení jednotlivých zařízení v místní síti "
+"(zastaralé)."
 
 #: definitions.json
 msgid "NAS"
@@ -82,7 +86,8 @@ msgid ""
 "Services allowing to connect a disk to the router and use it as network data "
 "store."
 msgstr ""
-"Služby umožňující připojit k routeru disk a použít ho jako síťové úložiště."
+"Služby umožňující připojit ke směrovači jednotku datového úložiště a "
+"používat ji jako síťovou."
 
 #: definitions.json
 msgid "LXC utilities"
@@ -93,7 +98,7 @@ msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
-"Sada nástrojů pro správu Linuxových kontejnerů (odlehčená virtualizační "
+"Sada nástrojů pro správu linuxových kontejnerů (odlehčená virtualizační "
 "technologie)."
 
 #: definitions.json
@@ -112,7 +117,8 @@ msgstr "Měření rychlosti připojení k Internetu"
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
-"Aktivní měření rychlosti připojení k Internetu pomocí služby netmetr.cz."
+"Provádí aktivní měření rychlosti připojení k Internetu pomocí služby "
+"netmetr.cz."
 
 #: definitions.json
 msgid "OpenVPN"
@@ -120,7 +126,7 @@ msgstr "OpenVPN"
 
 #: definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
-msgstr "Snadné nastavení OpenVPN serveru z Foris."
+msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."
 
 #: definitions.json
 msgid "Print server"
@@ -131,15 +137,16 @@ msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
-"Služby umožňující připojit k routeru tiskárnu a použít ji pro tisk na dálku."
+"Služby umožňující připojit ke směrovači tiskárnu a používat ji pro tisk po "
+"síti."
 
 #: definitions.json
 msgid "Sound card"
-msgstr "Zvuková karta"
+msgstr "Zvukové zařízení"
 
 #: definitions.json
 msgid "Support for USB sound card."
-msgstr "Podpora pro připojení USB zvukové karty."
+msgstr "Podpora pro připojení USB zvukového zařízení."
 
 #: definitions.json
 msgid "Squid"
@@ -171,11 +178,11 @@ msgstr "SSH honeypot"
 
 #: definitions.json
 msgid "Trap for password-guessing robots on SSH."
-msgstr "Past na roboty, snažící se uhádnout heslo pro SSH."
+msgstr "Past na automaty, snažící se uhádnout heslo pro SSH."
 
 #: definitions.json
 msgid "Cloud Backups"
-msgstr "Cloudové zálohy"
+msgstr "Zálohování do cloudu"
 
 #: definitions.json
 msgid ""

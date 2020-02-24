@@ -4,41 +4,47 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-07-31 16:11\n"
-"PO-Revision-Date: 2019-07-31 16:11\n"
+"PO-Revision-Date: 2019-09-25 20:28+0000\n"
+"Last-Translator: Zoli <boritek@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: ./definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
-msgstr ""
+msgstr "A 3G/LTE hálózati protokollok kiterjesztései"
 
 #: ./definitions.json
 msgid "Support for additional protocols and connection types."
-msgstr ""
+msgstr "További protokollok és kapcsolattípusok támogatása."
 
 #: ./definitions.json
 msgid "Data Collection"
-msgstr ""
+msgstr "Adatgyűjtés"
 
 #: ./definitions.json
 msgid ""
 "Software for participation in data collection and dynamic distributed "
 "firewall."
 msgstr ""
+"Szoftver adatgyűjtésben való részvételhez és dinamikusan elosztott tűzfal."
 
 #: ./definitions.json
 msgid "Device detection"
-msgstr ""
+msgstr "Eszközfelismerés"
 
 #: ./definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
-msgstr ""
+msgstr "Szoftver új eszközök felismerésére a helyi hálózaton (KÍSÉRLETI)."
 
 #: ./definitions.json
 msgid "DVB tuner"
-msgstr ""
+msgstr "DVB-tuner"
 
 #: ./definitions.json
 msgid ""
