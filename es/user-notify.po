@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
-"PO-Revision-Date: 2020-05-25 05:41+0000\n"
-"Last-Translator: Eduardo Cuthbert <elguber@gmail.com>\n"
+"PO-Revision-Date: 2020-05-30 12:41+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/turris/"
 "turris-user-notify/es/>\n"
 "Language: es\n"
@@ -20,22 +20,20 @@ msgstr ""
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
-msgstr ""
-"Otro trabajo de formateo està actualmente en progreso, no cambiar a nueva "
-"unidad."
+msgstr "Otra tarea de formato está en curso; no se cambiará a la unidad nueva."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
 msgstr ""
-"Formateo de la unidad fallò, intente desconectando y conectando de nuevo."
+"Falló el formato de la unidad; pruebe a desconectarla y conectarla de nuevo."
 
 #: format_and_set_srv.sh:41
 msgid "Can't get UUID of your newly formatted drive."
-msgstr "No se puede obtener el UUID de su formateada nueva unidad."
+msgstr "No se puede obtener el UUID de la unidad recién formateada."
 
 #: format_and_set_srv.sh:47
 msgid "Can't find your current srv location."
-msgstr "No se puede encontrar la ubicaciòn de su srv actual."
+msgstr "No se puede encontrar la ubicación del srv actual."
 
 #: format_and_set_srv.sh:54
 msgid ""
@@ -44,11 +42,10 @@ msgid ""
 "you have some local data stored on your current storage, those will get moved "
 "during reboot, so your next reboot might take quite some time."
 msgstr ""
-"Su nuevo disco para guardar datos ha sido configurado corresctamente. "
-"Necesita reiniciar el router para que los cambios sean efectivos. Sea "
-"consciente que si tiene datos locales en su unidad actual, estos seran "
-"movidos durante el reinicio, asi que , el proximo inicio demorarà mas de lo "
-"normal."
+"Se ha configurado correctamente el disco nuevo de almacenamiento de datos. "
+"Ahora basta con reiniciar el enrutador para que surtan efecto los cambios. "
+"Tenga en cuenta que, si tiene datos locales en su almacenamiento actual, "
+"estos se trasladarán durante el reinicio, lo que podría provocar demoras."
 
 #: srv.init:38
 msgid ""
@@ -60,24 +57,23 @@ msgstr ""
 
 #: generate-lxc.sh:38
 msgid "Distribution %1 version %2 was just installed as a container."
-msgstr ""
-"Distribuciòn %1 versiòn %2 fuè recientemente instalada como un contenedor."
+msgstr "La distribución %1, versión %2, acaba de instalarse como contenedor."
 
 #: generate-lxc.sh:40
 msgid ""
 "Content of the tarballs is provided by third party, thus there is no warranty "
 "of any kind nor support from Turris team."
 msgstr ""
-"El contenido de los tarballs es suministrado por terceros, de este modo , no "
-"hay garantìa de cualquier tipo de soporte por parte tel equipo de Turris."
+"El contenido de los archivadores .tar lo brindan terceros; por esta razón, "
+"el equipo de Turris no ofrece garantías o asistencia."
 
 #: generate-lxc.sh:42
 msgid ""
 "Do not use containers on internal flash, they can wear it down really fast!!!"
 msgstr ""
-"No use containers en una unidad interna ya que se puede dañar muy "
-"ràpidamente!!!"
+"¡No utilice contenedores en la memoria «flash» interna, dado que pueden "
+"desgastarla muy rápidamente!"
 
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
-msgstr "Esto es un test de notificacion. Por favor, ignòreme."
+msgstr "Esta es una notificación de prueba. Ignórela."
