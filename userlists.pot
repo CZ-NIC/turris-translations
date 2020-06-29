@@ -131,82 +131,96 @@ msgid "Web camera"
 msgstr ""
 
 #: ./definitions.json
-msgid "Control software for home automation, including Turris Gadgets."
+msgid ""
+"Control software for home automation, including Turris Gadgets. (OBSOLETE)"
 msgstr ""
 
 #: ./definitions.json
-msgid "Majordomo"
+msgid "Data Collection"
 msgstr ""
 
 #: ./definitions.json
 msgid ""
-"Software for monitoring connections of devices in local network (obsolete)."
+"Software for participation in data collection and dynamic distributed "
+"firewall."
+msgstr ""
+
+#: ./definitions.json
+msgid "Pakon"
+msgstr ""
+
+#: ./definitions.json
+msgid "Software for in depth monitoring of your traffic."
+msgstr ""
+
+#: ./definitions.json
+msgid "Turris MOX network boot"
+msgstr ""
+
+#: ./definitions.json
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
 msgstr ""
 
 #: ./definitions.json
 msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
-"printing."
+"printing. (OBSOLETE)"
 msgstr ""
 
 #: ./definitions.json
-msgid "Support for USB sound card."
+msgid "Service for storing configuration backups on remote servers."
 msgstr ""
 
 #: ./definitions.json
-msgid "HTTP caching proxy Squid."
+msgid "Support for USB sound card. (OBSOLETE)"
 msgstr ""
 
 #: ./definitions.json
-msgid "Support to capture image with web camera."
+msgid "HTTP caching proxy Squid. (OBSOLETE)"
+msgstr ""
+
+#: ./definitions.json
+msgid "Support to capture image with web camera. (OBSOLETE)"
+msgstr ""
+
+#: ./definitions.json
+msgid "Migration to Turris OS 5.x (EXPERIMENTAL)"
 msgstr ""
 
 #: ./definitions.json
 msgid ""
-"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+"This is experimental migration to latest version of Turris OS. Make sure "
+"that you thoroughly read https://docs.turris.cz/geek/tos3_migration/ before "
+"enabling this!"
 msgstr ""
 
-#: ./definitions.json
-msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
-msgstr ""
-
-#~ msgid ""
-#~ "Control software for home automation, including Turris Gadgets. (OBSOLETE)"
+#~ msgid "Control software for home automation, including Turris Gadgets."
 #~ msgstr ""
 
-#~ msgid "Data Collection"
+#~ msgid "Majordomo"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "Software for participation in data collection and dynamic distributed "
-#~ "firewall."
-#~ msgstr ""
-
-#~ msgid "Pakon"
-#~ msgstr ""
-
-#~ msgid "Software for in depth monitoring of your traffic."
-#~ msgstr ""
-
-#~ msgid "Turris MOX network boot"
-#~ msgstr ""
-
-#~ msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+#~ "Software for monitoring connections of devices in local network (obsolete)."
 #~ msgstr ""
 
 #~ msgid ""
 #~ "Services allowing to connect a printer to the router and use it for remote "
-#~ "printing. (OBSOLETE)"
+#~ "printing."
 #~ msgstr ""
 
-#~ msgid "Service for storing configuration backups on remote servers."
+#~ msgid "Support for USB sound card."
 #~ msgstr ""
 
-#~ msgid "Support for USB sound card. (OBSOLETE)"
+#~ msgid "HTTP caching proxy Squid."
 #~ msgstr ""
 
-#~ msgid "HTTP caching proxy Squid. (OBSOLETE)"
+#~ msgid "Support to capture image with web camera."
 #~ msgstr ""
 
-#~ msgid "Support to capture image with web camera. (OBSOLETE)"
+#~ msgid ""
+#~ "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+#~ msgstr ""
+
+#~ msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
 #~ msgstr ""
