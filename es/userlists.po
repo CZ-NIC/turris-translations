@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-01-25 20:10\n"
-"PO-Revision-Date: 2019-10-29 06:53+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"PO-Revision-Date: 2020-06-01 05:41+0000\n"
+"Last-Translator: Eduardo Cuthbert <elguber@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/es/>\n"
 "Language: es\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #: ./definitions.json
 msgid "Access tokens"
@@ -36,28 +36,31 @@ msgstr "Detección de dispositivos"
 #: ./definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 msgstr ""
+"Software para detectar nuevos dispositivos en la red local (EXPERIMENTAL)."
 
 #: ./definitions.json
 msgid "DVB tuner"
-msgstr ""
+msgstr "Sintonizador DVB"
 
 #: ./definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
+"Software para compartir señal de televisiòn recibida por un sintonizador DVB "
+"en Turris. No incluye controladores de dispositivo."
 
 #: ./definitions.json
 msgid "LuCI extensions"
-msgstr ""
+msgstr "Extensiones LuCI"
 
 #: ./definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
-msgstr ""
+msgstr "Varias pestañas adicionales y controles para intefaz LuCI avanzado."
 
 #: ./definitions.json
 msgid "NAS"
-msgstr ""
+msgstr "NAS"
 
 #: ./definitions.json
 msgid ""
@@ -69,11 +72,11 @@ msgstr ""
 
 #: ./definitions.json
 msgid "SSH Honeypot"
-msgstr ""
+msgstr "Honeypot SSH"
 
 #: ./definitions.json
 msgid "Trap for password-guessing robots on SSH."
-msgstr ""
+msgstr "Trampa para robots de adivinadores de contraseñas en SSH."
 
 #: ./definitions.json
 msgid "LXC utilities"
@@ -93,20 +96,22 @@ msgstr "Extensiones de protocolos de red"
 
 #: ./definitions.json
 msgid "Support for additional protocols and connection types."
-msgstr ""
+msgstr "Soporte para protocolos adicionales y tipos de conexiòn."
 
 #: ./definitions.json
 msgid "Internet connection speed measurement"
-msgstr ""
+msgstr "Mediciòn de velocidad de la conexiòn a internet"
 
 #: ./definitions.json
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
+"Mide activamente la velocidad de conexiòn a internet usando el servicio "
+"netmetr.cz."
 
 #: ./definitions.json
 msgid "OpenVPN"
-msgstr ""
+msgstr "OpenVPN"
 
 #: ./definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
