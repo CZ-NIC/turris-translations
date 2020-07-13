@@ -3,155 +3,396 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2019-07-31 16:11\n"
+"POT-Creation-Date: 2020-02-24 14:38\n"
 "PO-Revision-Date: 2019-07-31 16:11\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./definitions.json
+#: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
 msgstr ""
 
-#: ./definitions.json
-msgid "Support for additional protocols and connection types."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "Data Collection"
 msgstr ""
 
-#: ./definitions.json
-msgid ""
-"Software for participation in data collection and dynamic distributed "
-"firewall."
-msgstr ""
-
-#: ./definitions.json
-msgid "Device detection"
-msgstr ""
-
-#: ./definitions.json
-msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "DVB tuner"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "SSH Honeypot"
 msgstr ""
 
-#: ./definitions.json
-msgid "Trap for password-guessing robots on SSH."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "LuCI extensions"
 msgstr ""
 
-#: ./definitions.json
-msgid "Several addional tabs and controls for the advanced LuCI interface."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "LXC utilities"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "NAS"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
-"Services allowing to connect a disk to the router and use it as network data"
-" store."
+"Services allowing to connect a disk to the router and use it as network data "
+"store."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Turris MOX network boot"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Internet connection speed measurement"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "OpenVPN"
 msgstr ""
 
-#: ./definitions.json
-msgid "An easy setup of OpenVPN server from Foris."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "Pakon"
 msgstr ""
 
-#: ./definitions.json
-msgid "Software for in depth monitoring of your traffic."
-msgstr ""
-
-#: ./definitions.json
-msgid "Print server"
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Tor"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Service to increase anonymity on the Internet."
 msgstr ""
 
-#: ./definitions.json
-msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+#: definitions.json
+msgid "Seccomp tools for system hardening."
 msgstr ""
 
-#: ./definitions.json
-msgid "Cloud Backups"
+#: definitions.json
+msgid "Nextcloud"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
+msgid "Several additional tabs and controls for the advanced LuCI interface."
+msgstr ""
+
+#: definitions.json
+msgid "Network monitoring and parental control"
+msgstr ""
+
+#: definitions.json
+msgid "Tools to monitor local network and users on it."
+msgstr ""
+
+#: definitions.json
+msgid "Support for Turris Omnia and Turris MOX LTE pack."
+msgstr ""
+
+#: definitions.json
 msgid ""
-"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+"Software for participation in data collection and distributed adaptive "
+"firewall."
 msgstr ""
 
-#~ msgid "Nextcloud"
-#~ msgstr ""
+#: definitions.json
+msgid "Usage Survey"
+msgstr ""
 
-#~ msgid ""
-#~ "Self-hosted files hosting and productivity platform that keeps you in "
-#~ "control. Alternative to services such as Dropbox or Google Drive. "
-#~ "(EXPERIMENTAL)"
-#~ msgstr ""
+#: definitions.json
+msgid ""
+"Collect data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
 
-#~ msgid ""
-#~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
-#~ "(EXPERIMENTAL)"
-#~ msgstr ""
+#: definitions.json
+msgid "Dynamic Firewall"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Add firewall rules to block attackers detected by Turris collection network."
+msgstr ""
+
+#: definitions.json
+msgid "Firewall Logs"
+msgstr ""
+
+#: definitions.json
+msgid "Collect logs from firewall for attempted connections."
+msgstr ""
+
+#: definitions.json
+msgid "Minipots"
+msgstr ""
+
+#: definitions.json
+msgid "Minimal honeypots to catch attackers for various protocols."
+msgstr ""
+
+#: definitions.json
+msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
+msgstr ""
+
+#: definitions.json
+msgid "Hardening"
+msgstr ""
+
+#: definitions.json
+msgid "AdBlock"
+msgstr ""
+
+#: definitions.json
+msgid "Script to block ad/abuse domains."
+msgstr ""
+
+#: definitions.json
+msgid "SQM"
+msgstr ""
+
+#: definitions.json
+msgid "Active Queue Management to boost performance on heavily loaded network."
+msgstr ""
+
+#: definitions.json
+msgid "Tinyproxy"
+msgstr ""
+
+#: definitions.json
+msgid "HTTP(S) proxy."
+msgstr ""
+
+#: definitions.json
+msgid "UPnP"
+msgstr ""
+
+#: definitions.json
+msgid "Universal Plug and Play service."
+msgstr ""
+
+#: definitions.json
+msgid "Print server (p910nd)"
+msgstr ""
+
+#: definitions.json
+msgid "Statistics"
+msgstr ""
+
+#: definitions.json
+msgid "Gather and render diagrams for system statistics by using collectd."
+msgstr ""
+
+#: definitions.json
+msgid "Samba"
+msgstr ""
+
+#: definitions.json
+msgid "Implementation of SMB network protocol."
+msgstr ""
+
+#: definitions.json
+msgid "DLNA"
+msgstr ""
+
+#: definitions.json
+msgid "Digital media sharing server."
+msgstr ""
+
+#: definitions.json
+msgid "Transmission"
+msgstr ""
+
+#: definitions.json
+msgid "BitTorrent client."
+msgstr ""
+
+#: definitions.json
+msgid "mdadm"
+msgstr ""
+
+#: definitions.json
+msgid "Software RAID storage support using mdadm."
+msgstr ""
+
+#: definitions.json
+msgid "Encrypted Storage"
+msgstr ""
+
+#: definitions.json
+msgid "Add support to access encrypted storage devices using dm-crypt."
+msgstr ""
+
+#: definitions.json
+msgid "New devices detection"
+msgstr ""
+
+#: definitions.json
+msgid "Software for detecting new devices on local network."
+msgstr ""
+
+#: definitions.json
+msgid "Software for in depth monitoring of your traffic using Suricata."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Server-side for Turris MOX without microSD card used as Wi-Fi access point."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Self-hosted files hosting and productivity platform that keeps you in "
+"control. Alternative to services such as Dropbox or Google Drive."
+msgstr ""
+
+#: definitions.json
+msgid "Easy setup of the OpenVPN server from Foris."
+msgstr ""
+
+#: labels.json
+msgid "Advanced users"
+msgstr ""
+
+#: labels.json
+msgid "This functionality is usable only for advanced users."
+msgstr ""
+
+#: labels.json
+msgid "Community"
+msgstr ""
+
+#: labels.json
+msgid ""
+"This package list is not officially supported. Turris team has no "
+"responsibility for stability of software that is part of this list."
+msgstr ""
+
+#: labels.json
+msgid "Experimental"
+msgstr ""
+
+#: labels.json
+msgid ""
+"Software that is part of this package list is considered experimental. "
+"Problems when using it might be expected."
+msgstr ""
+
+#: labels.json
+msgid "Deprecated"
+msgstr ""
+
+#: labels.json
+msgid ""
+"This package list and/or software that provides is planned to be removed. It "
+"is advised to not use it."
+msgstr ""
+
+#: labels.json
+msgid "External storage"
+msgstr ""
+
+#: labels.json
+msgid ""
+"Using external storage is highly suggested for this package list usage. "
+"Software it contains can wear out flash storages as it performs increased "
+"amount of writes."
+msgstr ""
+
+#: labels.json
+msgid "High memory usage"
+msgstr ""
+
+#: labels.json
+msgid ""
+"Software in this package list consumes possibly higher amount of RAM to run. "
+"It is not suggested to use it with small memory."
+msgstr ""
+
+#: labels.json
+msgid "High storage usage"
+msgstr ""
+
+#: labels.json
+msgid ""
+"Software in this package list consumes possibly higher amount of storage "
+"space to install. It is not suggested to use it with small storages such as "
+"internal storage of Turris 1.x and microSD cards with less than 1GB of "
+"storage."
+msgstr ""
+
+#: labels.json
+msgid "Network load"
+msgstr ""
+
+#: labels.json
+msgid ""
+"This functionality can decrease network performance. That can be felt only "
+"on faster uplinks but because of that it still can be decremental to some "
+"users."
+msgstr ""
+
+#: definitions.json
+msgid "Alternative core drivers"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"These options allow you to use alternative drivers over those available in "
+"default installation. You can try to enable these if you encounter some "
+"problems with default ones."
+msgstr ""
+
+#: definitions.json
+msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
+msgstr ""
+
+#: definitions.json
+msgid "Alternative driver from Candela Technologies."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
+"improved stability in busy networks"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Alternative driver from Candela Technologies. It uses HTT TX data path for "
+"management frames, which improves stability in busy networks."
+msgstr ""
+
+msgid "Hardening (experimental)"
+msgstr ""
+
+msgid "reForis (experimental)"
+msgstr ""
+
+msgid "Redesigned Foris is new web interface for Turris routers."
+msgstr ""

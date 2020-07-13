@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2018-03-22 14:56\n"
+"POT-Creation-Date: 2019-01-25 20:10\n"
 "PO-Revision-Date: 2019-09-22 19:27+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
-"turris-userlists/cs/>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/turris/turris-"
+"userlists/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,10 +32,6 @@ msgstr ""
 #: definitions.json
 msgid "Home automation"
 msgstr "Domácí automatizace"
-
-#: definitions.json
-msgid "Control software for home automation, including Turris Gadgets."
-msgstr "Software pro ovládání domácí automatizace, včetně Turris Gadgets."
 
 #: definitions.json
 msgid "Device detection"
@@ -64,18 +60,8 @@ msgstr "Rozšíření do LuCI"
 
 #: definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
-msgstr "Několik dalších panelů a ovládacích prvků do pokročilého rozhraní LuCI."
-
-#: definitions.json
-msgid "Majordomo"
-msgstr "Majordomo"
-
-#: definitions.json
-msgid ""
-"Software for monitoring connections of devices in local network (obsolete)."
 msgstr ""
-"Software pro sledování spojení jednotlivých zařízení v místní síti "
-"(zastaralé)."
+"Několik dalších panelů a ovládacích prvků do pokročilého rozhraní LuCI."
 
 #: definitions.json
 msgid "NAS"
@@ -88,6 +74,14 @@ msgid ""
 msgstr ""
 "Služby umožňující připojit ke směrovači jednotku datového úložiště a "
 "používat ji jako síťovou."
+
+#: definitions.json
+msgid "SSH Honeypot"
+msgstr "SSH honeypot"
+
+#: definitions.json
+msgid "Trap for password-guessing robots on SSH."
+msgstr "Past na automaty, snažící se uhádnout heslo pro SSH."
 
 #: definitions.json
 msgid "LXC utilities"
@@ -117,8 +111,8 @@ msgstr "Měření rychlosti připojení k Internetu"
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
-"Provádí aktivní měření rychlosti připojení k Internetu pomocí služby "
-"netmetr.cz."
+"Provádí aktivní měření rychlosti připojení k Internetu pomocí služby netmetr."
+"cz."
 
 #: definitions.json
 msgid "OpenVPN"
@@ -133,28 +127,16 @@ msgid "Print server"
 msgstr "Tiskový server"
 
 #: definitions.json
-msgid ""
-"Services allowing to connect a printer to the router and use it for remote "
-"printing."
-msgstr ""
-"Služby umožňující připojit ke směrovači tiskárnu a používat ji pro tisk po "
-"síti."
+msgid "Cloud Backups"
+msgstr "Zálohování do cloudu"
 
 #: definitions.json
 msgid "Sound card"
 msgstr "Zvukové zařízení"
 
 #: definitions.json
-msgid "Support for USB sound card."
-msgstr "Podpora pro připojení USB zvukového zařízení."
-
-#: definitions.json
 msgid "Squid"
 msgstr "Squid"
-
-#: definitions.json
-msgid "HTTP caching proxy Squid."
-msgstr "HTTP proxy mezipaměť Squid."
 
 #: definitions.json
 msgid "Tor"
@@ -169,27 +151,115 @@ msgid "Web camera"
 msgstr "Webová kamera"
 
 #: definitions.json
-msgid "Support to capture image with web camera."
-msgstr "Podpora pro snímání obrazu pomocí webové kamery."
+#, fuzzy
+msgid ""
+"Control software for home automation, including Turris Gadgets. (OBSOLETE)"
+msgstr "Software pro ovládání domácí automatizace, včetně Turris Gadgets."
 
 #: definitions.json
-msgid "SSH Honeypot"
-msgstr "SSH honeypot"
-
-#: definitions.json
-msgid "Trap for password-guessing robots on SSH."
-msgstr "Past na automaty, snažící se uhádnout heslo pro SSH."
-
-#: definitions.json
-msgid "Cloud Backups"
-msgstr "Zálohování do cloudu"
+msgid "Data Collection"
+msgstr ""
 
 #: definitions.json
 msgid ""
-"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+"Software for participation in data collection and dynamic distributed "
+"firewall."
+msgstr ""
+
+#: definitions.json
+msgid "Pakon"
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid "Software for in depth monitoring of your traffic."
+msgstr "Software pro podrobné monitorování síťového provozu (EXPERIMENTÁLNÍ)."
+
+#: definitions.json
+msgid "Turris MOX network boot"
+msgstr ""
+
+#: definitions.json
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing. (OBSOLETE)"
+msgstr ""
+"Služby umožňující připojit ke směrovači tiskárnu a používat ji pro tisk po "
+"síti."
+
+#: definitions.json
+#, fuzzy
+msgid "Service for storing configuration backups on remote servers."
 msgstr ""
 "Služba pro ukládání záloh nastavení na vzdálených serverech (EXPERIMENTÁLNÍ)."
 
 #: definitions.json
-msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
-msgstr "Software pro podrobné monitorování síťového provozu (EXPERIMENTÁLNÍ)."
+#, fuzzy
+msgid "Support for USB sound card. (OBSOLETE)"
+msgstr "Podpora pro připojení USB zvukového zařízení."
+
+#: definitions.json
+#, fuzzy
+msgid "HTTP caching proxy Squid. (OBSOLETE)"
+msgstr "HTTP proxy mezipaměť Squid."
+
+#: definitions.json
+#, fuzzy
+msgid "Support to capture image with web camera. (OBSOLETE)"
+msgstr "Podpora pro snímání obrazu pomocí webové kamery."
+
+#: definitions.json
+msgid "Migration to Turris OS 5.x (EXPERIMENTAL)"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"This is experimental migration to latest version of Turris OS. Make sure "
+"that you thoroughly read https://docs.turris.cz/geek/tos3_migration/ before "
+"enabling this!"
+msgstr ""
+
+#~ msgid "Control software for home automation, including Turris Gadgets."
+#~ msgstr "Software pro ovládání domácí automatizace, včetně Turris Gadgets."
+
+#~ msgid "Majordomo"
+#~ msgstr "Majordomo"
+
+#~ msgid ""
+#~ "Software for monitoring connections of devices in local network "
+#~ "(obsolete)."
+#~ msgstr ""
+#~ "Software pro sledování spojení jednotlivých zařízení v místní síti "
+#~ "(zastaralé)."
+
+#~ msgid ""
+#~ "Services allowing to connect a printer to the router and use it for "
+#~ "remote printing."
+#~ msgstr ""
+#~ "Služby umožňující připojit ke směrovači tiskárnu a používat ji pro tisk "
+#~ "po síti."
+
+#~ msgid "Support for USB sound card."
+#~ msgstr "Podpora pro připojení USB zvukového zařízení."
+
+#~ msgid "HTTP caching proxy Squid."
+#~ msgstr "HTTP proxy mezipaměť Squid."
+
+#~ msgid "Support to capture image with web camera."
+#~ msgstr "Podpora pro snímání obrazu pomocí webové kamery."
+
+#~ msgid ""
+#~ "Service for storing configuration backups on remote servers "
+#~ "(EXPERIMENTAL)."
+#~ msgstr ""
+#~ "Služba pro ukládání záloh nastavení na vzdálených serverech "
+#~ "(EXPERIMENTÁLNÍ)."
+
+#~ msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
+#~ msgstr ""
+#~ "Software pro podrobné monitorování síťového provozu (EXPERIMENTÁLNÍ)."

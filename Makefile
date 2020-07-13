@@ -26,7 +26,7 @@ install-$(1)-$(2): $(2)/$(1).mo
 
 update-$(1): update-$(1)-$(2)
 update-$(1)-$(2):
-	msgmerge --update $(2)/$(1).po $(1).pot
+	msgmerge --backup off --update $(2)/$(1).po $(1).pot
 
 endef
 

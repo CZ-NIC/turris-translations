@@ -3,173 +3,199 @@ msgid ""
 msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2018-03-22 14:56\n"
+"POT-Creation-Date: 2019-01-25 20:10\n"
 "PO-Revision-Date: 2019-10-19 15:52+0000\n"
 "Last-Translator: Mattias Münster <mattiasmun@gmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/turris/"
-"turris-userlists/sv/>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/turris/turris-"
+"userlists/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.9.1-dev\n"
 
-#: ./definitions.json
+#: definitions.json
 msgid "Access tokens"
 msgstr "Åtkomstnycklar"
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "A Foris plugin allowing to manage remote API access tokens (for example for "
 "use in Spectator or Android application)."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Home automation"
 msgstr ""
 
-#: ./definitions.json
-msgid "Control software for home automation, including Turris Gadgets."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "Device detection"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "DVB tuner"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "LuCI extensions"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Several addional tabs and controls for the advanced LuCI interface."
 msgstr ""
 
-#: ./definitions.json
-msgid "Majordomo"
-msgstr ""
-
-#: ./definitions.json
-msgid "Software for monitoring connections of devices in local network (obsolete)."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "NAS"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
-"Services allowing to connect a disk to the router and use it as network data"
-" store."
+"Services allowing to connect a disk to the router and use it as network data "
+"store."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
+msgid "SSH Honeypot"
+msgstr ""
+
+#: definitions.json
+msgid "Trap for password-guessing robots on SSH."
+msgstr ""
+
+#: definitions.json
 msgid "LXC utilities"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Extensions of network protocols"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Support for additional protocols and connection types."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Internet connection speed measurement"
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "OpenVPN"
 msgstr "OpenVPN"
 
-#: ./definitions.json
+#: definitions.json
 msgid "An easy setup of OpenVPN server from Foris."
 msgstr ""
 
-#: ./definitions.json
+#: definitions.json
 msgid "Print server"
 msgstr ""
 
-#: ./definitions.json
-msgid ""
-"Services allowing to connect a printer to the router and use it for remote "
-"printing."
-msgstr ""
-
-#: ./definitions.json
-msgid "Sound card"
-msgstr ""
-
-#: ./definitions.json
-msgid "Support for USB sound card."
-msgstr ""
-
-#: ./definitions.json
-msgid "Squid"
-msgstr ""
-
-#: ./definitions.json
-msgid "HTTP caching proxy Squid."
-msgstr ""
-
-#: ./definitions.json
-msgid "Tor"
-msgstr ""
-
-#: ./definitions.json
-msgid "Service to increase anonymity on the Internet."
-msgstr ""
-
-#: ./definitions.json
-msgid "Web camera"
-msgstr ""
-
-#: ./definitions.json
-msgid "Support to capture image with web camera."
-msgstr ""
-
-#: ./definitions.json
-msgid "SSH Honeypot"
-msgstr ""
-
-#: ./definitions.json
-msgid "Trap for password-guessing robots on SSH."
-msgstr ""
-
-#: ./definitions.json
+#: definitions.json
 msgid "Cloud Backups"
 msgstr ""
 
-#: ./definitions.json
-msgid "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+#: definitions.json
+msgid "Sound card"
 msgstr ""
 
-#: ./definitions.json
-msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
+#: definitions.json
+msgid "Squid"
+msgstr ""
+
+#: definitions.json
+msgid "Tor"
+msgstr ""
+
+#: definitions.json
+msgid "Service to increase anonymity on the Internet."
+msgstr ""
+
+#: definitions.json
+msgid "Web camera"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Control software for home automation, including Turris Gadgets. (OBSOLETE)"
+msgstr ""
+
+#: definitions.json
+msgid "Data Collection"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Software for participation in data collection and dynamic distributed "
+"firewall."
+msgstr ""
+
+#: definitions.json
+msgid "Pakon"
+msgstr ""
+
+#: definitions.json
+msgid "Software for in depth monitoring of your traffic."
+msgstr ""
+
+#: definitions.json
+msgid "Turris MOX network boot"
+msgstr ""
+
+#: definitions.json
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing. (OBSOLETE)"
+msgstr ""
+
+#: definitions.json
+msgid "Service for storing configuration backups on remote servers."
+msgstr ""
+
+#: definitions.json
+msgid "Support for USB sound card. (OBSOLETE)"
+msgstr ""
+
+#: definitions.json
+msgid "HTTP caching proxy Squid. (OBSOLETE)"
+msgstr ""
+
+#: definitions.json
+msgid "Support to capture image with web camera. (OBSOLETE)"
+msgstr ""
+
+#: definitions.json
+msgid "Migration to Turris OS 5.x (EXPERIMENTAL)"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"This is experimental migration to latest version of Turris OS. Make sure "
+"that you thoroughly read https://docs.turris.cz/geek/tos3_migration/ before "
+"enabling this!"
 msgstr ""
