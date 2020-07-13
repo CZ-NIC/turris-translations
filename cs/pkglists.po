@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2019-09-22 19:27+0000\n"
-"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/cs/>\n"
+"PO-Revision-Date: 2020-07-14 11:41+0000\n"
+"Last-Translator: Karel Kočí <karel.koci@nic.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -112,7 +112,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: definitions.json
 #, fuzzy
@@ -122,15 +122,15 @@ msgstr ""
 
 #: definitions.json
 msgid "Network monitoring and parental control"
-msgstr ""
+msgstr "Dohled nad sítí a rodičovská kontrola"
 
 #: definitions.json
 msgid "Tools to monitor local network and users on it."
-msgstr ""
+msgstr "Nástroje pro dohled nad sítí a jejích uživatelů."
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr ""
+msgstr "Podpora pro Turris Omnia a Turris MOX LTE pack."
 
 #: definitions.json
 #, fuzzy
@@ -143,42 +143,46 @@ msgstr ""
 
 #: definitions.json
 msgid "Usage Survey"
-msgstr ""
+msgstr "Průzkum využití"
 
 #: definitions.json
 msgid ""
 "Collect data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
+"Sběr dat o užívání routeru (nainstalované balíčky, typ připojení k internetu "
+"a jiné)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr ""
+msgstr "Dynamický Firewall"
 
 #: definitions.json
 msgid ""
 "Add firewall rules to block attackers detected by Turris collection network."
 msgstr ""
+"Přidává pravidla pro firewall k blokování útočníků zachycených pomocí Turris "
+"sítě pro sběr dat."
 
 #: definitions.json
 msgid "Firewall Logs"
-msgstr ""
+msgstr "Záznamy z Firewallu"
 
 #: definitions.json
 msgid "Collect logs from firewall for attempted connections."
-msgstr ""
+msgstr "Sběr záznamů z firewall o pokusech o připojení."
 
 #: definitions.json
 msgid "Minipots"
-msgstr ""
+msgstr "Minipoty"
 
 #: definitions.json
 msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr ""
+msgstr "Minimální honeypoty zachytávající útočníky na různých protokolech."
 
 #: definitions.json
 msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr ""
+msgstr "SSH honeypot používající Honeypot as a Service (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
@@ -198,7 +202,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Active Queue Management to boost performance on heavily loaded network."
-msgstr ""
+msgstr "Aktivní správa front pro zvýšený výkon na velmi zatížených sítích."
 
 #: definitions.json
 msgid "Tinyproxy"
@@ -217,26 +221,24 @@ msgid "Universal Plug and Play service."
 msgstr ""
 
 #: definitions.json
-#, fuzzy
 msgid "Print server (p910nd)"
-msgstr "Tiskový server"
+msgstr "Tiskový server (p910nd)"
 
 #: definitions.json
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiky"
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
-msgstr ""
+msgstr "Sběr a vykreslení diagramů pro systémové statistiky pomocí collectd."
 
 #: definitions.json
 msgid "Samba"
 msgstr ""
 
 #: definitions.json
-#, fuzzy
 msgid "Implementation of SMB network protocol."
-msgstr "Rozšíření podpory sítí o 3G/LTE"
+msgstr "Implementace SMB síťového protokolu."
 
 #: definitions.json
 msgid "DLNA"
@@ -264,27 +266,25 @@ msgstr ""
 
 #: definitions.json
 msgid "Encrypted Storage"
-msgstr ""
+msgstr "Šifrované úložiště"
 
 #: definitions.json
 msgid "Add support to access encrypted storage devices using dm-crypt."
-msgstr ""
+msgstr "Přidává podporu pro přístup na šifrované úložiště pomocí dm-crypt."
 
 #: definitions.json
-#, fuzzy
 msgid "New devices detection"
-msgstr "Zjišťování zařízení"
+msgstr "Detekce nových zařízení"
 
 #: definitions.json
-#, fuzzy
 msgid "Software for detecting new devices on local network."
-msgstr ""
-"Software pro zjišťování nových zařízení na místní síti (EXPERIMENTÁLNÍ)."
+msgstr "Software pro detekci nových zařízení na místní síti."
 
 #: definitions.json
-#, fuzzy
 msgid "Software for in depth monitoring of your traffic using Suricata."
-msgstr "Software pro hloubkový monitoring síťového provozu."
+msgstr ""
+"Software pro hloubkový monitoring síťového provozu využívající program "
+"Suricata."
 
 #: definitions.json
 #, fuzzy
@@ -301,51 +301,56 @@ msgid ""
 msgstr ""
 
 #: definitions.json
-#, fuzzy
 msgid "Easy setup of the OpenVPN server from Foris."
 msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."
 
 #: labels.json
 msgid "Advanced users"
-msgstr ""
+msgstr "Pokročilí uživatelé"
 
 #: labels.json
 msgid "This functionality is usable only for advanced users."
-msgstr ""
+msgstr "Tato funkcionalita je užitečná pouze pokročilým uživatelům."
 
 #: labels.json
 msgid "Community"
-msgstr ""
+msgstr "Komunita"
 
 #: labels.json
 msgid ""
 "This package list is not officially supported. Turris team has no "
 "responsibility for stability of software that is part of this list."
 msgstr ""
+"Tento seznam balíčků není oficiálně podporován. Tým Turris nenese "
+"zodpovědnost za stabilitu softwaru zahrnutého do tohoto seznamu."
 
 #: labels.json
 msgid "Experimental"
-msgstr ""
+msgstr "Experimentální"
 
 #: labels.json
 msgid ""
 "Software that is part of this package list is considered experimental. "
 "Problems when using it might be expected."
 msgstr ""
+"Software který je součástí tohoto seznamu balíčků je považován za "
+"experimentální. Při jeho používání můžete narazit na problémy."
 
 #: labels.json
 msgid "Deprecated"
-msgstr ""
+msgstr "Zastaralé"
 
 #: labels.json
 msgid ""
 "This package list and/or software that provides is planned to be removed. It "
 "is advised to not use it."
 msgstr ""
+"Je plánované, že tento seznam balíčků a/nebo poskytovaný software bude "
+"odstraněn. Doporučuje se tento seznam nepoužívat."
 
 #: labels.json
 msgid "External storage"
-msgstr ""
+msgstr "Vnější úložiště"
 
 #: labels.json
 msgid ""
@@ -353,20 +358,25 @@ msgid ""
 "Software it contains can wear out flash storages as it performs increased "
 "amount of writes."
 msgstr ""
+"Použití vnějšího úložiště je vysoce doporučení při použití tohoto seznamu "
+"balíčků. Software obsažený v tomto seznamu balíčků může opotřebit flash "
+"úložiště, protože vykonává velké množství zápisů."
 
 #: labels.json
 msgid "High memory usage"
-msgstr ""
+msgstr "Vysoké paměťové nároky"
 
 #: labels.json
 msgid ""
 "Software in this package list consumes possibly higher amount of RAM to run. "
 "It is not suggested to use it with small memory."
 msgstr ""
+"Software obsažený v tomto seznamy balíčků může vyžadovat k běhu větší "
+"množství operační paměti. Není doporučeno ho provozovat s menším množstvím."
 
 #: labels.json
 msgid "High storage usage"
-msgstr ""
+msgstr "Vysoké nároky na úložiště"
 
 #: labels.json
 msgid ""
