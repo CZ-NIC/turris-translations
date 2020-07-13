@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2020-03-17 13:36+0000\n"
-"Last-Translator: XoD DarK <xod@xoddark.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/fr/>\n"
+"PO-Revision-Date: 2020-07-14 11:41+0000\n"
+"Last-Translator: Florian <floflr@zaclys.net>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -112,7 +112,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: definitions.json
 #, fuzzy
@@ -128,6 +128,8 @@ msgstr ""
 #: definitions.json
 msgid "Tools to monitor local network and users on it."
 msgstr ""
+"Outils pour surveiller le réseau local et les utilisateurs qui s'y "
+"connectent."
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
@@ -406,7 +408,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Alternative driver from Candela Technologies."
-msgstr ""
+msgstr "Pilote alternatif pour Candela Technologies."
 
 #: definitions.json
 msgid ""
