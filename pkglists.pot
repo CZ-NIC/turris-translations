@@ -388,6 +388,14 @@ msgid ""
 "management frames, which improves stability in busy networks."
 msgstr ""
 
+#: definitions.json
+msgid "Netdata"
+msgstr ""
+
+#: definitions.json
+msgid "Real-time perfomance and health monitoring options."
+msgstr ""
+
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr ""
 
