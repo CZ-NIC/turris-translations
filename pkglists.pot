@@ -396,6 +396,15 @@ msgstr ""
 msgid "Real-time perfomance and health monitoring options."
 msgstr ""
 
+#: definitions.json
+msgid "RIPE Atlas SW Probe"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Global platform, which measures Internet connectivity and reachability."
+msgstr ""
+
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr ""
 
