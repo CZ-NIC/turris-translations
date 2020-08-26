@@ -393,11 +393,68 @@ msgid ""
 "management frames, which improves stability in busy networks."
 msgstr ""
 
-msgid "Hardening (experimental)"
+#: definitions.json
+msgid "Netdata"
 msgstr ""
 
-msgid "reForis (experimental)"
+#: definitions.json
+msgid "Real-time perfomance and health monitoring options."
 msgstr ""
 
-msgid "Redesigned Foris is new web interface for Turris routers."
+#: definitions.json
+msgid "RIPE Atlas SW Probe"
+msgstr ""
+
+#: definitions.json
+msgid "Global platform, which measures Internet connectivity and reachability."
+msgstr ""
+
+msgid "Support for additional protocols and connection types."
+msgstr ""
+
+msgid ""
+"Software for participation in data collection and dynamic distributed "
+"firewall."
+msgstr ""
+
+msgid "Device detection"
+msgstr ""
+
+msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
+msgstr ""
+
+msgid "Trap for password-guessing robots on SSH."
+msgstr ""
+
+msgid "Several addional tabs and controls for the advanced LuCI interface."
+msgstr ""
+
+msgid "An easy setup of OpenVPN server from Foris."
+msgstr ""
+
+msgid "Software for in depth monitoring of your traffic."
+msgstr ""
+
+msgid "Print server"
+msgstr ""
+
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+msgstr ""
+
+msgid "Cloud Backups"
+msgstr ""
+
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgstr ""
+
+msgid ""
+"Self-hosted files hosting and productivity platform that keeps you in "
+"control. Alternative to services such as Dropbox or Google Drive. "
+"(EXPERIMENTAL)"
+msgstr ""
+
+msgid ""
+"Server side for Turris MOX without SD card used as Wi-Fi access point. "
+"(EXPERIMENTAL)"
 msgstr ""

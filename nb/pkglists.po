@@ -415,13 +415,26 @@ msgid ""
 "management frames, which improves stability in busy networks."
 msgstr ""
 
-msgid "Hardening (experimental)"
+#: definitions.json
+msgid "Netdata"
 msgstr ""
 
-msgid "reForis (experimental)"
+#: definitions.json
+msgid "Real-time perfomance and health monitoring options."
 msgstr ""
 
-msgid "Redesigned Foris is new web interface for Turris routers."
+#: definitions.json
+msgid "RIPE Atlas SW Probe"
+msgstr ""
+
+#: definitions.json
+msgid "Global platform, which measures Internet connectivity and reachability."
+msgstr ""
+
+msgid ""
+"Self-hosted files hosting and productivity platform that keeps you in "
+"control. Alternative to services such as Dropbox or Google Drive. "
+"(EXPERIMENTAL)"
 msgstr ""
 
 #~ msgid "Support for additional protocols and connection types."
@@ -471,3 +484,10 @@ msgstr ""
 #~ msgstr ""
 #~ "Tjeneste for lagring av oppsettssikkerhetskopier på fjerntjenere "
 #~ "(EKSPERIMENTELT)."
+
+#, fuzzy
+#~ msgid ""
+#~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+#~ "Tjenersiden for Turris MOX uten SD-kort brukt som Wi-Fi-tilgangspunkt."
