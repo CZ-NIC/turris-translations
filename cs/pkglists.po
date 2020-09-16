@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2020-07-14 11:41+0000\n"
-"Last-Translator: Karel Kočí <karel.koci@nic.cz>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/cs/>\n"
+"PO-Revision-Date: 2020-09-17 14:36+0000\n"
+"Last-Translator: Lukas Jelinek <lukas.jelinek@nic.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -108,17 +108,15 @@ msgstr "Služba pro zvýšení anonymity na Internetu."
 
 #: definitions.json
 msgid "Seccomp tools for system hardening."
-msgstr ""
+msgstr "Nástroje Seccomp pro zesílení bezpečnosti systému."
 
 #: definitions.json
 msgid "Nextcloud"
 msgstr "Nextcloud"
 
 #: definitions.json
-#, fuzzy
 msgid "Several additional tabs and controls for the advanced LuCI interface."
-msgstr ""
-"Několik dalších panelů a ovládacích prvků do pokročilého rozhraní LuCI."
+msgstr "Několik dalších panelů a ovládacích prvků do pokročilého rozhraní LuCI."
 
 #: definitions.json
 msgid "Network monitoring and parental control"
@@ -133,13 +131,11 @@ msgid "Support for Turris Omnia and Turris MOX LTE pack."
 msgstr "Podpora pro Turris Omnia a Turris MOX LTE pack."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Software for participation in data collection and distributed adaptive "
 "firewall."
 msgstr ""
-"Software pro účastnění se ve sběru dat a dynamicky distribuovanou bránu "
-"firewall."
+"Software pro účast ve sběru dat a dynamicky distribuovanou bránu firewall."
 
 #: definitions.json
 msgid "Usage Survey"
@@ -186,19 +182,19 @@ msgstr "SSH honeypot používající Honeypot as a Service (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
-msgstr ""
+msgstr "Zesílení bezpečnosti"
 
 #: definitions.json
 msgid "AdBlock"
-msgstr ""
+msgstr "AdBlock"
 
 #: definitions.json
 msgid "Script to block ad/abuse domains."
-msgstr ""
+msgstr "Skript pro blokování reklamních a problematických domén."
 
 #: definitions.json
 msgid "SQM"
-msgstr ""
+msgstr "SQM"
 
 #: definitions.json
 msgid "Active Queue Management to boost performance on heavily loaded network."
@@ -206,19 +202,19 @@ msgstr "Aktivní správa front pro zvýšený výkon na velmi zatížených sít
 
 #: definitions.json
 msgid "Tinyproxy"
-msgstr ""
+msgstr "Tinyproxy"
 
 #: definitions.json
 msgid "HTTP(S) proxy."
-msgstr ""
+msgstr "HTTP(S) proxy."
 
 #: definitions.json
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: definitions.json
 msgid "Universal Plug and Play service."
-msgstr ""
+msgstr "Služba Universal Plug and Play."
 
 #: definitions.json
 msgid "Print server (p910nd)"
@@ -234,7 +230,7 @@ msgstr "Sběr a vykreslení diagramů pro systémové statistiky pomocí collect
 
 #: definitions.json
 msgid "Samba"
-msgstr ""
+msgstr "Samba"
 
 #: definitions.json
 msgid "Implementation of SMB network protocol."
@@ -242,27 +238,27 @@ msgstr "Implementace SMB síťového protokolu."
 
 #: definitions.json
 msgid "DLNA"
-msgstr ""
+msgstr "DLNA"
 
 #: definitions.json
 msgid "Digital media sharing server."
-msgstr ""
+msgstr "Server pro sdílení médií."
 
 #: definitions.json
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #: definitions.json
 msgid "BitTorrent client."
-msgstr ""
+msgstr "Klient BitTorrent."
 
 #: definitions.json
 msgid "mdadm"
-msgstr ""
+msgstr "mdadm"
 
 #: definitions.json
 msgid "Software RAID storage support using mdadm."
-msgstr ""
+msgstr "Podpora pro softwarové úložiště RAID pomocí mdadm."
 
 #: definitions.json
 msgid "Encrypted Storage"
@@ -287,7 +283,6 @@ msgstr ""
 "Suricata."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Server-side for Turris MOX without microSD card used as Wi-Fi access point."
 msgstr ""
@@ -299,6 +294,8 @@ msgid ""
 "Self-hosted files hosting and productivity platform that keeps you in "
 "control. Alternative to services such as Dropbox or Google Drive."
 msgstr ""
+"Vlastní souborový hosting a kancelářská platforma, které máte pod kontrolou. "
+"Alternativa ke službám jako Dropbox nebo Google Drive."
 
 #: definitions.json
 msgid "Easy setup of the OpenVPN server from Foris."
@@ -385,10 +382,14 @@ msgid ""
 "internal storage of Turris 1.x and microSD cards with less than 1GB of "
 "storage."
 msgstr ""
+"Software v tomto seznamu balíčků může pro instalaci potřebovat větší "
+"množství prostoru. Není doporučeno ho používat s malými úložišti, jako je "
+"interní úložiště na routerech Turris 1.xa microSD kartách s méně než 1 GB "
+"prostoru."
 
 #: labels.json
 msgid "Network load"
-msgstr ""
+msgstr "Zátěž sítě"
 
 #: labels.json
 msgid ""
@@ -396,10 +397,12 @@ msgid ""
 "on faster uplinks but because of that it still can be decremental to some "
 "users."
 msgstr ""
+"Tato funkcionalita může snížit výkon sítě. Může se to projevit jen u "
+"rychlejších uplinků, ale i tak to může některé uživatele zpomalovat."
 
 #: definitions.json
 msgid "Alternative core drivers"
-msgstr ""
+msgstr "Alternativní ovladače"
 
 #: definitions.json
 msgid ""
@@ -407,42 +410,50 @@ msgid ""
 "default installation. You can try to enable these if you encounter some "
 "problems with default ones."
 msgstr ""
+"Tyto volby vám umožňují použít alternativní ovladače místo těch, které jsou "
+"k dispozici ve výchozí instalaci. Můžete je zkusit povolit, pokud s těmi "
+"výchozími zaznamenáváte problémy."
 
 #: definitions.json
 msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
-msgstr ""
+msgstr "Ovladače Candela Technologies Wi-Fi pro Qualcomm Atheros QCA988x"
 
 #: definitions.json
 msgid "Alternative driver from Candela Technologies."
-msgstr ""
+msgstr "Alternativní ovladač od Candela Technologies."
 
 #: definitions.json
 msgid ""
 "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
 "improved stability in busy networks"
 msgstr ""
+"Ovladače Candela Technologies Wi-Fi pro Qualcomm Atheros QCA988x se zvýšenou "
+"stabilitou na zatížených sítích"
 
 #: definitions.json
 msgid ""
 "Alternative driver from Candela Technologies. It uses HTT TX data path for "
 "management frames, which improves stability in busy networks."
 msgstr ""
+"Alternativní ovladač od Candela Technologies. Používá pro správu rámců "
+"datovou cestu HTT TX, což zvyšuje stabilitu na zatížených sítích."
 
 #: definitions.json
 msgid "Netdata"
-msgstr ""
+msgstr "Netdata"
 
 #: definitions.json
 msgid "Real-time perfomance and health monitoring options."
-msgstr ""
+msgstr "Volby pro monitorování výkonu a zdraví v reálném čase."
 
 #: definitions.json
 msgid "RIPE Atlas SW Probe"
-msgstr ""
+msgstr "RIPE Atlas SW Probe"
 
 #: definitions.json
 msgid "Global platform, which measures Internet connectivity and reachability."
 msgstr ""
+"Globální platforma, která měří konektivitu a dosažitelnost na Internetu."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Podpora dalších protokolů a druhů připojení."
