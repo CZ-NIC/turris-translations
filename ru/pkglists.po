@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2020-09-01 05:36+0000\n"
-"Last-Translator: Алексей Леньшин <alenshin@gmail.com>\n"
+"PO-Revision-Date: 2020-09-23 13:40+0000\n"
+"Last-Translator: Artem <KovalevArtem.ru@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/turris/"
 "turris-pkglists-1/ru/>\n"
 "Language: ru\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2.1-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -109,7 +109,6 @@ msgid "Seccomp tools for system hardening."
 msgstr "Инструменты Seccomp для улучшения защиты."
 
 #: definitions.json
-#, fuzzy
 msgid "Nextcloud"
 msgstr "Nextcloud"
 
@@ -171,7 +170,6 @@ msgid "Collect logs from firewall for attempted connections."
 msgstr "Собрать журналы межсетевого экрана о попытках подключения."
 
 #: definitions.json
-#, fuzzy
 msgid "Minipots"
 msgstr "Minipots"
 
@@ -190,7 +188,6 @@ msgid "Hardening"
 msgstr "Усиление защиты"
 
 #: definitions.json
-#, fuzzy
 msgid "AdBlock"
 msgstr "AdBlock"
 
@@ -209,7 +206,6 @@ msgstr ""
 "загруженной сети."
 
 #: definitions.json
-#, fuzzy
 msgid "Tinyproxy"
 msgstr "Tinyproxy"
 
@@ -218,7 +214,6 @@ msgid "HTTP(S) proxy."
 msgstr "Прокси HTTP(S)."
 
 #: definitions.json
-#, fuzzy
 msgid "UPnP"
 msgstr "UPnP"
 
@@ -241,7 +236,6 @@ msgstr ""
 "collectd."
 
 #: definitions.json
-#, fuzzy
 msgid "Samba"
 msgstr "Samba"
 
@@ -250,7 +244,6 @@ msgid "Implementation of SMB network protocol."
 msgstr "Реализация сетевого протокола SMB."
 
 #: definitions.json
-#, fuzzy
 msgid "DLNA"
 msgstr "DLNA"
 
@@ -259,7 +252,6 @@ msgid "Digital media sharing server."
 msgstr "Сервер обмена цифровыми медиа."
 
 #: definitions.json
-#, fuzzy
 msgid "Transmission"
 msgstr "Transmission"
 
@@ -268,7 +260,6 @@ msgid "BitTorrent client."
 msgstr "Клиент BitTorrent."
 
 #: definitions.json
-#, fuzzy
 msgid "mdadm"
 msgstr "mdadm"
 
