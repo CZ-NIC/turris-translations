@@ -6,8 +6,8 @@ msgstr ""
 "POT-Creation-Date: 2020-02-24 14:38\n"
 "PO-Revision-Date: 2020-09-23 13:40+0000\n"
 "Last-Translator: Artem <KovalevArtem.ru@gmail.com>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/turris/"
-"turris-pkglists-1/ru/>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/turris/turris-"
+"pkglists-1/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -470,6 +470,14 @@ msgstr "Зонд RIPE Atlas SW"
 msgid "Global platform, which measures Internet connectivity and reachability."
 msgstr ""
 "Глобальная платформа, которая измеряет подключение к Интернету и доступность."
+
+#: definitions.json
+msgid "WireGuard"
+msgstr ""
+
+#: definitions.json
+msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
+msgstr ""
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Поддержка дополнительных протоколов и типов соединений."

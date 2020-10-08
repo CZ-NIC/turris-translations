@@ -414,40 +414,21 @@ msgstr ""
 msgid "Global platform, which measures Internet connectivity and reachability."
 msgstr ""
 
-msgid "Trap for password-guessing robots on SSH."
+#: definitions.json
+msgid "WireGuard"
 msgstr ""
 
-msgid "Several addional tabs and controls for the advanced LuCI interface."
+#: definitions.json
+msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
 msgstr ""
 
-msgid "An easy setup of OpenVPN server from Foris."
+msgid "Hardening (experimental)"
 msgstr ""
 
-msgid "Software for in depth monitoring of your traffic."
+msgid "reForis (experimental)"
 msgstr ""
 
-msgid "Print server"
-msgstr ""
-
-msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
-msgstr ""
-
-msgid "Cloud Backups"
-msgstr ""
-
-msgid ""
-"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
-msgstr ""
-
-msgid ""
-"Self-hosted files hosting and productivity platform that keeps you in "
-"control. Alternative to services such as Dropbox or Google Drive. "
-"(EXPERIMENTAL)"
-msgstr ""
-
-msgid ""
-"Server side for Turris MOX without SD card used as Wi-Fi access point. "
-"(EXPERIMENTAL)"
+msgid "Redesigned Foris is new web interface for Turris routers."
 msgstr ""
 
 #~ msgid "Support for additional protocols and connection types."

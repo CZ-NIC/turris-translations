@@ -217,19 +217,6 @@ msgid ""
 "enabling this!"
 msgstr ""
 
-msgid "Support for USB sound card."
-msgstr ""
-
-msgid "HTTP caching proxy Squid."
-msgstr ""
-
-msgid "Support to capture image with web camera."
-msgstr ""
-
-msgid ""
-"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
-msgstr ""
-
 #~ msgid "Control software for home automation, including Turris Gadgets."
 #~ msgstr "Namų automatizavimo valdymo programos, taip pat Turris Gadgets."
 

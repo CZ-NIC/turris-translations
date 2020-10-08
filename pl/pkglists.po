@@ -433,18 +433,21 @@ msgstr ""
 msgid "Global platform, which measures Internet connectivity and reachability."
 msgstr ""
 
-msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+#: definitions.json
+msgid "WireGuard"
 msgstr ""
 
-msgid ""
-"Self-hosted files hosting and productivity platform that keeps you in "
-"control. Alternative to services such as Dropbox or Google Drive. "
-"(EXPERIMENTAL)"
+#: definitions.json
+msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
 msgstr ""
 
-msgid ""
-"Server side for Turris MOX without SD card used as Wi-Fi access point. "
-"(EXPERIMENTAL)"
+msgid "Hardening (experimental)"
+msgstr ""
+
+msgid "reForis (experimental)"
+msgstr ""
+
+msgid "Redesigned Foris is new web interface for Turris routers."
 msgstr ""
 
 #~ msgid "Support for additional protocols and connection types."
