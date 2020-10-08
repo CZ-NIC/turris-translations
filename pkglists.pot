@@ -405,6 +405,15 @@ msgid ""
 "Global platform, which measures Internet connectivity and reachability."
 msgstr ""
 
+#: definitions.json
+msgid "WireGuard"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
+msgstr ""
+
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr ""
 
