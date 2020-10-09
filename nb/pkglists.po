@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2019-08-03 19:23+0000\n"
+"PO-Revision-Date: 2020-10-10 05:26+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
 "turris-pkglists-1/nb_NO/>\n"
-"Language: nb_NO\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -113,7 +113,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: definitions.json
 #, fuzzy
@@ -121,16 +121,18 @@ msgid "Several additional tabs and controls for the advanced LuCI interface."
 msgstr "Flere ekstra faner og kontroller for det avanserte LuCI-grensesnittet."
 
 #: definitions.json
+#, fuzzy
 msgid "Network monitoring and parental control"
-msgstr ""
+msgstr "Nettverksovervåkning og foreldrekontroll"
 
 #: definitions.json
 msgid "Tools to monitor local network and users on it."
-msgstr ""
+msgstr "Verktøy for å holde øye med lokalnettverk og brukere på det."
 
 #: definitions.json
+#, fuzzy
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr ""
+msgstr "Støtte for Turris Omnia og Turris MOX LTE-pakke."
 
 #: definitions.json
 #, fuzzy
@@ -152,7 +154,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr ""
+msgstr "Dynamisk brannmur"
 
 #: definitions.json
 msgid ""
@@ -161,7 +163,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Firewall Logs"
-msgstr ""
+msgstr "Brannmurslogger"
 
 #: definitions.json
 msgid "Collect logs from firewall for attempted connections."
@@ -205,11 +207,11 @@ msgstr ""
 
 #: definitions.json
 msgid "HTTP(S) proxy."
-msgstr ""
+msgstr "HTTP(S)-mellomtjener."
 
 #: definitions.json
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: definitions.json
 msgid "Universal Plug and Play service."
@@ -222,7 +224,7 @@ msgstr "Utskriftstjener"
 
 #: definitions.json
 msgid "Statistics"
-msgstr ""
+msgstr "Statistikk"
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
@@ -239,7 +241,7 @@ msgstr "Utvidelser av nettverksprotokoller for 3G/LTE"
 
 #: definitions.json
 msgid "DLNA"
-msgstr ""
+msgstr "DLNA"
 
 #: definitions.json
 msgid "Digital media sharing server."
@@ -251,7 +253,7 @@ msgstr ""
 
 #: definitions.json
 msgid "BitTorrent client."
-msgstr ""
+msgstr "BitTorrent-klient."
 
 #: definitions.json
 msgid "mdadm"
@@ -312,7 +314,7 @@ msgstr ""
 
 #: labels.json
 msgid "Community"
-msgstr ""
+msgstr "Gemenskap"
 
 #: labels.json
 msgid ""
@@ -322,17 +324,19 @@ msgstr ""
 
 #: labels.json
 msgid "Experimental"
-msgstr ""
+msgstr "Eksperimentelt"
 
 #: labels.json
 msgid ""
 "Software that is part of this package list is considered experimental. "
 "Problems when using it might be expected."
 msgstr ""
+"Programvare på denne pakkelisten ansees som eksperimentell. Problemer i "
+"bruke er å vente."
 
 #: labels.json
 msgid "Deprecated"
-msgstr ""
+msgstr "Foreldet"
 
 #: labels.json
 msgid ""
@@ -353,7 +357,7 @@ msgstr ""
 
 #: labels.json
 msgid "High memory usage"
-msgstr ""
+msgstr "Høy minnebruk"
 
 #: labels.json
 msgid ""
@@ -375,7 +379,7 @@ msgstr ""
 
 #: labels.json
 msgid "Network load"
-msgstr ""
+msgstr "Nettverklast"
 
 #: labels.json
 msgid ""
@@ -433,7 +437,7 @@ msgstr ""
 
 #: definitions.json
 msgid "WireGuard"
-msgstr ""
+msgstr "WireGuard"
 
 #: definitions.json
 msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
@@ -443,10 +447,10 @@ msgid "Hardening (experimental)"
 msgstr ""
 
 msgid "reForis (experimental)"
-msgstr ""
+msgstr "reForis (ekperimentell)"
 
 msgid "Redesigned Foris is new web interface for Turris routers."
-msgstr ""
+msgstr "Den redesignede Foris er et nytt vevgrensesnitt for Turris-rutere."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Støtte for ytterligere protokoller og tilkoblingstyper."
