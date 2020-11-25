@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-01-25 20:10\n"
-"PO-Revision-Date: 2019-08-03 19:23+0000\n"
+"PO-Revision-Date: 2020-11-27 00:29+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/nb_NO/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #: definitions.json
 msgid "Access tokens"
@@ -157,7 +157,7 @@ msgstr "Kontrollprogramvare for hjemmeautomasjon, inkludert Turris-dingser."
 
 #: definitions.json
 msgid "Data Collection"
-msgstr ""
+msgstr "Datainnsamling"
 
 #: definitions.json
 msgid ""
