@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2019-10-24 22:53+0000\n"
-"Last-Translator: powerburner-nl <peter.mulder.1981@gmail.com>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/nl/>\n"
+"PO-Revision-Date: 2020-11-29 21:29+0000\n"
+"Last-Translator: Johan van de Wetering <mail@jvdwetering.nl>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Data Collection"
-msgstr ""
+msgstr "Gegevensverzameling"
 
 #: definitions.json
 msgid "DVB tuner"
@@ -151,7 +151,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr ""
+msgstr "Dynamische Firewall"
 
 #: definitions.json
 msgid ""
