@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
-"PO-Revision-Date: 2018-05-30 20:21+0000\n"
+"PO-Revision-Date: 2021-01-08 18:32+0000\n"
 "Last-Translator: Zoli <boritek@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
 "turris-user-notify/hu/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 4.4.1-dev\n"
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
@@ -27,7 +27,7 @@ msgstr ""
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
 msgstr ""
-"A meghajtó formázása  sikertelen, próbálja meg leválasztani és "
+"A meghajtó formázása sikertelen, próbálja meg leválasztani és "
 "újracsatlakoztatni."
 
 #: format_and_set_srv.sh:41
