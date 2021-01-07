@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-01-25 20:10\n"
-"PO-Revision-Date: 2021-01-07 01:26+0000\n"
+"PO-Revision-Date: 2021-01-08 18:32+0000\n"
 "Last-Translator: Zoli <boritek@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/hu/>\n"
@@ -175,46 +175,41 @@ msgstr "Szoftver az adatforgalom mélyelemzéséhez (KÍSÉRLETI)."
 
 #: definitions.json
 msgid "Turris MOX network boot"
-msgstr ""
+msgstr "Turris MOX hálózati rendszerindítás"
 
 #: definitions.json
 msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
 msgstr ""
+"microSD kártya nélküli, szerveroldali Turris MOX-okat lehet Wi-Fi "
+"hozzáférési pontként használni."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing. (OBSOLETE)"
 msgstr ""
 "Szolgáltatások, amelyek lehetővé teszik, hogy az útválasztóhoz "
-"csatlakoztatott nyomtatót távoli nyomtatásra használjuk."
+"csatlakoztatott nyomtatót távoli nyomtatásra használjuk. (ELAVULT)"
 
 #: definitions.json
-#, fuzzy
 msgid "Service for storing configuration backups on remote servers."
-msgstr ""
-"Szolgáltatás a beállítások távoli kiszolgálós biztonsági mentéséhez "
-"(KÍSÉRLETI)."
+msgstr "Szolgáltatás a beállítások távoli kiszolgálókon történő tárolásához."
 
 #: definitions.json
-#, fuzzy
 msgid "Support for USB sound card. (OBSOLETE)"
-msgstr "USB hangkártya támogatása."
+msgstr "USB hangkártya támogatása. (ELAVULT)"
 
 #: definitions.json
-#, fuzzy
 msgid "HTTP caching proxy Squid. (OBSOLETE)"
-msgstr "Squid HTTP gyorsítótár."
+msgstr "Squid HTTP gyorsítótár. (ELAVULT)"
 
 #: definitions.json
-#, fuzzy
 msgid "Support to capture image with web camera. (OBSOLETE)"
-msgstr "Webkamerás képrögzítés támogatása."
+msgstr "Webkamerás képrögzítés támogatása. (ELAVULT)"
 
 #: definitions.json
 msgid "Migration to Turris OS 5.x (EXPERIMENTAL)"
-msgstr ""
+msgstr "Áttérés a Turris OS 5.x-re (KÍSÉRLETI)"
 
 #: definitions.json
 msgid ""
@@ -222,6 +217,9 @@ msgid ""
 "that you thoroughly read https://docs.turris.cz/geek/tos3_migration/ before "
 "enabling this!"
 msgstr ""
+"Ez egy kísérleti migráció a Turris OS legújabb verziójára . Győződjön meg "
+"róla, hogy alaposan átolvassa https://docs.turris.cz/geek/tos3_migration/ "
+"ezt az engedélyezés előtt!"
 
 #~ msgid "Control software for home automation, including Turris Gadgets."
 #~ msgstr ""
