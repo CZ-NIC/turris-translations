@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-01-07 01:26+0000\n"
+"PO-Revision-Date: 2021-01-08 18:32+0000\n"
 "Last-Translator: Zoli <boritek@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
 "turris-pkglists-1/hu/>\n"
@@ -45,7 +45,7 @@ msgstr "LuCI bővítmények"
 
 #: definitions.json
 msgid "LXC utilities"
-msgstr ""
+msgstr "LXC segédprogramok"
 
 #: definitions.json
 msgid ""
@@ -69,7 +69,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Turris MOX network boot"
-msgstr ""
+msgstr "Turris MOX hálózati rendszerindítás"
 
 #: definitions.json
 msgid "Internet connection speed measurement"
@@ -95,6 +95,8 @@ msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
+"Szolgáltatások, amelyek lehetővé teszik, hogy az útválasztóhoz "
+"csatlakoztatott nyomtatót távoli nyomtatásra használjuk."
 
 #: definitions.json
 msgid "Tor"
@@ -102,49 +104,51 @@ msgstr "Tor"
 
 #: definitions.json
 msgid "Service to increase anonymity on the Internet."
-msgstr ""
+msgstr "Szolgáltatás az Internetes anonimitás növelésére."
 
 #: definitions.json
 msgid "Seccomp tools for system hardening."
-msgstr ""
+msgstr "Seccomp eszközök rendszeredzéshez."
 
 #: definitions.json
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: definitions.json
 msgid "Several additional tabs and controls for the advanced LuCI interface."
-msgstr ""
+msgstr "Számos további fül és vezérlő a haladó LuCI felülethez."
 
 #: definitions.json
 msgid "Network monitoring and parental control"
-msgstr ""
+msgstr "Hálózatfigyelés és szülői ellenőrzés"
 
 #: definitions.json
 msgid "Tools to monitor local network and users on it."
-msgstr ""
+msgstr "Eszközök a helyi hálózat és a rajta lévő felhasználók figyelésére."
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr ""
+msgstr "A Turris Omnia és a Turris MOX LTE csomag támogatása."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Software for participation in data collection and distributed adaptive "
 "firewall."
 msgstr ""
-"Szoftver adatgyűjtésben való részvételhez és dinamikusan elosztott tűzfal."
+"Szoftver adatgyűjtésben és dinamikusan frissített tűzfalban való "
+"részvételhez."
 
 #: definitions.json
 msgid "Usage Survey"
-msgstr ""
+msgstr "Használati felmérés"
 
 #: definitions.json
 msgid ""
 "Collect data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
+"Adatok gyűjtése az útválasztók használatáról (telepített csomagok, "
+"internetkapcsolat típusa stb.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
@@ -154,186 +158,202 @@ msgstr "Dinamikus tűzfal"
 msgid ""
 "Add firewall rules to block attackers detected by Turris collection network."
 msgstr ""
+"Tűzfalszabályok hozzáadása a Turris gyűjtőhálózat által észlelt támadók "
+"blokkolásához."
 
 #: definitions.json
 msgid "Firewall Logs"
-msgstr ""
+msgstr "Tűzfalnaplók"
 
 #: definitions.json
 msgid "Collect logs from firewall for attempted connections."
-msgstr ""
+msgstr "Kapcsolódási kísérletekkel kapcsolatos tűzfalnaplók gyűjtése."
 
 #: definitions.json
 msgid "Minipots"
-msgstr ""
+msgstr "Minicsupor"
 
 #: definitions.json
 msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr ""
+msgstr "Minimális mézescsupor különböző protokollok elleti támadók elkapásához."
 
 #: definitions.json
 msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
 msgstr ""
+"SSH mézescsupor, Mézescsupor mint Szolgáltatás (haas.nic.cz) segítségével."
 
 #: definitions.json
 msgid "Hardening"
-msgstr ""
+msgstr "Edzés"
 
 #: definitions.json
 msgid "AdBlock"
-msgstr ""
+msgstr "Reklámblokkoló"
 
 #: definitions.json
 msgid "Script to block ad/abuse domains."
-msgstr ""
+msgstr "Parancsfájl a hirdetési / visszaélési tartományok blokkolásához."
 
 #: definitions.json
 msgid "SQM"
-msgstr ""
+msgstr "SQM"
 
 #: definitions.json
 msgid "Active Queue Management to boost performance on heavily loaded network."
 msgstr ""
+"Aktív várólista-kezelés a nagy terhelésű hálózat teljesítményének növelése "
+"érdekében."
 
 #: definitions.json
 msgid "Tinyproxy"
-msgstr ""
+msgstr "Pici gyorsítótár"
 
 #: definitions.json
 msgid "HTTP(S) proxy."
-msgstr ""
+msgstr "HTTP(S) gyorsítótár."
 
 #: definitions.json
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: definitions.json
 msgid "Universal Plug and Play service."
-msgstr ""
+msgstr "Univerzális Plug and Play szolgáltatás."
 
 #: definitions.json
 msgid "Print server (p910nd)"
-msgstr ""
+msgstr "Nyomtatókiszolgáló (p910nd)"
 
 #: definitions.json
 msgid "Statistics"
-msgstr ""
+msgstr "Statisztikák"
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
 msgstr ""
+"Gyűjtse össze és renderelje a rendszerstatisztikák diagramjait a collectd "
+"használatával."
 
 #: definitions.json
 msgid "Samba"
-msgstr ""
+msgstr "Samba"
 
 #: definitions.json
-#, fuzzy
 msgid "Implementation of SMB network protocol."
-msgstr "A 3G/LTE hálózati protokollok kiterjesztései"
+msgstr "SMB hálózati protokoll megvalósítása."
 
 #: definitions.json
 msgid "DLNA"
-msgstr ""
+msgstr "DLNA"
 
 #: definitions.json
 msgid "Digital media sharing server."
-msgstr ""
+msgstr "Digitális médiamegosztó kiszolgáló."
 
 #: definitions.json
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #: definitions.json
 msgid "BitTorrent client."
-msgstr ""
+msgstr "BitTorrent kliens."
 
 #: definitions.json
 msgid "mdadm"
-msgstr ""
+msgstr "mdadm"
 
 #: definitions.json
 msgid "Software RAID storage support using mdadm."
-msgstr ""
+msgstr "Szoftveres RAID-tárolás támogatása az mdadm használatával."
 
 #: definitions.json
 msgid "Encrypted Storage"
-msgstr ""
+msgstr "Titkosított tárhely"
 
 #: definitions.json
 msgid "Add support to access encrypted storage devices using dm-crypt."
 msgstr ""
+"Támogatás hozzáadása a titkosított tárolóeszközök eléréséhez a dm-crypt "
+"használatával."
 
 #: definitions.json
-#, fuzzy
 msgid "New devices detection"
-msgstr "Eszközfelismerés"
+msgstr "Új eszközök észlelése"
 
 #: definitions.json
-#, fuzzy
 msgid "Software for detecting new devices on local network."
-msgstr "Szoftver új eszközök felismerésére a helyi hálózaton (KÍSÉRLETI)."
+msgstr "Szoftver az új eszközök észlelésére a helyi hálózaton."
 
 #: definitions.json
 msgid "Software for in depth monitoring of your traffic using Suricata."
-msgstr ""
+msgstr "Szoftver a forgalom mélyelemzéséhez a Suricata segítségével."
 
 #: definitions.json
 msgid ""
 "Server-side for Turris MOX without microSD card used as Wi-Fi access point."
 msgstr ""
+"microSD kártya nélküli, szerveroldali Turris MOX-okat lehet Wi-Fi "
+"hozzáférési pontként használni."
 
 #: definitions.json
 msgid ""
 "Self-hosted files hosting and productivity platform that keeps you in "
 "control. Alternative to services such as Dropbox or Google Drive."
 msgstr ""
+"Saját üzemeltetésű fájlok tárolása és termelékenységi platformja, ahol Ön "
+"irányít. Olyan szolgáltatások helyett, mint a Dropbox vagy a Google Drive."
 
 #: definitions.json
 msgid "Easy setup of the OpenVPN server from Foris."
-msgstr ""
+msgstr "OpenVPN szerver egyszerű beállítása a Foris felahsználói felületen."
 
 #: labels.json
 msgid "Advanced users"
-msgstr ""
+msgstr "Haladó felhasználók"
 
 #: labels.json
 msgid "This functionality is usable only for advanced users."
-msgstr ""
+msgstr "Ez a funkció csak haladó felhasználók számára használható."
 
 #: labels.json
 msgid "Community"
-msgstr ""
+msgstr "Közösség"
 
 #: labels.json
 msgid ""
 "This package list is not officially supported. Turris team has no "
 "responsibility for stability of software that is part of this list."
 msgstr ""
+"Ez a csomaglista hivatalosan nem támogatott. A Turris csapata nem vállal "
+"felelősséget a listán szereplő szoftverek stabilitásáért."
 
 #: labels.json
 msgid "Experimental"
-msgstr ""
+msgstr "Kísérleti"
 
 #: labels.json
 msgid ""
 "Software that is part of this package list is considered experimental. "
 "Problems when using it might be expected."
 msgstr ""
+"A csomaglista részét képező szoftverek kísérletinek minősülnek. Problémák "
+"várhatók a használatuk során."
 
 #: labels.json
 msgid "Deprecated"
-msgstr ""
+msgstr "Elavult"
 
 #: labels.json
 msgid ""
 "This package list and/or software that provides is planned to be removed. It "
 "is advised to not use it."
 msgstr ""
+"Ezt a csomaglistát és / vagy a rendelkezésre álló szoftvert eltávolítani "
+"tervezik. Javasoljuk, hogy ne használja."
 
 #: labels.json
 msgid "External storage"
-msgstr ""
+msgstr "Külső tárhely"
 
 #: labels.json
 msgid ""
@@ -341,20 +361,25 @@ msgid ""
 "Software it contains can wear out flash storages as it performs increased "
 "amount of writes."
 msgstr ""
+"A csomaglista használatához erősen ajánlott a külső tárhely használata. A "
+"benne található szoftvertől elhasználódhat a flash tároló, mivel nagyobb "
+"mennyiségű írást hajt végre."
 
 #: labels.json
 msgid "High memory usage"
-msgstr ""
+msgstr "Magas memóriahasználat"
 
 #: labels.json
 msgid ""
 "Software in this package list consumes possibly higher amount of RAM to run. "
 "It is not suggested to use it with small memory."
 msgstr ""
+"Az ebben a csomaglistában szereplő szoftverek valószínűleg nagyobb "
+"mennyiségű RAM-ot fogyasztanak. Nem javasolt kis memóriával használni."
 
 #: labels.json
 msgid "High storage usage"
-msgstr ""
+msgstr "Magas tárhelyhasználat"
 
 #: labels.json
 msgid ""
@@ -363,10 +388,14 @@ msgid ""
 "internal storage of Turris 1.x and microSD cards with less than 1GB of "
 "storage."
 msgstr ""
+"Az ebben a csomaglistában szereplő szoftverek valószínűleg nagyobb "
+"mennyiségű tárhelyet igényelnek a telepítéshez. Nem javasolt kis tárolókhoz "
+"használni, például a Turris 1.x belső tárhelyéhez és az 1 GB-nál kevesebb "
+"tárhelyet tartalmazó microSD-kártyákhoz."
 
 #: labels.json
 msgid "Network load"
-msgstr ""
+msgstr "Hálózati terhelés"
 
 #: labels.json
 msgid ""
@@ -374,10 +403,13 @@ msgid ""
 "on faster uplinks but because of that it still can be decremental to some "
 "users."
 msgstr ""
+"Ez a funkció csökkentheti a hálózati teljesítményt. Ez csak a gyorsabb "
+"feltöltésű hálózati csatolóknál érezhető, de emiatt bizonyos felhasználók "
+"számára így is elégtelen lehet."
 
 #: definitions.json
 msgid "Alternative core drivers"
-msgstr ""
+msgstr "Alternatív alapvető meghajtók"
 
 #: definitions.json
 msgid ""
@@ -385,59 +417,73 @@ msgid ""
 "default installation. You can try to enable these if you encounter some "
 "problems with default ones."
 msgstr ""
+"Ezek a beállítások lehetővé teszik, hogy alternatív illesztőprogramokat "
+"használjon a rendelkezésre álló illesztőprogramok helyett alapértelmezett "
+"telepítés során. Megpróbálhatja engedélyezni ezeket, ha problémákba ütközik "
+"az alapértelmezettekkel."
 
 #: definitions.json
 msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
 msgstr ""
+"Candela Technologies Wi-Fi illesztőprogramok a Qualcomm Atheros QCA988x "
+"eszközhöz"
 
 #: definitions.json
 msgid "Alternative driver from Candela Technologies."
-msgstr ""
+msgstr "Alternatív illesztőprogram a Candela Technologies-tól."
 
 #: definitions.json
 msgid ""
 "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
 "improved stability in busy networks"
 msgstr ""
+"A Candela Technologies Wi-Fi illesztőprogramjai a Qualcomm Atheros QCA988x-"
+"hez javított stabilitással a forgalmas hálózatokban"
 
 #: definitions.json
 msgid ""
 "Alternative driver from Candela Technologies. It uses HTT TX data path for "
 "management frames, which improves stability in busy networks."
 msgstr ""
+"Alternatív vezető a Candela Technologies-tól. A HTT TX adatútvonalat "
+"használja a felügyeleti keretekhez, ami javítja a forgalmas hálózatok "
+"stabilitását."
 
 #: definitions.json
 msgid "Netdata"
-msgstr ""
+msgstr "Netdata"
 
 #: definitions.json
 msgid "Real-time perfomance and health monitoring options."
-msgstr ""
+msgstr "Valós idejű teljesítmény- és állapotfigyelési lehetőségek."
 
 #: definitions.json
 msgid "RIPE Atlas SW Probe"
-msgstr ""
+msgstr "RIPE Atlas SW szonda"
 
 #: definitions.json
 msgid "Global platform, which measures Internet connectivity and reachability."
 msgstr ""
+"Globális platform, amely méri az internetkapcsolatot és az elérhetőséget."
 
 #: definitions.json
 msgid "WireGuard"
-msgstr ""
+msgstr "WireGuard"
 
 #: definitions.json
 msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
 msgstr ""
+"Az OpenVPN alternatívájaként gyors, modern és biztonságos VPN-alagutat "
+"biztosít."
 
 msgid "Hardening (experimental)"
-msgstr ""
+msgstr "Edzés (kísérleti)"
 
 msgid "reForis (experimental)"
-msgstr ""
+msgstr "reForis (kísérleti)"
 
 msgid "Redesigned Foris is new web interface for Turris routers."
-msgstr ""
+msgstr "Az újratervezett Foris új webes felülete a Turris útválasztók számára."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "További protokollok és kapcsolattípusok támogatása."
