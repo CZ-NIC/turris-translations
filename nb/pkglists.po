@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2020-10-10 05:26+0000\n"
+"PO-Revision-Date: 2021-01-30 19:41+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
 "turris-pkglists-1/nb_NO/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -144,13 +144,16 @@ msgstr ""
 
 #: definitions.json
 msgid "Usage Survey"
-msgstr ""
+msgstr "Brukstilbakemelding"
 
 #: definitions.json
+#, fuzzy
 msgid ""
 "Collect data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
+"Samler inn data om ruterbruk (installerte pakker, Internett-"
+"tilknytningstype, osv.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
@@ -160,6 +163,8 @@ msgstr "Dynamisk brannmur"
 msgid ""
 "Add firewall rules to block attackers detected by Turris collection network."
 msgstr ""
+"Legg til brannmursregler for å blokkere angripere oppdaget av Turris-"
+"innsamlingsnettverket."
 
 #: definitions.json
 msgid "Firewall Logs"
@@ -167,7 +172,7 @@ msgstr "Brannmurslogger"
 
 #: definitions.json
 msgid "Collect logs from firewall for attempted connections."
-msgstr ""
+msgstr "Samler inn logger fra brannmur for forsøkte tilkoblinger."
 
 #: definitions.json
 msgid "Minipots"
@@ -187,23 +192,25 @@ msgstr ""
 
 #: definitions.json
 msgid "AdBlock"
-msgstr ""
+msgstr "Reklameblokkering"
 
 #: definitions.json
+#, fuzzy
 msgid "Script to block ad/abuse domains."
-msgstr ""
+msgstr "Skript for å blokkere reklame/misbruksdomener."
 
 #: definitions.json
 msgid "SQM"
-msgstr ""
+msgstr "SQM"
 
 #: definitions.json
 msgid "Active Queue Management to boost performance on heavily loaded network."
 msgstr ""
+"Aktiv købehandlingshåndtering for bedret ytelse på tungt belastet nettverk."
 
 #: definitions.json
 msgid "Tinyproxy"
-msgstr ""
+msgstr "Tinyproxy"
 
 #: definitions.json
 msgid "HTTP(S) proxy."
@@ -228,11 +235,11 @@ msgstr "Statistikk"
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
-msgstr ""
+msgstr "Hent inn og tegn diagrammer for systemstatistikk ved bruk av collectd."
 
 #: definitions.json
 msgid "Samba"
-msgstr ""
+msgstr "Samba"
 
 #: definitions.json
 #, fuzzy
@@ -245,11 +252,11 @@ msgstr "DLNA"
 
 #: definitions.json
 msgid "Digital media sharing server."
-msgstr ""
+msgstr "Digital mediadelingstjener."
 
 #: definitions.json
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #: definitions.json
 msgid "BitTorrent client."
@@ -257,19 +264,21 @@ msgstr "BitTorrent-klient."
 
 #: definitions.json
 msgid "mdadm"
-msgstr ""
+msgstr "mdadm"
 
 #: definitions.json
 msgid "Software RAID storage support using mdadm."
-msgstr ""
+msgstr "Programvarebasert RAID-lagringsstøtte ved bruk av mdadm."
 
 #: definitions.json
 msgid "Encrypted Storage"
-msgstr ""
+msgstr "Kryptert lagring"
 
 #: definitions.json
 msgid "Add support to access encrypted storage devices using dm-crypt."
 msgstr ""
+"Legger til støtte for tilgang til krypterte lagringsenheter ved bruk av dm-"
+"crypt."
 
 #: definitions.json
 #, fuzzy
@@ -306,7 +315,7 @@ msgstr "Enkelt oppsett av OpenVPN-tjener fra Foris."
 
 #: labels.json
 msgid "Advanced users"
-msgstr ""
+msgstr "Avanserte brukere"
 
 #: labels.json
 msgid "This functionality is usable only for advanced users."
@@ -346,7 +355,7 @@ msgstr ""
 
 #: labels.json
 msgid "External storage"
-msgstr ""
+msgstr "Ekstern lagring"
 
 #: labels.json
 msgid ""
@@ -367,7 +376,7 @@ msgstr ""
 
 #: labels.json
 msgid "High storage usage"
-msgstr ""
+msgstr "Høy lagringsbruk"
 
 #: labels.json
 msgid ""
@@ -405,7 +414,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Alternative driver from Candela Technologies."
-msgstr ""
+msgstr "Alternativ driver fra Candela Technologies."
 
 #: definitions.json
 msgid ""
@@ -440,8 +449,10 @@ msgid "WireGuard"
 msgstr "WireGuard"
 
 #: definitions.json
+#, fuzzy
 msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
 msgstr ""
+"Alternativ til OpenVPN som tilbyr en rask, moderne og sikker VPN-tunnel."
 
 msgid "Hardening (experimental)"
 msgstr ""
