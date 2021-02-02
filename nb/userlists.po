@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: userlists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2019-01-25 20:10\n"
-"PO-Revision-Date: 2020-11-27 00:29+0000\n"
+"PO-Revision-Date: 2021-02-02 20:41+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
 "turris-userlists/nb_NO/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #: definitions.json
 msgid "Access tokens"
@@ -164,10 +164,11 @@ msgid ""
 "Software for participation in data collection and dynamic distributed "
 "firewall."
 msgstr ""
+"Programvare for deltagelse i datainnsamling og dynamisk distribuert brannmur."
 
 #: definitions.json
 msgid "Pakon"
-msgstr ""
+msgstr "Pakon"
 
 #: definitions.json
 #, fuzzy
@@ -176,11 +177,12 @@ msgstr "Programvare for å holde dybdeoppsyn med trafikk (EKSPERIMENTELT)."
 
 #: definitions.json
 msgid "Turris MOX network boot"
-msgstr ""
+msgstr "Turris MOX-nettverksoppstart"
 
 #: definitions.json
 msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
 msgstr ""
+"Tjenerside for Turris MOX uten SD-kort brukt som Wi-Fi-tilknytningspunkt"
 
 #: definitions.json
 #, fuzzy
@@ -215,7 +217,7 @@ msgstr "Støtte for knipsing av bilde med vevkamera."
 
 #: definitions.json
 msgid "Migration to Turris OS 5.x (EXPERIMENTAL)"
-msgstr ""
+msgstr "Migrasjon til Turris OS 5.x (eksperimentelt)"
 
 #: definitions.json
 msgid ""
@@ -223,6 +225,9 @@ msgid ""
 "that you thoroughly read https://docs.turris.cz/geek/tos3_migration/ before "
 "enabling this!"
 msgstr ""
+"Dette er en eksperimentell migrasjon til siste versjon av Turris OS. "
+"Forsikre deg om at du har lest https://docs.turris.cz/geek/tos3_migration/ "
+"nøye før du skrur på dette!"
 
 #~ msgid "Control software for home automation, including Turris Gadgets."
 #~ msgstr "Kontrollprogramvare for hjemmeautomasjon, inkludert Turris-dingser."
