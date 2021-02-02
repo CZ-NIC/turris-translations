@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-01-30 19:41+0000\n"
+"PO-Revision-Date: 2021-02-02 20:41+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
 "turris-pkglists-1/nb_NO/>\n"
@@ -89,7 +89,7 @@ msgstr "OpenVPN"
 
 #: definitions.json
 msgid "Pakon"
-msgstr "PaKon"
+msgstr "Pakon"
 
 #: definitions.json
 msgid ""
@@ -108,8 +108,9 @@ msgid "Service to increase anonymity on the Internet."
 msgstr "Tjeneste for økt anonymitet på Internett."
 
 #: definitions.json
+#, fuzzy
 msgid "Seccomp tools for system hardening."
-msgstr ""
+msgstr "Seccomp-verktøy for systemtilhardning"
 
 #: definitions.json
 msgid "Nextcloud"
@@ -176,19 +177,19 @@ msgstr "Samler inn logger fra brannmur for forsøkte tilkoblinger."
 
 #: definitions.json
 msgid "Minipots"
-msgstr ""
+msgstr "Minihonningfeller"
 
 #: definitions.json
 msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr ""
+msgstr "Minimale honningfeller for å fange angripere for ymse protokoller."
 
 #: definitions.json
 msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr ""
+msgstr "SSH-honningfelle ved bruk av «Honningfelle som tjeneste» (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
-msgstr ""
+msgstr "Tilhardning"
 
 #: definitions.json
 msgid "AdBlock"
@@ -221,8 +222,9 @@ msgid "UPnP"
 msgstr "UPnP"
 
 #: definitions.json
+#, fuzzy
 msgid "Universal Plug and Play service."
-msgstr ""
+msgstr "Universell Plug and Play-tjeneste."
 
 #: definitions.json
 #, fuzzy
@@ -307,6 +309,8 @@ msgid ""
 "Self-hosted files hosting and productivity platform that keeps you in "
 "control. Alternative to services such as Dropbox or Google Drive."
 msgstr ""
+"Selvtjent fildeling- og produktivitetsplattform som lar deg holde "
+"kontrollen. Alternativ til tjenester som Dropbox og Google Drive."
 
 #: definitions.json
 #, fuzzy
@@ -319,7 +323,7 @@ msgstr "Avanserte brukere"
 
 #: labels.json
 msgid "This functionality is usable only for advanced users."
-msgstr ""
+msgstr "Denne funksjonaliteten er kun tilgjengelig for avanserte brukere."
 
 #: labels.json
 msgid "Community"
@@ -330,6 +334,8 @@ msgid ""
 "This package list is not officially supported. Turris team has no "
 "responsibility for stability of software that is part of this list."
 msgstr ""
+"Denne pakkelisten er ikke offisielt støttet. Turris-laget har ikke ansvar "
+"for stabiliteten til programvaren som er å finne på denne listen."
 
 #: labels.json
 msgid "Experimental"
@@ -352,6 +358,8 @@ msgid ""
 "This package list and/or software that provides is planned to be removed. It "
 "is advised to not use it."
 msgstr ""
+"Denne pakkelisten og/eller programvaren som tilbys er planlagt fjernet. Det "
+"anbefales å ikke bruke den."
 
 #: labels.json
 msgid "External storage"
@@ -363,6 +371,9 @@ msgid ""
 "Software it contains can wear out flash storages as it performs increased "
 "amount of writes."
 msgstr ""
+"Bruk av eksternt lagringsmedium er sterkt anbefalt for bruk av denne "
+"pakkelisten. Programvare den inneholder kan slite ut flash-basert lagring "
+"siden de ofte skriver mye data."
 
 #: labels.json
 msgid "High memory usage"
@@ -373,18 +384,24 @@ msgid ""
 "Software in this package list consumes possibly higher amount of RAM to run. "
 "It is not suggested to use it with small memory."
 msgstr ""
+"Programvare i denne pakkelisten krever antagelig mer minne for å kjøre. Den "
+"er ikke anbefalt for bruk med lite minne."
 
 #: labels.json
 msgid "High storage usage"
 msgstr "Høy lagringsbruk"
 
 #: labels.json
+#, fuzzy
 msgid ""
 "Software in this package list consumes possibly higher amount of storage "
 "space to install. It is not suggested to use it with small storages such as "
 "internal storage of Turris 1.x and microSD cards with less than 1GB of "
 "storage."
 msgstr ""
+"Programvare på denne listen bruker antagelig mer lagringsplass. Det "
+"anbefales ikke å bruke noe herfra hvis du har lite internminne (som på "
+"Turris 1.x og microSD-kort med mindre enn 1 GB lagringsplass)."
 
 #: labels.json
 msgid "Network load"
@@ -396,10 +413,14 @@ msgid ""
 "on faster uplinks but because of that it still can be decremental to some "
 "users."
 msgstr ""
+"Denne funksjonaliteten kan gå ut over nettverksytelsen. Den kan kun merkes "
+"for raske tilknytninger, men for som følge av dette kan fremdeles noen "
+"brukere bli skadelidende."
 
 #: definitions.json
+#, fuzzy
 msgid "Alternative core drivers"
-msgstr ""
+msgstr "Alternative hoveddrivere"
 
 #: definitions.json
 msgid ""
@@ -407,10 +428,13 @@ msgid ""
 "default installation. You can try to enable these if you encounter some "
 "problems with default ones."
 msgstr ""
+"Disse innstillingene lar deg gjøre bruk av alternative drivere istedenfor "
+"dem fra forvalgsinnstallasjonen. Du kan prøve disse hvis du opplever "
+"problemer med de forvalgte."
 
 #: definitions.json
 msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
-msgstr ""
+msgstr "Wi-Fi drivere fra Candela Technologies for Qualcomm Atheros QCA988x"
 
 #: definitions.json
 msgid "Alternative driver from Candela Technologies."
@@ -421,28 +445,34 @@ msgid ""
 "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
 "improved stability in busy networks"
 msgstr ""
+"Wi-Fi drivere fra Candela Technologies for Qualcomm Atheros QCAA988x, med "
+"forbedret stabilitet i travle nettverk"
 
 #: definitions.json
 msgid ""
 "Alternative driver from Candela Technologies. It uses HTT TX data path for "
 "management frames, which improves stability in busy networks."
 msgstr ""
+"Alternativ driver fra Candela Technologies. Den bruker HTT TX-datasti for "
+"håndteringsrammer, som forbedrer stabiliteten på travle nettverk."
 
 #: definitions.json
+#, fuzzy
 msgid "Netdata"
-msgstr ""
+msgstr "Nettdata"
 
 #: definitions.json
 msgid "Real-time perfomance and health monitoring options."
-msgstr ""
+msgstr "Sanntidsytelse og helseovervåkningsalternativer."
 
 #: definitions.json
+#, fuzzy
 msgid "RIPE Atlas SW Probe"
-msgstr ""
+msgstr "RIPE Atlas SW-måleverktøy"
 
 #: definitions.json
 msgid "Global platform, which measures Internet connectivity and reachability."
-msgstr ""
+msgstr "Global plattform, som måler Internett-tilknytning og tilgjengelighet."
 
 #: definitions.json
 msgid "WireGuard"
@@ -455,7 +485,7 @@ msgstr ""
 "Alternativ til OpenVPN som tilbyr en rask, moderne og sikker VPN-tunnel."
 
 msgid "Hardening (experimental)"
-msgstr ""
+msgstr "Tilhardning (eksperimentelt)"
 
 msgid "reForis (experimental)"
 msgstr "reForis (ekperimentell)"
