@@ -4,11 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2019-07-31 16:11\n"
+"PO-Revision-Date: 2021-02-08 09:05+0000\n"
+"Last-Translator: Yuraï Slovaque <assistance@simplix.fr>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/turris/"
+"turris-pkglists-1/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -20,7 +25,7 @@ msgstr ""
 
 #: definitions.json
 msgid "DVB tuner"
-msgstr ""
+msgstr "Televízny tuner"
 
 #: definitions.json
 msgid ""
