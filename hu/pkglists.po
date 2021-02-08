@@ -6,8 +6,8 @@ msgstr ""
 "POT-Creation-Date: 2020-02-24 14:38\n"
 "PO-Revision-Date: 2021-01-08 18:32+0000\n"
 "Last-Translator: Zoli <boritek@gmail.com>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
-"turris-pkglists-1/hu/>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/turris-"
+"pkglists-1/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -175,7 +175,8 @@ msgstr "Minicsupor"
 
 #: definitions.json
 msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr "Minimális mézescsupor különböző protokollok elleti támadók elkapásához."
+msgstr ""
+"Minimális mézescsupor különböző protokollok elleti támadók elkapásához."
 
 #: definitions.json
 msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
@@ -476,14 +477,43 @@ msgstr ""
 "Az OpenVPN alternatívájaként gyors, modern és biztonságos VPN-alagutat "
 "biztosít."
 
-msgid "Hardening (experimental)"
-msgstr "Edzés (kísérleti)"
+#: definitions.json
+msgid "Common passwords filter"
+msgstr ""
 
-msgid "reForis (experimental)"
-msgstr "reForis (kísérleti)"
+#: definitions.json
+msgid ""
+"Compare new password you are about to set to access router with list of "
+"common passwords used by robots trapped in Turris honeypots."
+msgstr ""
 
-msgid "Redesigned Foris is new web interface for Turris routers."
-msgstr "Az újratervezett Foris új webes felülete a Turris útválasztók számára."
+#: definitions.json
+msgid "OpenWrt's process jail"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"ujail allows to limit processes by limiting syscalls and file-system access"
+msgstr ""
+
+#: definitions.json
+msgid "Secure Computing Mode (seccomp)"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Optional support for seccomp allowing processes to isolate from them self"
+msgstr ""
+
+msgid "Trap for password-guessing robots on SSH."
+msgstr ""
+
+msgid "Cloud Backups"
+msgstr ""
+
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgstr ""
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "További protokollok és kapcsolattípusok támogatása."
@@ -499,3 +529,53 @@ msgstr "Az újratervezett Foris új webes felülete a Turris útválasztók szá
 
 #~ msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 #~ msgstr "Szoftver új eszközök felismerésére a helyi hálózaton (KÍSÉRLETI)."
+
+#, fuzzy
+#~ msgid "Several addional tabs and controls for the advanced LuCI interface."
+#~ msgstr "Számos további fül és vezérlő a haladó LuCI felülethez."
+
+#, fuzzy
+#~ msgid "An easy setup of OpenVPN server from Foris."
+#~ msgstr "OpenVPN szerver egyszerű beállítása a Foris felahsználói felületen."
+
+#, fuzzy
+#~ msgid "Software for in depth monitoring of your traffic."
+#~ msgstr "Szoftver a forgalom mélyelemzéséhez a Suricata segítségével."
+
+#, fuzzy
+#~ msgid "Print server"
+#~ msgstr "Nyomtatókiszolgáló (p910nd)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Server side for Turris MOX without SD card used as Wi-Fi access point."
+#~ msgstr ""
+#~ "microSD kártya nélküli, szerveroldali Turris MOX-okat lehet Wi-Fi "
+#~ "hozzáférési pontként használni."
+
+#~ msgid "Hardening (experimental)"
+#~ msgstr "Edzés (kísérleti)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Self-hosted files hosting and productivity platform that keeps you in "
+#~ "control. Alternative to services such as Dropbox or Google Drive. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+#~ "Saját üzemeltetésű fájlok tárolása és termelékenységi platformja, ahol Ön "
+#~ "irányít. Olyan szolgáltatások helyett, mint a Dropbox vagy a Google Drive."
+
+#, fuzzy
+#~ msgid ""
+#~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+#~ "microSD kártya nélküli, szerveroldali Turris MOX-okat lehet Wi-Fi "
+#~ "hozzáférési pontként használni."
+
+#~ msgid "reForis (experimental)"
+#~ msgstr "reForis (kísérleti)"
+
+#~ msgid "Redesigned Foris is new web interface for Turris routers."
+#~ msgstr ""
+#~ "Az újratervezett Foris új webes felülete a Turris útválasztók számára."

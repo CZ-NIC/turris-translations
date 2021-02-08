@@ -194,3 +194,34 @@ msgid ""
 "that you thoroughly read https://docs.turris.cz/geek/tos3_migration/ before "
 "enabling this!"
 msgstr ""
+
+msgid "Control software for home automation, including Turris Gadgets."
+msgstr ""
+
+msgid "Majordomo"
+msgstr ""
+
+msgid ""
+"Software for monitoring connections of devices in local network (obsolete)."
+msgstr ""
+
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing."
+msgstr ""
+
+msgid "Support for USB sound card."
+msgstr ""
+
+msgid "HTTP caching proxy Squid."
+msgstr ""
+
+msgid "Support to capture image with web camera."
+msgstr ""
+
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgstr ""
+
+msgid "Software for in depth monitoring of your traffic (EXPERIMENTAL)."
+msgstr ""

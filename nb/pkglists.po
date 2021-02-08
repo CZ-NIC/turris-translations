@@ -185,7 +185,8 @@ msgstr "Minimale honningfeller for å fange angripere for ymse protokoller."
 
 #: definitions.json
 msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr "SSH-honningfelle ved bruk av «Honningfelle som tjeneste» (haas.nic.cz)."
+msgstr ""
+"SSH-honningfelle ved bruk av «Honningfelle som tjeneste» (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
@@ -484,14 +485,33 @@ msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
 msgstr ""
 "Alternativ til OpenVPN som tilbyr en rask, moderne og sikker VPN-tunnel."
 
-msgid "Hardening (experimental)"
-msgstr "Tilhardning (eksperimentelt)"
+#: definitions.json
+msgid "Common passwords filter"
+msgstr ""
 
-msgid "reForis (experimental)"
-msgstr "reForis (ekperimentell)"
+#: definitions.json
+msgid ""
+"Compare new password you are about to set to access router with list of "
+"common passwords used by robots trapped in Turris honeypots."
+msgstr ""
 
-msgid "Redesigned Foris is new web interface for Turris routers."
-msgstr "Den redesignede Foris er et nytt vevgrensesnitt for Turris-rutere."
+#: definitions.json
+msgid "OpenWrt's process jail"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"ujail allows to limit processes by limiting syscalls and file-system access"
+msgstr ""
+
+#: definitions.json
+msgid "Secure Computing Mode (seccomp)"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Optional support for seccomp allowing processes to isolate from them self"
+msgstr ""
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Støtte for ytterligere protokoller og tilkoblingstyper."
@@ -541,9 +561,27 @@ msgstr "Den redesignede Foris er et nytt vevgrensesnitt for Turris-rutere."
 #~ "Tjeneste for lagring av oppsettssikkerhetskopier på fjerntjenere "
 #~ "(EKSPERIMENTELT)."
 
+#~ msgid "Hardening (experimental)"
+#~ msgstr "Tilhardning (eksperimentelt)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Self-hosted files hosting and productivity platform that keeps you in "
+#~ "control. Alternative to services such as Dropbox or Google Drive. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+#~ "Selvtjent fildeling- og produktivitetsplattform som lar deg holde "
+#~ "kontrollen. Alternativ til tjenester som Dropbox og Google Drive."
+
 #, fuzzy
 #~ msgid ""
 #~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
 #~ "(EXPERIMENTAL)"
 #~ msgstr ""
 #~ "Tjenersiden for Turris MOX uten SD-kort brukt som Wi-Fi-tilgangspunkt."
+
+#~ msgid "reForis (experimental)"
+#~ msgstr "reForis (ekperimentell)"
+
+#~ msgid "Redesigned Foris is new web interface for Turris routers."
+#~ msgstr "Den redesignede Foris er et nytt vevgrensesnitt for Turris-rutere."

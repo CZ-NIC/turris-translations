@@ -6,8 +6,8 @@ msgstr ""
 "POT-Creation-Date: 2020-02-24 14:38\n"
 "PO-Revision-Date: 2020-12-23 13:29+0000\n"
 "Last-Translator: Adam Stańczyk <a.stanczyk@onet.pl>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/turris/"
-"turris-pkglists-1/pl/>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/turris/turris-"
+"pkglists-1/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -441,13 +441,46 @@ msgstr ""
 msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
 msgstr ""
 
-msgid "Hardening (experimental)"
+#: definitions.json
+msgid "Common passwords filter"
 msgstr ""
 
-msgid "reForis (experimental)"
+#: definitions.json
+msgid ""
+"Compare new password you are about to set to access router with list of "
+"common passwords used by robots trapped in Turris honeypots."
 msgstr ""
 
-msgid "Redesigned Foris is new web interface for Turris routers."
+#: definitions.json
+msgid "OpenWrt's process jail"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"ujail allows to limit processes by limiting syscalls and file-system access"
+msgstr ""
+
+#: definitions.json
+msgid "Secure Computing Mode (seccomp)"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Optional support for seccomp allowing processes to isolate from them self"
+msgstr ""
+
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+msgstr ""
+
+msgid ""
+"Self-hosted files hosting and productivity platform that keeps you in "
+"control. Alternative to services such as Dropbox or Google Drive. "
+"(EXPERIMENTAL)"
+msgstr ""
+
+msgid ""
+"Server side for Turris MOX without SD card used as Wi-Fi access point. "
+"(EXPERIMENTAL)"
 msgstr ""
 
 #~ msgid "Support for additional protocols and connection types."

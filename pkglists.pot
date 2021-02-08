@@ -414,6 +414,34 @@ msgid ""
 "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
 msgstr ""
 
+#: definitions.json
+msgid "Common passwords filter"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Compare new password you are about to set to access router with list of "
+"common passwords used by robots trapped in Turris honeypots."
+msgstr ""
+
+#: definitions.json
+msgid "OpenWrt's process jail"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"ujail allows to limit processes by limiting syscalls and file-system access"
+msgstr ""
+
+#: definitions.json
+msgid "Secure Computing Mode (seccomp)"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Optional support for seccomp allowing processes to isolate from them self"
+msgstr ""
+
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr ""
 
