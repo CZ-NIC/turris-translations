@@ -16,7 +16,7 @@ translations.
   Just use the URL for the repository with Weblate translations, you'd need to
   add it as a remote repository, so you'd be able to merge it.
   ```
-  git remote add weblate https://hosted.weblate.org/git/turris/turris-userlists/
+  git remote add weblate https://hosted.weblate.org/git/turris/pkglists/
   ```
   
   Now you are ablo to fetch Weblate translations:
