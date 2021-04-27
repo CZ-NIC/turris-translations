@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-02-02 20:41+0000\n"
+"PO-Revision-Date: 2021-04-28 09:31+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
-"turris-pkglists-1/nb_NO/>\n"
+"pkglists/nb_NO/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -487,31 +487,39 @@ msgstr ""
 
 #: definitions.json
 msgid "Common passwords filter"
-msgstr ""
+msgstr "Filter for vanlige passord"
 
 #: definitions.json
+#, fuzzy
 msgid ""
 "Compare new password you are about to set to access router with list of "
 "common passwords used by robots trapped in Turris honeypots."
 msgstr ""
+"Sammenlign passord du er i ferd med å bruke for tilgang til ruter med en "
+"liste over vanlig brukte passord av roboter som er fanget i Turris-"
+"honningkrukker."
 
 #: definitions.json
 msgid "OpenWrt's process jail"
-msgstr ""
+msgstr "OpenWrt sitt prosessfengsel"
 
 #: definitions.json
 msgid ""
 "ujail allows to limit processes by limiting syscalls and file-system access"
 msgstr ""
+"ujail tillater begrensing av prosesser ved å begrense systemkall og "
+"filsystemstilgang"
 
 #: definitions.json
 msgid "Secure Computing Mode (seccomp)"
-msgstr ""
+msgstr "Sikkert datamaskinsmodus (seccomp)"
 
 #: definitions.json
+#, fuzzy
 msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
 msgstr ""
+"Valgfri støtte for seccomp tillater prosesser å isolere seg fra seg selv."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Støtte for ytterligere protokoller og tilkoblingstyper."
