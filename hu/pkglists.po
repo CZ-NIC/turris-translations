@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-01-08 18:32+0000\n"
+"PO-Revision-Date: 2021-05-30 16:33+0000\n"
 "Last-Translator: Zoli <boritek@gmail.com>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/hu/>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
+"pkglists/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.1-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Tinyproxy"
-msgstr "Pici gyorsítótár"
+msgstr "Tinyproxy"
 
 #: definitions.json
 msgid "HTTP(S) proxy."
@@ -479,41 +479,50 @@ msgstr ""
 
 #: definitions.json
 msgid "Common passwords filter"
-msgstr ""
+msgstr "Gyakori jelszavak szűrője"
 
 #: definitions.json
 msgid ""
 "Compare new password you are about to set to access router with list of "
 "common passwords used by robots trapped in Turris honeypots."
 msgstr ""
+"Hasonlítsa össze az útválasztóhoz beállítani kívánt új jelszót a Turris "
+"mézesbödönökben csapdába esett robotok által használt gyakori jelszavak "
+"listájával."
 
 #: definitions.json
 msgid "OpenWrt's process jail"
-msgstr ""
+msgstr "OpenWrt folyamatbörtön"
 
 #: definitions.json
 msgid ""
 "ujail allows to limit processes by limiting syscalls and file-system access"
 msgstr ""
+"Az ujail lehetővé teszi a folyamatok korlátozását a rendszerhívások és a "
+"fájlrendszer hozzáférésének korlátozásával"
 
 #: definitions.json
 msgid "Secure Computing Mode (seccomp)"
-msgstr ""
+msgstr "Biztonságos számítási mód (seccomp)"
 
 #: definitions.json
 msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
 msgstr ""
+"A seccomp opcionális támogatása, amely lehetővé teszi a folyamatok "
+"elkülönítését önmaguktól"
 
 msgid "Trap for password-guessing robots on SSH."
-msgstr ""
+msgstr "Csapda SSH jelszót találgató robotoknak."
 
 msgid "Cloud Backups"
-msgstr ""
+msgstr "Felhőalapú biztonsági mentések"
 
 msgid ""
 "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
 msgstr ""
+"Szolgáltatás a beállítások távoli kiszolgálókon történő tárolásához "
+"(KÍSÉRLETI)."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "További protokollok és kapcsolattípusok támogatása."
