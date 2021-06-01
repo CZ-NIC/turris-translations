@@ -313,11 +313,6 @@ msgstr ""
 "vous permet de garder le contrôle. Alternative aux services tels que Dropbox "
 "ou Google Drive."
 
-#: definitions.json
-#, fuzzy
-msgid "Easy setup of the OpenVPN server from Foris."
-msgstr "Une configuration facile du serveur OpenVPN via Foris."
-
 #: labels.json
 msgid "Advanced users"
 msgstr "Utilisateurs avancés"
@@ -471,7 +466,8 @@ msgstr "Netdata"
 
 #: definitions.json
 msgid "Real-time perfomance and health monitoring options."
-msgstr "Options de surveillance de la performance et de la santé en temps réel."
+msgstr ""
+"Options de surveillance de la performance et de la santé en temps réel."
 
 #: definitions.json
 msgid "RIPE Atlas SW Probe"
@@ -524,17 +520,20 @@ msgstr ""
 msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
 msgstr ""
-"Prise en charge optionnelle de seccomp permettant aux processus de s'isoler d"
-"'eux-mêmes"
+"Prise en charge optionnelle de seccomp permettant aux processus de s'isoler "
+"d'eux-mêmes"
 
-msgid ""
-"Self-hosted files hosting and productivity platform that keeps you in "
-"control. Alternative to services such as Dropbox or Google Drive. "
-"(EXPERIMENTAL)"
+#: definitions.json
+#, fuzzy
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr "Une configuration facile du serveur OpenVPN via Foris."
+
+msgid "Redesigned Foris is new web interface for Turris routers."
 msgstr ""
-"Plateforme auto-hébergée d'hébergement de fichiers et de productivité qui "
-"vous permet de garder le contrôle. Alternative aux services tels que Dropbox "
-"ou Google Drive. (EXPÉRIMENTAL)"
+
+#, fuzzy
+#~ msgid "Easy setup of the OpenVPN server from Foris."
+#~ msgstr "Une configuration facile du serveur OpenVPN via Foris."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr ""
@@ -589,9 +588,26 @@ msgstr ""
 #~ "distants (EXPERIMENTAL)."
 
 #, fuzzy
+#~ msgid "Hardening (experimental)"
+#~ msgstr "Expérimental"
+
+#~ msgid ""
+#~ "Self-hosted files hosting and productivity platform that keeps you in "
+#~ "control. Alternative to services such as Dropbox or Google Drive. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+#~ "Plateforme auto-hébergée d'hébergement de fichiers et de productivité qui "
+#~ "vous permet de garder le contrôle. Alternative aux services tels que "
+#~ "Dropbox ou Google Drive. (EXPÉRIMENTAL)"
+
+#, fuzzy
 #~ msgid ""
 #~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
 #~ "(EXPERIMENTAL)"
 #~ msgstr ""
 #~ "Partie serveur pour Turris MOX sans carte SD utilisé comme point d'accès "
 #~ "Wi-Fi."
+
+#, fuzzy
+#~ msgid "reForis (experimental)"
+#~ msgstr "Expérimental"

@@ -304,10 +304,6 @@ msgstr ""
 "Saját üzemeltetésű fájlok tárolása és termelékenységi platformja, ahol Ön "
 "irányít. Olyan szolgáltatások helyett, mint a Dropbox vagy a Google Drive."
 
-#: definitions.json
-msgid "Easy setup of the OpenVPN server from Foris."
-msgstr "OpenVPN szerver egyszerű beállítása a Foris felahsználói felületen."
-
 #: labels.json
 msgid "Advanced users"
 msgstr "Haladó felhasználók"
@@ -512,17 +508,13 @@ msgstr ""
 "A seccomp opcionális támogatása, amely lehetővé teszi a folyamatok "
 "elkülönítését önmaguktól"
 
-msgid "Trap for password-guessing robots on SSH."
-msgstr "Csapda SSH jelszót találgató robotoknak."
+#: definitions.json
+#, fuzzy
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr "OpenVPN szerver egyszerű beállítása a Foris felahsználói felületen."
 
-msgid "Cloud Backups"
-msgstr "Felhőalapú biztonsági mentések"
-
-msgid ""
-"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
-msgstr ""
-"Szolgáltatás a beállítások távoli kiszolgálókon történő tárolásához "
-"(KÍSÉRLETI)."
+#~ msgid "Easy setup of the OpenVPN server from Foris."
+#~ msgstr "OpenVPN szerver egyszerű beállítása a Foris felahsználói felületen."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "További protokollok és kapcsolattípusok támogatása."
@@ -538,6 +530,9 @@ msgstr ""
 
 #~ msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 #~ msgstr "Szoftver új eszközök felismerésére a helyi hálózaton (KÍSÉRLETI)."
+
+#~ msgid "Trap for password-guessing robots on SSH."
+#~ msgstr "Csapda SSH jelszót találgató robotoknak."
 
 #, fuzzy
 #~ msgid "Several addional tabs and controls for the advanced LuCI interface."
@@ -561,6 +556,16 @@ msgstr ""
 #~ msgstr ""
 #~ "microSD kártya nélküli, szerveroldali Turris MOX-okat lehet Wi-Fi "
 #~ "hozzáférési pontként használni."
+
+#~ msgid "Cloud Backups"
+#~ msgstr "Felhőalapú biztonsági mentések"
+
+#~ msgid ""
+#~ "Service for storing configuration backups on remote servers "
+#~ "(EXPERIMENTAL)."
+#~ msgstr ""
+#~ "Szolgáltatás a beállítások távoli kiszolgálókon történő tárolásához "
+#~ "(KÍSÉRLETI)."
 
 #~ msgid "Hardening (experimental)"
 #~ msgstr "Edzés (kísérleti)"

@@ -6,8 +6,8 @@ msgstr ""
 "POT-Creation-Date: 2020-02-24 14:38\n"
 "PO-Revision-Date: 2021-02-19 07:02+0000\n"
 "Last-Translator: Алексей Леньшин <alenshin@gmail.com>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/turris/"
-"turris-pkglists-1/ru/>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/turris/turris-"
+"pkglists-1/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -307,10 +307,6 @@ msgstr ""
 "Самостоятельный хостинг файлов и продуктивная платформа, которую вы "
 "контролируете. Альтернатива таким сервисам, как Dropbox или Google Drive."
 
-#: definitions.json
-msgid "Easy setup of the OpenVPN server from Foris."
-msgstr "Простая настройка сервера OpenVPN из Foris."
-
 #: labels.json
 msgid "Advanced users"
 msgstr "Опытные пользователи"
@@ -512,6 +508,14 @@ msgid ""
 msgstr ""
 "Дополнительная поддержка безопасных вычислений, позволяющая изолировать "
 "процессы от самих себя"
+
+#: definitions.json
+#, fuzzy
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr "Простая настройка сервера OpenVPN из Foris."
+
+#~ msgid "Easy setup of the OpenVPN server from Foris."
+#~ msgstr "Простая настройка сервера OpenVPN из Foris."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Поддержка дополнительных протоколов и типов соединений."

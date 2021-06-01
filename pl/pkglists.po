@@ -299,11 +299,6 @@ msgid ""
 "control. Alternative to services such as Dropbox or Google Drive."
 msgstr ""
 
-#: definitions.json
-#, fuzzy
-msgid "Easy setup of the OpenVPN server from Foris."
-msgstr "Łatwa konfiguracja serwera OpenVPN z poziomu Foris."
-
 #: labels.json
 msgid "Advanced users"
 msgstr ""
@@ -469,19 +464,23 @@ msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
 msgstr ""
 
-msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+#: definitions.json
+#, fuzzy
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr "Łatwa konfiguracja serwera OpenVPN z poziomu Foris."
+
+msgid "Hardening (experimental)"
 msgstr ""
 
-msgid ""
-"Self-hosted files hosting and productivity platform that keeps you in "
-"control. Alternative to services such as Dropbox or Google Drive. "
-"(EXPERIMENTAL)"
+msgid "reForis (experimental)"
 msgstr ""
 
-msgid ""
-"Server side for Turris MOX without SD card used as Wi-Fi access point. "
-"(EXPERIMENTAL)"
+msgid "Redesigned Foris is new web interface for Turris routers."
 msgstr ""
+
+#, fuzzy
+#~ msgid "Easy setup of the OpenVPN server from Foris."
+#~ msgstr "Łatwa konfiguracja serwera OpenVPN z poziomu Foris."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Obsługa dodatkowych protokołów i typów połączeń."

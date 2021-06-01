@@ -298,10 +298,6 @@ msgstr ""
 "Vlastní souborový hosting a kancelářská platforma, které máte pod kontrolou. "
 "Alternativa ke službám jako Dropbox nebo Google Drive."
 
-#: definitions.json
-msgid "Easy setup of the OpenVPN server from Foris."
-msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."
-
 #: labels.json
 msgid "Advanced users"
 msgstr "Pokročilí uživatelé"
@@ -496,6 +492,14 @@ msgstr "Bezpečný režim (seccomp)"
 msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
 msgstr "Volitelná podpora seccomp umožňuje procesům se vzájemně izolovat"
+
+#: definitions.json
+#, fuzzy
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."
+
+#~ msgid "Easy setup of the OpenVPN server from Foris."
+#~ msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."
 
 #~ msgid "Support for additional protocols and connection types."
 #~ msgstr "Podpora dalších protokolů a druhů připojení."
