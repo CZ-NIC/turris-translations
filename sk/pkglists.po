@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-06-20 06:33+0000\n"
+"PO-Revision-Date: 2021-07-07 06:33+0000\n"
 "Last-Translator: Atec <dr.atec@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/turris/pkglists/"
 "sk/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Firewall Logs"
-msgstr "Záznamy (logy) firewallu"
+msgstr "Záznamy firewallu"
 
 #: definitions.json
 msgid "Collect logs from firewall for attempted connections."
