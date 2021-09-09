@@ -20,10 +20,6 @@ msgid "Extensions of network protocols for 3G/LTE"
 msgstr "Rozšírenia sieťových protokolov pre 3G/LTE"
 
 #: definitions.json
-msgid "Data Collection"
-msgstr "Zber dát"
-
-#: definitions.json
 msgid "DVB tuner"
 msgstr "DVB tuner"
 
@@ -129,55 +125,20 @@ msgid "Support for Turris Omnia and Turris MOX LTE pack."
 msgstr "Podpora pre Turris Omnia a Turris MOX LTE pack."
 
 #: definitions.json
-msgid ""
-"Software for participation in data collection and distributed adaptive "
-"firewall."
-msgstr ""
-"Software na pripojenie sa k zberu dát a dynamicky distribuovanému "
-"adaptívnemu firewallu."
-
-#: definitions.json
 msgid "Usage Survey"
 msgstr "Prieskum využitia"
-
-#: definitions.json
-msgid ""
-"Collect data about router usage (installed packages, Internet connection "
-"type and etc.)."
-msgstr ""
-"Zber dát o používaní routera (nainštalované balíčky, druh internetového "
-"pripojenia a pod.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
 msgstr "Dynamický firewall"
 
 #: definitions.json
-msgid ""
-"Add firewall rules to block attackers detected by Turris collection network."
-msgstr ""
-"Pridávanie pravidiel pre firewall na blokovanie útočníkov zachytených sieťou "
-"Turris na zber dát."
-
-#: definitions.json
 msgid "Firewall Logs"
 msgstr "Záznamy firewallu"
 
 #: definitions.json
-msgid "Collect logs from firewall for attempted connections."
-msgstr "Zber záznamov firewallu o pokusoch o pripojenie."
-
-#: definitions.json
 msgid "Minipots"
 msgstr "Minipoty"
-
-#: definitions.json
-msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr "Minimálne honeypoty na zachytenie útokov cez rôzne protokoly."
-
-#: definitions.json
-msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr "SSH honeypot s použitím Honeypot as a Service (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
@@ -456,7 +417,8 @@ msgstr "WireGuard"
 
 #: definitions.json
 msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
-msgstr "Alternatíva OpenVPN, ktorá ponúka rýchly, moderný a bezpečný VPN tunel."
+msgstr ""
+"Alternatíva OpenVPN, ktorá ponúka rýchly, moderný a bezpečný VPN tunel."
 
 #: definitions.json
 msgid "Common passwords filter"
@@ -495,11 +457,172 @@ msgstr "Voliteľná podpora seccomp umožňuje vzájomné izolovanie procesov"
 msgid "Easy setup of the OpenVPN client and server from Foris."
 msgstr "Jednoduché nastavenie klienta a servera OpenVPN z rozhrania Foris."
 
-msgid "Hardening (experimental)"
-msgstr "Posilnenie bezpečnosti (experimentálne)"
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr ""
 
-msgid "reForis (experimental)"
-msgstr "reForis (experimentálne)"
+#: definitions.json
+#, fuzzy
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+"Software na pripojenie sa k zberu dát a dynamicky distribuovanému "
+"adaptívnemu firewallu."
 
-msgid "Redesigned Foris is new web interface for Turris routers."
-msgstr "Foris s novým dizajnom je novým užívateľským rozhraním routerov Turris."
+#: definitions.json
+#, fuzzy
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+"Zber dát o používaní routera (nainštalované balíčky, druh internetového "
+"pripojenia a pod.)."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+"Pridávanie pravidiel pre firewall na blokovanie útočníkov zachytených sieťou "
+"Turris na zber dát."
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr "Minimálne honeypoty na zachytenie útokov cez rôzne protokoly."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
+"cz)."
+msgstr "SSH honeypot s použitím Honeypot as a Service (haas.nic.cz)."
+
+msgid "Support for additional protocols and connection types."
+msgstr ""
+
+msgid "Trap for password-guessing robots on SSH."
+msgstr ""
+
+msgid "Cloud Backups"
+msgstr ""
+
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgstr ""
+
+#~ msgid "Data Collection"
+#~ msgstr "Zber dát"
+
+#~ msgid ""
+#~ "Software for participation in data collection and distributed adaptive "
+#~ "firewall."
+#~ msgstr ""
+#~ "Software na pripojenie sa k zberu dát a dynamicky distribuovanému "
+#~ "adaptívnemu firewallu."
+
+#~ msgid ""
+#~ "Collect data about router usage (installed packages, Internet connection "
+#~ "type and etc.)."
+#~ msgstr ""
+#~ "Zber dát o používaní routera (nainštalované balíčky, druh internetového "
+#~ "pripojenia a pod.)."
+
+#~ msgid ""
+#~ "Add firewall rules to block attackers detected by Turris collection "
+#~ "network."
+#~ msgstr ""
+#~ "Pridávanie pravidiel pre firewall na blokovanie útočníkov zachytených "
+#~ "sieťou Turris na zber dát."
+
+#~ msgid "Collect logs from firewall for attempted connections."
+#~ msgstr "Zber záznamov firewallu o pokusoch o pripojenie."
+
+#~ msgid "Minimal honeypots to catch attackers for various protocols."
+#~ msgstr "Minimálne honeypoty na zachytenie útokov cez rôzne protokoly."
+
+#~ msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
+#~ msgstr "SSH honeypot s použitím Honeypot as a Service (haas.nic.cz)."
+
+#, fuzzy
+#~ msgid "Easy setup of the OpenVPN server from Foris."
+#~ msgstr "Jednoduché nastavenie klienta a servera OpenVPN z rozhrania Foris."
+
+#, fuzzy
+#~ msgid ""
+#~ "Software for participation in data collection and dynamic distributed "
+#~ "firewall."
+#~ msgstr ""
+#~ "Software na pripojenie sa k zberu dát a dynamicky distribuovanému "
+#~ "adaptívnemu firewallu."
+
+#, fuzzy
+#~ msgid "Device detection"
+#~ msgstr "Detekcia nových zariadení"
+
+#, fuzzy
+#~ msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
+#~ msgstr "Software na zistenie nových zariadení v miestnej sieti."
+
+#, fuzzy
+#~ msgid "Several addional tabs and controls for the advanced LuCI interface."
+#~ msgstr ""
+#~ "Niekoľko ďalších záložiek a ovládacích prvkov do pokročilého rozhrania "
+#~ "LuCI."
+
+#, fuzzy
+#~ msgid "An easy setup of OpenVPN server from Foris."
+#~ msgstr "Jednoduché nastavenie klienta a servera OpenVPN z rozhrania Foris."
+
+#, fuzzy
+#~ msgid "Software for in depth monitoring of your traffic."
+#~ msgstr ""
+#~ "Software na hĺbkové monitorovanie sieťovej prevádzky s využitím programu "
+#~ "Suricata."
+
+#, fuzzy
+#~ msgid "Print server"
+#~ msgstr "Tlačový server (p910nd)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Server side for Turris MOX without SD card used as Wi-Fi access point."
+#~ msgstr ""
+#~ "Serverová časť pre Turris MOX bez microSD karty, ktorý slúži ako Wi-Fi "
+#~ "prístupový bod."
+
+#~ msgid "Hardening (experimental)"
+#~ msgstr "Posilnenie bezpečnosti (experimentálne)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Self-hosted files hosting and productivity platform that keeps you in "
+#~ "control. Alternative to services such as Dropbox or Google Drive. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+#~ "Vlastný súborový hosting a kancelárska platforma, ktoré sú pod vašou "
+#~ "kontrolou. Alternatíva k službám ako sú Dropbox alebo Google Drive."
+
+#, fuzzy
+#~ msgid ""
+#~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
+#~ "(EXPERIMENTAL)"
+#~ msgstr ""
+#~ "Serverová časť pre Turris MOX bez microSD karty, ktorý slúži ako Wi-Fi "
+#~ "prístupový bod."
+
+#~ msgid "reForis (experimental)"
+#~ msgstr "reForis (experimentálne)"
+
+#~ msgid "Redesigned Foris is new web interface for Turris routers."
+#~ msgstr ""
+#~ "Foris s novým dizajnom je novým užívateľským rozhraním routerov Turris."

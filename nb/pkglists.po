@@ -20,10 +20,6 @@ msgid "Extensions of network protocols for 3G/LTE"
 msgstr "Utvidelser av nettverksprotokoller for 3G/LTE"
 
 #: definitions.json
-msgid "Data Collection"
-msgstr "Datainnsamling"
-
-#: definitions.json
 msgid "DVB tuner"
 msgstr "DVB-tuner"
 
@@ -136,58 +132,21 @@ msgid "Support for Turris Omnia and Turris MOX LTE pack."
 msgstr "Støtte for Turris Omnia og Turris MOX LTE-pakke."
 
 #: definitions.json
-#, fuzzy
-msgid ""
-"Software for participation in data collection and distributed adaptive "
-"firewall."
-msgstr ""
-"Programvare for deltagelse i datainnsamling og dynamisk distribuert brannmur."
-
-#: definitions.json
 msgid "Usage Survey"
 msgstr "Brukstilbakemelding"
-
-#: definitions.json
-#, fuzzy
-msgid ""
-"Collect data about router usage (installed packages, Internet connection "
-"type and etc.)."
-msgstr ""
-"Samler inn data om ruterbruk (installerte pakker, Internett-"
-"tilknytningstype, osv.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
 msgstr "Dynamisk brannmur"
 
 #: definitions.json
-msgid ""
-"Add firewall rules to block attackers detected by Turris collection network."
-msgstr ""
-"Legg til brannmursregler for å blokkere angripere oppdaget av Turris-"
-"innsamlingsnettverket."
-
-#: definitions.json
 msgid "Firewall Logs"
 msgstr "Brannmurslogger"
-
-#: definitions.json
-msgid "Collect logs from firewall for attempted connections."
-msgstr "Samler inn logger fra brannmur for forsøkte tilkoblinger."
 
 #: definitions.json
 #, fuzzy
 msgid "Minipots"
 msgstr "Minipotter"
-
-#: definitions.json
-msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr "Minimale honningfeller for å fange angripere for ymse protokoller."
-
-#: definitions.json
-msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr ""
-"SSH-honningfelle ved bruk av «Honningfelle som tjeneste» (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
@@ -521,6 +480,92 @@ msgstr ""
 #, fuzzy
 msgid "Easy setup of the OpenVPN client and server from Foris."
 msgstr "Enkelt oppsett av OpenVPN-tjener fra Foris."
+
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+"Programvare for deltagelse i datainnsamling og dynamisk distribuert brannmur."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+"Samler inn data om ruterbruk (installerte pakker, Internett-"
+"tilknytningstype, osv.)."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+"Legg til brannmursregler for å blokkere angripere oppdaget av Turris-"
+"innsamlingsnettverket."
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr "Minimale honningfeller for å fange angripere for ymse protokoller."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
+"cz)."
+msgstr ""
+"SSH-honningfelle ved bruk av «Honningfelle som tjeneste» (haas.nic.cz)."
+
+#~ msgid "Data Collection"
+#~ msgstr "Datainnsamling"
+
+#, fuzzy
+#~ msgid ""
+#~ "Software for participation in data collection and distributed adaptive "
+#~ "firewall."
+#~ msgstr ""
+#~ "Programvare for deltagelse i datainnsamling og dynamisk distribuert "
+#~ "brannmur."
+
+#, fuzzy
+#~ msgid ""
+#~ "Collect data about router usage (installed packages, Internet connection "
+#~ "type and etc.)."
+#~ msgstr ""
+#~ "Samler inn data om ruterbruk (installerte pakker, Internett-"
+#~ "tilknytningstype, osv.)."
+
+#~ msgid ""
+#~ "Add firewall rules to block attackers detected by Turris collection "
+#~ "network."
+#~ msgstr ""
+#~ "Legg til brannmursregler for å blokkere angripere oppdaget av Turris-"
+#~ "innsamlingsnettverket."
+
+#~ msgid "Collect logs from firewall for attempted connections."
+#~ msgstr "Samler inn logger fra brannmur for forsøkte tilkoblinger."
+
+#~ msgid "Minimal honeypots to catch attackers for various protocols."
+#~ msgstr "Minimale honningfeller for å fange angripere for ymse protokoller."
+
+#~ msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
+#~ msgstr ""
+#~ "SSH-honningfelle ved bruk av «Honningfelle som tjeneste» (haas.nic.cz)."
 
 #, fuzzy
 #~ msgid "Easy setup of the OpenVPN server from Foris."

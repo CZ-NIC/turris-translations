@@ -20,10 +20,6 @@ msgid "Extensions of network protocols for 3G/LTE"
 msgstr "Rozšíření podpory sítí o 3G/LTE"
 
 #: definitions.json
-msgid "Data Collection"
-msgstr "Sběr dat"
-
-#: definitions.json
 msgid "DVB tuner"
 msgstr "DVB tuner"
 
@@ -132,54 +128,20 @@ msgid "Support for Turris Omnia and Turris MOX LTE pack."
 msgstr "Podpora pro Turris Omnia a Turris MOX LTE pack."
 
 #: definitions.json
-msgid ""
-"Software for participation in data collection and distributed adaptive "
-"firewall."
-msgstr ""
-"Software pro účast ve sběru dat a dynamicky distribuovanou bránu firewall."
-
-#: definitions.json
 msgid "Usage Survey"
 msgstr "Průzkum využití"
-
-#: definitions.json
-msgid ""
-"Collect data about router usage (installed packages, Internet connection "
-"type and etc.)."
-msgstr ""
-"Sběr dat o užívání routeru (nainstalované balíčky, typ připojení k internetu "
-"a jiné)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
 msgstr "Dynamický Firewall"
 
 #: definitions.json
-msgid ""
-"Add firewall rules to block attackers detected by Turris collection network."
-msgstr ""
-"Přidává pravidla pro firewall k blokování útočníků zachycených pomocí Turris "
-"sítě pro sběr dat."
-
-#: definitions.json
 msgid "Firewall Logs"
 msgstr "Záznamy z firewallu"
 
 #: definitions.json
-msgid "Collect logs from firewall for attempted connections."
-msgstr "Sběr záznamů z firewall o pokusech o připojení."
-
-#: definitions.json
 msgid "Minipots"
 msgstr "Minipoty"
-
-#: definitions.json
-msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr "Minimální honeypoty zachytávající útočníky na různých protokolech."
-
-#: definitions.json
-msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr "SSH honeypot používající Honeypot as a Service (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
@@ -497,6 +459,87 @@ msgstr "Volitelná podpora seccomp umožňuje procesům se vzájemně izolovat"
 msgid "Easy setup of the OpenVPN client and server from Foris."
 msgstr ""
 "Snadné nastavení OpenVPN klienta a serveru z uživatelského rozhraní Foris."
+
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+"Software pro účast ve sběru dat a dynamicky distribuovanou bránu firewall."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+"Sběr dat o užívání routeru (nainstalované balíčky, typ připojení k internetu "
+"a jiné)."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+"Přidává pravidla pro firewall k blokování útočníků zachycených pomocí Turris "
+"sítě pro sběr dat."
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr "Minimální honeypoty zachytávající útočníky na různých protokolech."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
+"cz)."
+msgstr "SSH honeypot používající Honeypot as a Service (haas.nic.cz)."
+
+#~ msgid "Data Collection"
+#~ msgstr "Sběr dat"
+
+#~ msgid ""
+#~ "Software for participation in data collection and distributed adaptive "
+#~ "firewall."
+#~ msgstr ""
+#~ "Software pro účast ve sběru dat a dynamicky distribuovanou bránu firewall."
+
+#~ msgid ""
+#~ "Collect data about router usage (installed packages, Internet connection "
+#~ "type and etc.)."
+#~ msgstr ""
+#~ "Sběr dat o užívání routeru (nainstalované balíčky, typ připojení k "
+#~ "internetu a jiné)."
+
+#~ msgid ""
+#~ "Add firewall rules to block attackers detected by Turris collection "
+#~ "network."
+#~ msgstr ""
+#~ "Přidává pravidla pro firewall k blokování útočníků zachycených pomocí "
+#~ "Turris sítě pro sběr dat."
+
+#~ msgid "Collect logs from firewall for attempted connections."
+#~ msgstr "Sběr záznamů z firewall o pokusech o připojení."
+
+#~ msgid "Minimal honeypots to catch attackers for various protocols."
+#~ msgstr "Minimální honeypoty zachytávající útočníky na různých protokolech."
+
+#~ msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
+#~ msgstr "SSH honeypot používající Honeypot as a Service (haas.nic.cz)."
 
 #~ msgid "Easy setup of the OpenVPN server from Foris."
 #~ msgstr "Snadné nastavení OpenVPN serveru z uživatelského rozhraní Foris."

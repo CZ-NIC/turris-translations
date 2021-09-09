@@ -20,10 +20,6 @@ msgid "Extensions of network protocols for 3G/LTE"
 msgstr ""
 
 #: definitions.json
-msgid "Data Collection"
-msgstr ""
-
-#: definitions.json
 msgid "DVB tuner"
 msgstr ""
 
@@ -121,19 +117,7 @@ msgid "Support for Turris Omnia and Turris MOX LTE pack."
 msgstr ""
 
 #: definitions.json
-msgid ""
-"Software for participation in data collection and distributed adaptive "
-"firewall."
-msgstr ""
-
-#: definitions.json
 msgid "Usage Survey"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Collect data about router usage (installed packages, Internet connection "
-"type and etc.)."
 msgstr ""
 
 #: definitions.json
@@ -141,28 +125,11 @@ msgid "Dynamic Firewall"
 msgstr ""
 
 #: definitions.json
-msgid ""
-"Add firewall rules to block attackers detected by Turris collection network."
-msgstr ""
-
-#: definitions.json
 msgid "Firewall Logs"
 msgstr ""
 
 #: definitions.json
-msgid "Collect logs from firewall for attempted connections."
-msgstr ""
-
-#: definitions.json
 msgid "Minipots"
-msgstr ""
-
-#: definitions.json
-msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr ""
-
-#: definitions.json
-msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
 msgstr ""
 
 #: definitions.json
@@ -445,11 +412,94 @@ msgstr ""
 msgid "Easy setup of the OpenVPN client and server from Foris."
 msgstr ""
 
-msgid "Hardening (experimental)"
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
 msgstr ""
 
-msgid "reForis (experimental)"
+#: definitions.json
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
 msgstr ""
 
-msgid "Redesigned Foris is new web interface for Turris routers."
+#: definitions.json
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
+"cz)."
+msgstr ""
+
+msgid "Easy setup of the OpenVPN server from Foris."
+msgstr ""
+
+msgid "Support for additional protocols and connection types."
+msgstr ""
+
+msgid ""
+"Software for participation in data collection and dynamic distributed "
+"firewall."
+msgstr ""
+
+msgid "Device detection"
+msgstr ""
+
+msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
+msgstr ""
+
+msgid "Trap for password-guessing robots on SSH."
+msgstr ""
+
+msgid "Several addional tabs and controls for the advanced LuCI interface."
+msgstr ""
+
+msgid "An easy setup of OpenVPN server from Foris."
+msgstr ""
+
+msgid "Software for in depth monitoring of your traffic."
+msgstr ""
+
+msgid "Print server"
+msgstr ""
+
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
+msgstr ""
+
+msgid "Cloud Backups"
+msgstr ""
+
+msgid ""
+"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
+msgstr ""
+
+msgid ""
+"Self-hosted files hosting and productivity platform that keeps you in "
+"control. Alternative to services such as Dropbox or Google Drive. "
+"(EXPERIMENTAL)"
+msgstr ""
+
+msgid ""
+"Server side for Turris MOX without SD card used as Wi-Fi access point. "
+"(EXPERIMENTAL)"
 msgstr ""

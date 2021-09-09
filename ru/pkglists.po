@@ -21,10 +21,6 @@ msgid "Extensions of network protocols for 3G/LTE"
 msgstr "Расширения сетевых протоколов для 3G / LTE"
 
 #: definitions.json
-msgid "Data Collection"
-msgstr "Сбор данных"
-
-#: definitions.json
 msgid "DVB tuner"
 msgstr "DVB-тюнер"
 
@@ -131,57 +127,20 @@ msgid "Support for Turris Omnia and Turris MOX LTE pack."
 msgstr "Поддержка пакетов Turris Omnia и Turris MOX LTE."
 
 #: definitions.json
-msgid ""
-"Software for participation in data collection and distributed adaptive "
-"firewall."
-msgstr ""
-"Программное обеспечение для участия в сборе данных и динамическом "
-"распределенном межсетевом экране."
-
-#: definitions.json
 msgid "Usage Survey"
 msgstr "Обзор использования"
-
-#: definitions.json
-msgid ""
-"Collect data about router usage (installed packages, Internet connection "
-"type and etc.)."
-msgstr ""
-"Сбор данных об использовании маршрутизатора (установленные пакеты, тип "
-"подключения к Интернету и т.д.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
 msgstr "Динамический межсетевой экран"
 
 #: definitions.json
-msgid ""
-"Add firewall rules to block attackers detected by Turris collection network."
-msgstr ""
-"Добавить правила межсетевого экрана, чтобы блокировать злоумышленников, "
-"обнаруженных сетью сбора Turris."
-
-#: definitions.json
 msgid "Firewall Logs"
 msgstr "Журналы брандмауэра"
 
 #: definitions.json
-msgid "Collect logs from firewall for attempted connections."
-msgstr "Собрать журналы межсетевого экрана о попытках подключения."
-
-#: definitions.json
 msgid "Minipots"
 msgstr "Minipots"
-
-#: definitions.json
-msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr ""
-"Минимальные приманки для ловли злоумышленников по различным протоколам."
-
-#: definitions.json
-msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr ""
-"Приманка SSH с использованием Honeypot в качестве сервиса (haas.nic.cz)."
 
 #: definitions.json
 msgid "Hardening"
@@ -512,6 +471,93 @@ msgstr ""
 #: definitions.json
 msgid "Easy setup of the OpenVPN client and server from Foris."
 msgstr "Простая настройка клиента и сервера OpenVPN из Foris."
+
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+"Программное обеспечение для участия в сборе данных и динамическом "
+"распределенном межсетевом экране."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+"Сбор данных об использовании маршрутизатора (установленные пакеты, тип "
+"подключения к Интернету и т.д.)."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+"Добавить правила межсетевого экрана, чтобы блокировать злоумышленников, "
+"обнаруженных сетью сбора Turris."
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr ""
+"Минимальные приманки для ловли злоумышленников по различным протоколам."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
+"cz)."
+msgstr ""
+"Приманка SSH с использованием Honeypot в качестве сервиса (haas.nic.cz)."
+
+#~ msgid "Data Collection"
+#~ msgstr "Сбор данных"
+
+#~ msgid ""
+#~ "Software for participation in data collection and distributed adaptive "
+#~ "firewall."
+#~ msgstr ""
+#~ "Программное обеспечение для участия в сборе данных и динамическом "
+#~ "распределенном межсетевом экране."
+
+#~ msgid ""
+#~ "Collect data about router usage (installed packages, Internet connection "
+#~ "type and etc.)."
+#~ msgstr ""
+#~ "Сбор данных об использовании маршрутизатора (установленные пакеты, тип "
+#~ "подключения к Интернету и т.д.)."
+
+#~ msgid ""
+#~ "Add firewall rules to block attackers detected by Turris collection "
+#~ "network."
+#~ msgstr ""
+#~ "Добавить правила межсетевого экрана, чтобы блокировать злоумышленников, "
+#~ "обнаруженных сетью сбора Turris."
+
+#~ msgid "Collect logs from firewall for attempted connections."
+#~ msgstr "Собрать журналы межсетевого экрана о попытках подключения."
+
+#~ msgid "Minimal honeypots to catch attackers for various protocols."
+#~ msgstr ""
+#~ "Минимальные приманки для ловли злоумышленников по различным протоколам."
+
+#~ msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
+#~ msgstr ""
+#~ "Приманка SSH с использованием Honeypot в качестве сервиса (haas.nic.cz)."
 
 #~ msgid "Easy setup of the OpenVPN server from Foris."
 #~ msgstr "Простая настройка сервера OpenVPN из Foris."

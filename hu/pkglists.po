@@ -20,10 +20,6 @@ msgid "Extensions of network protocols for 3G/LTE"
 msgstr "A 3G/LTE hálózati protokollok kiterjesztései"
 
 #: definitions.json
-msgid "Data Collection"
-msgstr "Adatgyűjtés"
-
-#: definitions.json
 msgid "DVB tuner"
 msgstr "DVB-tuner"
 
@@ -131,57 +127,20 @@ msgid "Support for Turris Omnia and Turris MOX LTE pack."
 msgstr "A Turris Omnia és a Turris MOX LTE csomag támogatása."
 
 #: definitions.json
-msgid ""
-"Software for participation in data collection and distributed adaptive "
-"firewall."
-msgstr ""
-"Szoftver adatgyűjtésben és dinamikusan frissített tűzfalban való "
-"részvételhez."
-
-#: definitions.json
 msgid "Usage Survey"
 msgstr "Használati felmérés"
-
-#: definitions.json
-msgid ""
-"Collect data about router usage (installed packages, Internet connection "
-"type and etc.)."
-msgstr ""
-"Adatok gyűjtése az útválasztók használatáról (telepített csomagok, "
-"internetkapcsolat típusa stb.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
 msgstr "Dinamikus tűzfal"
 
 #: definitions.json
-msgid ""
-"Add firewall rules to block attackers detected by Turris collection network."
-msgstr ""
-"Tűzfalszabályok hozzáadása a Turris gyűjtőhálózat által észlelt támadók "
-"blokkolásához."
-
-#: definitions.json
 msgid "Firewall Logs"
 msgstr "Tűzfalnaplók"
 
 #: definitions.json
-msgid "Collect logs from firewall for attempted connections."
-msgstr "Kapcsolódási kísérletekkel kapcsolatos tűzfalnaplók gyűjtése."
-
-#: definitions.json
 msgid "Minipots"
 msgstr "Minicsupor"
-
-#: definitions.json
-msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr ""
-"Minimális mézescsupor különböző protokollok elleti támadók elkapásához."
-
-#: definitions.json
-msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr ""
-"SSH mézescsupor, Mézescsupor mint Szolgáltatás (haas.nic.cz) segítségével."
 
 #: definitions.json
 msgid "Hardening"
@@ -512,6 +471,93 @@ msgstr ""
 #, fuzzy
 msgid "Easy setup of the OpenVPN client and server from Foris."
 msgstr "OpenVPN szerver egyszerű beállítása a Foris felahsználói felületen."
+
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+"Szoftver adatgyűjtésben és dinamikusan frissített tűzfalban való "
+"részvételhez."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+"Adatok gyűjtése az útválasztók használatáról (telepített csomagok, "
+"internetkapcsolat típusa stb.)."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+"Tűzfalszabályok hozzáadása a Turris gyűjtőhálózat által észlelt támadók "
+"blokkolásához."
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr ""
+"Minimális mézescsupor különböző protokollok elleti támadók elkapásához."
+
+#: definitions.json
+#, fuzzy
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
+"cz)."
+msgstr ""
+"SSH mézescsupor, Mézescsupor mint Szolgáltatás (haas.nic.cz) segítségével."
+
+#~ msgid "Data Collection"
+#~ msgstr "Adatgyűjtés"
+
+#~ msgid ""
+#~ "Software for participation in data collection and distributed adaptive "
+#~ "firewall."
+#~ msgstr ""
+#~ "Szoftver adatgyűjtésben és dinamikusan frissített tűzfalban való "
+#~ "részvételhez."
+
+#~ msgid ""
+#~ "Collect data about router usage (installed packages, Internet connection "
+#~ "type and etc.)."
+#~ msgstr ""
+#~ "Adatok gyűjtése az útválasztók használatáról (telepített csomagok, "
+#~ "internetkapcsolat típusa stb.)."
+
+#~ msgid ""
+#~ "Add firewall rules to block attackers detected by Turris collection "
+#~ "network."
+#~ msgstr ""
+#~ "Tűzfalszabályok hozzáadása a Turris gyűjtőhálózat által észlelt támadók "
+#~ "blokkolásához."
+
+#~ msgid "Collect logs from firewall for attempted connections."
+#~ msgstr "Kapcsolódási kísérletekkel kapcsolatos tűzfalnaplók gyűjtése."
+
+#~ msgid "Minimal honeypots to catch attackers for various protocols."
+#~ msgstr ""
+#~ "Minimális mézescsupor különböző protokollok elleti támadók elkapásához."
+
+#~ msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
+#~ msgstr ""
+#~ "SSH mézescsupor, Mézescsupor mint Szolgáltatás (haas.nic.cz) segítségével."
 
 #~ msgid "Easy setup of the OpenVPN server from Foris."
 #~ msgstr "OpenVPN szerver egyszerű beállítása a Foris felahsználói felületen."
