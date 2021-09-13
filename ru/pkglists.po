@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-07-03 06:33+0000\n"
+"PO-Revision-Date: 2021-09-14 06:35+0000\n"
 "Last-Translator: Алексей Леньшин <alenshin@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/turris/pkglists/"
 "ru/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -474,55 +474,54 @@ msgstr "Простая настройка клиента и сервера OpenV
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
-msgstr ""
+msgstr "Расширенная безопасность и аналитика - Turris Sentinel"
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Software for participation in threat detection program which provides "
 "distributed adaptive firewall and statistics."
 msgstr ""
-"Программное обеспечение для участия в сборе данных и динамическом "
-"распределенном межсетевом экране."
+"Программное обеспечение для участия в программе обнаружения угроз, "
+"обеспечивающей распределенный адаптивный межсетевой экран и сбор статистики."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Collects data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
-"Сбор данных об использовании маршрутизатора (установленные пакеты, тип "
+"Собирает данные об использовании маршрутизатора (установленные пакеты, тип "
 "подключения к Интернету и т.д.)."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Adds firewall rules to block attackers detected by Turris Sentinel network."
 msgstr ""
-"Добавить правила межсетевого экрана, чтобы блокировать злоумышленников, "
-"обнаруженных сетью сбора Turris."
+"Добавить правила брандмауэра для блокировки злоумышленников, обнаруженных "
+"сетью Turris Sentinel."
 
 #: definitions.json
 msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
+"Инструмент обнаружения угроз. Собирает журналы брандмауэра о неудачных "
+"попытках подключения."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Threat detection tool. Minimal honeypots to catch attackers by mimicking "
 "various protocols."
 msgstr ""
-"Минимальные приманки для ловли злоумышленников по различным протоколам."
+"Инструмент обнаружения угроз. Минимальные приманки для поимки "
+"злоумышленников путем имитации различных протоколов."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
 "cz)."
 msgstr ""
-"Приманка SSH с использованием Honeypot в качестве сервиса (haas.nic.cz)."
+"Инструмент обнаружения угроз. SSH-приманка, использующая приманку как сервис "
+"(haas.nic.cz)."
 
 #~ msgid "Data Collection"
 #~ msgstr "Сбор данных"
