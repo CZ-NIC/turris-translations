@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-08-18 15:35+0000\n"
+"PO-Revision-Date: 2021-09-16 04:35+0000\n"
 "Last-Translator: Lukas Jelinek <lukas.jelinek@nic.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/pkglists/cs/"
 ">\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -462,52 +462,54 @@ msgstr ""
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
-msgstr ""
+msgstr "Pokročilé zabezpečení a analytika – Turris Sentinel"
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Software for participation in threat detection program which provides "
 "distributed adaptive firewall and statistics."
 msgstr ""
-"Software pro účast ve sběru dat a dynamicky distribuovanou bránu firewall."
+"Software pro účast v programu detekce bezpečnostních hrozeb, který poskytuje "
+"distribuovaný adaptivní firewall a statistiky."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Collects data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
-"Sběr dat o užívání routeru (nainstalované balíčky, typ připojení k internetu "
-"a jiné)."
+"Sbírá data o užívání routeru (nainstalované balíčky, typ připojení k "
+"internetu a jiné)."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Adds firewall rules to block attackers detected by Turris Sentinel network."
 msgstr ""
-"Přidává pravidla pro firewall k blokování útočníků zachycených pomocí Turris "
-"sítě pro sběr dat."
+"Přidává pravidla pro firewall k blokování útočníků zachycených pomocí sítě "
+"Turris Sentinel."
 
 #: definitions.json
 msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
+"Nástroj pro detekci bezpečnostních hrozeb. Sbírá záznamy firewallu o "
+"neúspěšných pokusech o připojení."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Threat detection tool. Minimal honeypots to catch attackers by mimicking "
 "various protocols."
-msgstr "Minimální honeypoty zachytávající útočníky na různých protokolech."
+msgstr ""
+"Nástroj pro detekci bezpečnostních hrozeb. Minimální honeypoty zachytávající "
+"útočníky na různých protokolech."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
 "cz)."
-msgstr "SSH honeypot používající Honeypot as a Service (haas.nic.cz)."
+msgstr ""
+"Nástroj pro detekci bezpečnostních hrozeb. SSH honeypot používající Honeypot "
+"as a Service (haas.nic.cz)."
 
 #~ msgid "Data Collection"
 #~ msgstr "Sběr dat"
