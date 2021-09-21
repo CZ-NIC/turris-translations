@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-09-16 04:35+0000\n"
+"PO-Revision-Date: 2021-09-22 16:36+0000\n"
 "Last-Translator: Atec <dr.atec@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/turris/pkglists/"
 "sk/>\n"
@@ -263,7 +263,7 @@ msgstr "Pokročilí užívatelia"
 
 #: labels.json
 msgid "This functionality is usable only for advanced users."
-msgstr "Túto funkcionalita je určená pokročilým užívateľom."
+msgstr "Táto funkcionalita je určená len pokročilým užívateľom."
 
 #: labels.json
 msgid "Community"
@@ -298,7 +298,7 @@ msgid ""
 "This package list and/or software that provides is planned to be removed. It "
 "is advised to not use it."
 msgstr ""
-"Tento zoznam a/alebo softvér sú určené na odstránenie. Použitie sa "
+"Tento zoznam a/alebo software sú určené na odstránenie. Použitie sa "
 "neodporúča."
 
 #: labels.json
@@ -430,7 +430,7 @@ msgid ""
 "common passwords used by robots trapped in Turris honeypots."
 msgstr ""
 "Porovnáva nové heslo, ktoré chcete nastaviť na prístup k routeru, so "
-"zoznamom najčastejších hesiel používaných robotmi zachytenými v honeypotoch "
+"zoznamom najčastejších hesiel používaných robotmi zachytených v honeypotoch "
 "Turris."
 
 #: definitions.json
@@ -466,8 +466,8 @@ msgid ""
 "Software for participation in threat detection program which provides "
 "distributed adaptive firewall and statistics."
 msgstr ""
-"Software na zapojenie sa do programu detekcie hrozieb, ktorý poskytuje "
-"distribuovaný adaptívny firewall a štatistiku."
+"Software na účasť v programe detekcie hrozieb, ktorý poskytuje distribuovaný "
+"adaptívny firewall a štatistiku."
 
 #: definitions.json
 msgid ""
@@ -489,7 +489,7 @@ msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
-"Nástroj na detekciu ohrozenia. Zbiera záznamy firewallu o neúspešných "
+"Nástroj na detekciu ohrozenia. Zhromažďuje záznamy firewallu o neúspešných "
 "pokusoch o pripojenie."
 
 #: definitions.json
