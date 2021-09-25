@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2019-10-19 15:52+0000\n"
-"Last-Translator: Mattias Münster <mattiasmun@gmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/sv/>\n"
+"PO-Revision-Date: 2021-09-26 03:35+0000\n"
+"Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/turris/pkglists/"
+"sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr ""
+msgstr "Dynamisk brandvägg"
 
 #: definitions.json
 msgid "Firewall Logs"
