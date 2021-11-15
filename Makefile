@@ -1,19 +1,28 @@
 MAKEFLAGS += --no-builtin-rules
 
-CASES:=$(shell ls *.pot | sed 's/\.pot//g')
-
-.PHONY: all clean install update
+.PHONY: all
 all:
 	@
 
+.PHONY: clean
 clean:
 	@
 
+.PHONY: install
 install:
 	@
 
+.PHONY: update
 update:
 	@
+
+.PHONY: help
+help:
+	@echo "Top level targets:"
+	@echo "  all: generate *.mo files"
+	@echo "  clean: remove generated *.mo files"
+	@echo "  install: copy *.mo files to $(DESTDIR)/usr/share/locale/"
+	@echo "  update: merge changes from *.pot files to *.po"
 
 
 define CASEDEF_LANG
