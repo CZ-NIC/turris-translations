@@ -508,20 +508,6 @@ msgstr ""
 "Nástroj na detekciu ohrozenia. SSH honeypot s použitím Honeypot as a Service "
 "(haas.nic.cz)."
 
-msgid "Support for additional protocols and connection types."
-msgstr "Podpora pre ďalšie protokoly a typy pripojení."
-
-msgid "Trap for password-guessing robots on SSH."
-msgstr "Pasca na heslá hádajúce roboty na SSH."
-
-msgid "Cloud Backups"
-msgstr "Zálohy v cloude"
-
-msgid ""
-"Service for storing configuration backups on remote servers (EXPERIMENTAL)."
-msgstr ""
-"Služba na uloženie záloh konfigurácie na vzdialené servery (EXPERIMENTÁLNE)."
-
 #~ msgid "Data Collection"
 #~ msgstr "Zber dát"
 
@@ -559,6 +545,9 @@ msgstr ""
 #~ msgid "Easy setup of the OpenVPN server from Foris."
 #~ msgstr "Jednoduché nastavenie klienta a servera OpenVPN z rozhrania Foris."
 
+#~ msgid "Support for additional protocols and connection types."
+#~ msgstr "Podpora pre ďalšie protokoly a typy pripojení."
+
 #, fuzzy
 #~ msgid ""
 #~ "Software for participation in data collection and dynamic distributed "
@@ -574,6 +563,9 @@ msgstr ""
 #, fuzzy
 #~ msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
 #~ msgstr "Software na zistenie nových zariadení v miestnej sieti."
+
+#~ msgid "Trap for password-guessing robots on SSH."
+#~ msgstr "Pasca na heslá hádajúce roboty na SSH."
 
 #, fuzzy
 #~ msgid "Several addional tabs and controls for the advanced LuCI interface."
@@ -601,6 +593,16 @@ msgstr ""
 #~ msgstr ""
 #~ "Serverová časť pre Turris MOX bez microSD karty, ktorý slúži ako Wi-Fi "
 #~ "prístupový bod."
+
+#~ msgid "Cloud Backups"
+#~ msgstr "Zálohy v cloude"
+
+#~ msgid ""
+#~ "Service for storing configuration backups on remote servers "
+#~ "(EXPERIMENTAL)."
+#~ msgstr ""
+#~ "Služba na uloženie záloh konfigurácie na vzdialené servery "
+#~ "(EXPERIMENTÁLNE)."
 
 #~ msgid "Hardening (experimental)"
 #~ msgstr "Posilnenie bezpečnosti (experimentálne)"
