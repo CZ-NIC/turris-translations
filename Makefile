@@ -27,15 +27,23 @@ help:
 
 define CASEDEF_LANG
 
-.PHONY: install-$(1)-$(2) update-$(1)-$(2)
+# The touch in this rule is because msgmerge won't update file if there are no
+# changes and thus won't settle build fully.
+$(2)/$(1).po: $(1).pot
+	msgmerge --backup off --force-po --update "$$@" "$$<"
+	touch "$$@"
 
+.PHONY: update-$(1)-$(2)
+update: update-$(1)
+update-$(1): update-$(1)-$(2)
+update-$(1)-$(2): $(2)/$(1).po
+	msgmerge --backup off --force-po --update "$(2)/$(1).po" "$$<"
+
+.PHONY: install-$(1)-$(2)
+install: install-$(1)
 install-$(1): install-$(1)-$(2)
 install-$(1)-$(2): $(2)/$(1).mo
 	install -D $$< $$(DESTDIR)/usr/share/locale/$$(patsubst %/$(1).mo,%/LC_MESSAGES/$(1).mo,$$<)
-
-update-$(1): update-$(1)-$(2)
-update-$(1)-$(2):
-	msgmerge --backup off --update $(2)/$(1).po $(1).pot
 
 endef
 
@@ -55,12 +63,9 @@ clean: clean-$(1)
 clean-$(1):
 	rm -f $$($(1)_MO)
 
-install: install-$(1)
-update: update-$(1)
 $$(foreach LANG, $$($(1)_LANGS), $$(eval $$(call CASEDEF_LANG,$(1),$$(LANG))))
 
 endef
 
-$(eval $(call CASEDEF,userlists))
 $(eval $(call CASEDEF,pkglists))
 $(eval $(call CASEDEF,user-notify))
