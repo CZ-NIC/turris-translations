@@ -537,9 +537,6 @@ msgid ""
 "cz)."
 msgstr "Pot de miel SSH utilisant Honeypot as a Service (haas.nic.cz)."
 
-msgid "Redesigned Foris is new web interface for Turris routers."
-msgstr ""
-
 #~ msgid "Data Collection"
 #~ msgstr "Collecte de données"
 

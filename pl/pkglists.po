@@ -475,31 +475,18 @@ msgid ""
 "cz)."
 msgstr ""
 
-msgid ""
-"Collect data about router usage (installed packages, Internet connection "
-"type and etc.)."
+msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
 msgstr ""
 
 msgid ""
-"Add firewall rules to block attackers detected by Turris collection network."
+"Self-hosted files hosting and productivity platform that keeps you in "
+"control. Alternative to services such as Dropbox or Google Drive. "
+"(EXPERIMENTAL)"
 msgstr ""
 
-msgid "Collect logs from firewall for attempted connections."
-msgstr ""
-
-msgid "Minimal honeypots to catch attackers for various protocols."
-msgstr ""
-
-msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-msgstr ""
-
-msgid "Hardening (experimental)"
-msgstr ""
-
-msgid "reForis (experimental)"
-msgstr ""
-
-msgid "Redesigned Foris is new web interface for Turris routers."
+msgid ""
+"Server side for Turris MOX without SD card used as Wi-Fi access point. "
+"(EXPERIMENTAL)"
 msgstr ""
 
 #~ msgid "Data Collection"
